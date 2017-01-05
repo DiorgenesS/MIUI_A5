@@ -2,7 +2,7 @@
 # Makefile for Samsumg A5 (A500M)
 #
 
-PORT_PRODUCT = a5lte
+PORT_PRODUCT = a5lte_global
 
 # The original zip file, MUST be specified by each product
 local-zip-file     := stockrom.zip
