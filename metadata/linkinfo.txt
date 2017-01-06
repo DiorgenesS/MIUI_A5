@@ -113,7 +113,7 @@ firmware/image/tz_ccm.mdt|/system/etc/firmware/tz_ccm.mdt
 firmware/image/tz_otp.b00|/system/etc/firmware/tz_otp.b00
 firmware/image/tz_otp.b01|/system/etc/firmware/tz_otp.b01
 firmware/image/tz_otp.b02|/system/etc/firmware/tz_otp.b02
-firmware/image/tz_otp.b02|/system/etc/firmware/tz_otp.b03
+firmware/image/tz_otp.b03|/system/etc/firmware/tz_otp.b03
 firmware/image/tz_otp.mdt|/system/etc/firmware/tz_otp.mdt
 firmware/image/wcnss.b00|/system/etc/firmware/wcnss.b00
 firmware/image/wcnss.b01|/system/etc/firmware/wcnss.b01
