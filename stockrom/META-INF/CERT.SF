@@ -1,0 +1,5250 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: MpqhqbpCXJyaDh6Kd3qeuWs5CSU=
+Created-By: 1.0 (Android SignApk)
+
+Name: system/lib/libnativebridge.so
+SHA1-Digest-Manifest: WhcxN1T40OzqF4WoS//9BquU56M=
+
+Name: system/framework/am.jar
+SHA1-Digest-Manifest: YHpGAFvtjqHbMdsevXG1bE1YigA=
+
+Name: system/lib/libchromatix_imx135_common_res0.so
+SHA1-Digest-Manifest: fNhYFp4pSTiicrxC82TzQuKOfNI=
+
+Name: system/etc/nano/java.nanorc
+SHA1-Digest-Manifest: ypezuVcBgfdE5SOhKIeLpulXh5s=
+
+Name: system/bin/ssr_diag
+SHA1-Digest-Manifest: nIyJVmItzKRYXWw0rxzjaSI7EEc=
+
+Name: system/lib/soundfx/libbundlewrapper.so
+SHA1-Digest-Manifest: N9ClGA2Q8Zvs1Z+UvBTfIUyoDzQ=
+
+Name: system/lib/libsamsungVoipResampler.so
+SHA1-Digest-Manifest: 1W6w4a/NpU8Z9bAlzaD8WAYn8Ns=
+
+Name: system/media/audio/ui/KeypressReturn.ogg
+SHA1-Digest-Manifest: br7zxbHhNjyMK4HA0iM7/c88yPk=
+
+Name: system/fonts/NotoSansLaoUI-Regular.ttf
+SHA1-Digest-Manifest: V6kaoAQKCvLyXA+Pc3uf7mWzrOs=
+
+Name: system/priv-app/Dialer/Dialer.apk
+SHA1-Digest-Manifest: SN4CVY7Sd/XlulVhgaxTcROC+3A=
+
+Name: system/etc/security/cacerts/76579174.0
+SHA1-Digest-Manifest: HrsedAKTaDaL4dj+STSn0tG2F3M=
+
+Name: system/media/audio/ringtones/BentleyDubs.ogg
+SHA1-Digest-Manifest: EJXHjT4q7bkBEuiZruNG4qMzh48=
+
+Name: system/fonts/NotoSansLepcha-Regular.ttf
+SHA1-Digest-Manifest: 62B577gfmb+px4OoRXqb03bCJ+U=
+
+Name: system/lib/libsensorservice.so
+SHA1-Digest-Manifest: CJzMK+ZucEGLUkeJ7f2S8lrC1Tw=
+
+Name: system/bin/pppd
+SHA1-Digest-Manifest: 8/Ixd8xrNZFn8C7ALrckM05JPkQ=
+
+Name: system/tts/lang_pico/fr-FR_ta.bin
+SHA1-Digest-Manifest: xsa/hqJTXz8Rc7l3UTQXz1ikriw=
+
+Name: system/bin/pngtest
+SHA1-Digest-Manifest: nLVDzcSG+6LlVHhLYi/VVH2v4D8=
+
+Name: system/etc/security/cacerts/7a819ef2.0
+SHA1-Digest-Manifest: bTtadGRrFni0in4AcTX4M/dbrOo=
+
+Name: system/usr/keylayout/Vendor_12bd_Product_d015.kl
+SHA1-Digest-Manifest: D5pYlAUKanLsGUXJsYiBvD83aTA=
+
+Name: system/fonts/NotoSansLao-Bold.ttf
+SHA1-Digest-Manifest: o07bVpd2RcDAVi00f3AhTWTkTmQ=
+
+Name: system/framework/content.jar
+SHA1-Digest-Manifest: hEK+q53ZH8rd3nbj4IXDVCdXL+c=
+
+Name: system/lib/libft2.so
+SHA1-Digest-Manifest: apg8Xplvu9ufGhKmLtsZwGf+9Dg=
+
+Name: system/media/audio/notifications/Tethys.ogg
+SHA1-Digest-Manifest: abF3jWSV04Ac3Bj83CceizKBbZE=
+
+Name: system/lib/libLLVM.so
+SHA1-Digest-Manifest: EB9I8kcKP8zflmPqdHgV3P8alWQ=
+
+Name: system/lib/libsoftkeymasterdevice.so
+SHA1-Digest-Manifest: zJ3kj6RxV4Q8K0NnnXT1lx4HDnk=
+
+Name: system/lib/libstagefrighthw.so
+SHA1-Digest-Manifest: CSC2YEEzc4QAXWCyf1DR8j43rq8=
+
+Name: system/media/audio/ringtones/FriendlyGhost.ogg
+SHA1-Digest-Manifest: 9olSawoPWK5zDyrzPiQ5tCvZkdE=
+
+Name: system/lib/libpng.so
+SHA1-Digest-Manifest: GKU2Fixmna6vIE1wTZyihMxPd3E=
+
+Name: system/lib/libc2dcolorconvert.so
+SHA1-Digest-Manifest: 6WTk9QmNtuas0/sUaKeN+uicEOQ=
+
+Name: system/fonts/NotoSansLisu-Regular.ttf
+SHA1-Digest-Manifest: LUIN62kSIJZwMdv8wX4KLiALjU4=
+
+Name: system/lib/libsamsungRecord_zoom.so
+SHA1-Digest-Manifest: vtAZFb5XKyHZcZtwGePW+I2jo2E=
+
+Name: system/lib/soundfx/libldnhncr.so
+SHA1-Digest-Manifest: eEegIBKWvkV6oDqsLgFwJXxU2dc=
+
+Name: system/lib/libprocessgroup.so
+SHA1-Digest-Manifest: VSGZoQyraq1xjxZor4aeXIlrQJo=
+
+Name: system/lib/libebt_pkttype.so
+SHA1-Digest-Manifest: 5uZVnj9ReQMsYMBeItgIBcSpQ1E=
+
+Name: system/lib/libebt_redirect.so
+SHA1-Digest-Manifest: /d/jMmOP9johdye/zWPeEB05b54=
+
+Name: system/media/audio/ui/camera_click.ogg
+SHA1-Digest-Manifest: cfMXYPzxypK1qCiNHkZNnJ3KglM=
+
+Name: system/vendor/lib/libdrmfs.so
+SHA1-Digest-Manifest: zvqBbfgQMMzFWW7CeNe6EPLS6Ik=
+
+Name: system/bin/mkfs.ntfs
+SHA1-Digest-Manifest: bf1kC0oKOF9p2TsDxtkIjWMFINE=
+
+Name: system/lib/libcamera_client.so
+SHA1-Digest-Manifest: Tx3qUhwroDHE2amf7plG8jHmzVw=
+
+Name: system/media/audio/ringtones/InsertCoin.ogg
+SHA1-Digest-Manifest: 05pogKTikcrAOJu55Jk2sos5Dqs=
+
+Name: system/etc/flp.conf
+SHA1-Digest-Manifest: TEn7ZOzdXVfZ+QDEN4xRMDOknqk=
+
+Name: system/usr/share/vim/syntax/lua.vim
+SHA1-Digest-Manifest: DHdZ6kPVXgbApw4c05DH60r4he0=
+
+Name: system/fonts/Roboto-LightItalic.ttf
+SHA1-Digest-Manifest: a3Pjfp37+jyuqFbagXRg2UbJCG4=
+
+Name: system/etc/wifi/WCNSS_qcom_wlan_nv.bin
+SHA1-Digest-Manifest: 2FJGnVyfnXjCmP47KdTX4V3pNOk=
+
+Name: system/media/audio/ringtones/Gimme_Mo_Town.ogg
+SHA1-Digest-Manifest: LNVjQUp8VmYJaHeA2fNsKY2ZIgA=
+
+Name: system/usr/keychars/Virtual.kcm
+SHA1-Digest-Manifest: 1Mx0yi2gNsm/u2C9b/33S14jt2w=
+
+Name: system/vendor/lib/libavcodec.so
+SHA1-Digest-Manifest: /8f/v4A95fl2ottvyPz2LDNaxk4=
+
+Name: system/bin/app_process32
+SHA1-Digest-Manifest: ISXyn+j1f+P9FBrWz80RWmH6mkc=
+
+Name: system/lib/libaudioresampler.so
+SHA1-Digest-Manifest: 5m6R5Cx+FlXqwFRWO2r53bVOp64=
+
+Name: system/fonts/NotoSansOlChiki-Regular.ttf
+SHA1-Digest-Manifest: Af32AYX7kqtbzAaNUhv6FJQhLls=
+
+Name: system/fonts/NotoSansNewTaiLue-Regular.ttf
+SHA1-Digest-Manifest: cqWo+vtWM+/rNhO8FOacRyr14EY=
+
+Name: system/app/LiveWallpapers/LiveWallpapers.apk
+SHA1-Digest-Manifest: kw7r8pjavK18wYpULORX0CB5ELo=
+
+Name: system/fonts/NotoSerif-Bold.ttf
+SHA1-Digest-Manifest: e59sb5Ml2IDsNFiU/X6sTvdx4Ck=
+
+Name: system/fonts/NotoSansMongolian-Regular.ttf
+SHA1-Digest-Manifest: HL26uTa1q/ATbwG+Mp3y7dCZmYU=
+
+Name: system/etc/permissions/org.cyanogenmod.telephony.xml
+SHA1-Digest-Manifest: 4XmqGIavpPmhSlDMeuTyGyo3OSs=
+
+Name: system/lib/libatparser.so
+SHA1-Digest-Manifest: 9Kg0ihyGgaJ7Yg7xtwm4YYg3dNY=
+
+Name: system/framework/services.jar
+SHA1-Digest-Manifest: nVJeNyUm4AZ16lSQM8AJEQKL3QY=
+
+Name: system/etc/security/cacerts/75680d2e.0
+SHA1-Digest-Manifest: 5za7k5knjk445zG4LNNqGWK0Kd4=
+
+Name: system/media/audio/notifications/Rubidium.ogg
+SHA1-Digest-Manifest: 8yrjz91z5e/eBaJp19dj4dQn9JA=
+
+Name: system/fonts/NotoSansGurmukhiUI-Regular.ttf
+SHA1-Digest-Manifest: uOZuFFEeEv7gdwIUSsR7yS0yha0=
+
+Name: system/lib/libext2_blkid.so
+SHA1-Digest-Manifest: xD+37eq+6P6LeoGpWJzqh3nsc70=
+
+Name: system/etc/media_codecs_ffmpeg.xml
+SHA1-Digest-Manifest: 7tNn4PHpbVDa+kNMPdZehBAxOKs=
+
+Name: system/bin/atrace
+SHA1-Digest-Manifest: TTloh2KezC38nxlJdeHAKtTcVBw=
+
+Name: system/usr/keylayout/Vendor_1689_Product_fd00.kl
+SHA1-Digest-Manifest: xaACjQl/+jPMW1fPmCrA2vEDTkw=
+
+Name: system/lib/libprintspooler_jni.so
+SHA1-Digest-Manifest: bLs4kBB4WBfqcXJptkmmVe6Yr4s=
+
+Name: system/vendor/lib/libmmcamera2_is.so
+SHA1-Digest-Manifest: x77sTN6hStogxYLrwSPVoTg4LPA=
+
+Name: system/etc/security/cacerts/ed524cf5.0
+SHA1-Digest-Manifest: iRr4IVLvxWA7OPmrsjsfPhF+nE0=
+
+Name: system/framework/ethernet-service.jar
+SHA1-Digest-Manifest: A0rI5fBkL4qfFJq4Zi2pcuIbris=
+
+Name: system/priv-app/DataUsageProvider/DataUsageProvider.apk
+SHA1-Digest-Manifest: qbzb7+I27j1XTj49NcwUMMvALOw=
+
+Name: system/lib/hw/audio_policy.default.so
+SHA1-Digest-Manifest: cro3Mm1z4M+AIhtB5YkZdCkQw10=
+
+Name: system/lib/libchromatix_imx135_common_1080p_s.so
+SHA1-Digest-Manifest: 2ig+tUAC/PHOAjaUjyzboN/dITo=
+
+Name: system/fonts/Roboto-Italic.ttf
+SHA1-Digest-Manifest: AXqlN7pQHyXcJVAn1jLNtl1+iTA=
+
+Name: system/lib/lib_SamsungVAD_v01007.so
+SHA1-Digest-Manifest: fCnZRfhfqDTNtd2C5YALPObxWRM=
+
+Name: system/lib/libjni_terminal.so
+SHA1-Digest-Manifest: PiAXFoazwVYQ5Y010TKq6DZ+eb4=
+
+Name: system/media/audio/notifications/regulus.ogg
+SHA1-Digest-Manifest: gTmgrHb/ic30F6zXFjA41/l40sE=
+
+Name: system/bin/dumpstate
+SHA1-Digest-Manifest: nIcxAHBG270Vt16PvqPx6PJ4gvo=
+
+Name: system/vendor/lib/egl/libRBGLESv1_CM_adreno.so
+SHA1-Digest-Manifest: TpWOEYmDBAAOrUH2RDD1b8y/m7w=
+
+Name: system/lib/libcameraservice.so
+SHA1-Digest-Manifest: aWj72kRoUaolVt+p50Op2LFZmJI=
+
+Name: system/etc/terminfo/p/pcansi
+SHA1-Digest-Manifest: pHS/HG43nSJDv+zArfKmxbNTauI=
+
+Name: system/bin/btnvtool
+SHA1-Digest-Manifest: JYFmkvtTWj9hmQk7oQo/6e3/FS4=
+
+Name: system/lib/libc.so
+SHA1-Digest-Manifest: 6gtGCLU319x1nK7czYWwnWFWVYk=
+
+Name: system/lib/libsoundpool.so
+SHA1-Digest-Manifest: 4oAvsolnGXvkRx3fWpWX9d80+RI=
+
+Name: system/usr/share/vim/syntax/help.vim
+SHA1-Digest-Manifest: H1vkcNJ3OGxdy/iD1cpEhpoz/X4=
+
+Name: system/etc/security/cacerts/69105f4f.0
+SHA1-Digest-Manifest: S9mPzTjK9l8htEJe93Uvc/rARwc=
+
+Name: system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf
+SHA1-Digest-Manifest: C/nRBji3dsxSxzn/Vd8r4QRbTmA=
+
+Name: system/lib/libssl.so
+SHA1-Digest-Manifest: 8orlNTT/mZa8xPvSe7Qy0ItJH4Y=
+
+Name: system/bin/fm_qsoc_patches
+SHA1-Digest-Manifest: v2kPHmCDw5J06LG/EZewdYPl+/0=
+
+Name: system/bin/loc_launcher
+SHA1-Digest-Manifest: 8TXtrqbpVsb8HKKdJTFnzqOkz0s=
+
+Name: system/framework/com.dsi.ant.antradio_library.jar
+SHA1-Digest-Manifest: XfA1l7UVNDXgljAg5QvSw0tKFHQ=
+
+Name: system/etc/firmware/a300_pfp.fw
+SHA1-Digest-Manifest: pH7SOSDvT0+QoaQLwmjMzdNEEpE=
+
+Name: system/lib/libgabi++.so
+SHA1-Digest-Manifest: rc8xtemJUk47Ajjv08/YB8kj5xA=
+
+Name: system/vendor/lib/libmmcamera2_iface_modules.so
+SHA1-Digest-Manifest: dGRiicfW8Wb1dvCDfLY+7I2mEY8=
+
+Name: system/app/Gello/Gello.apk
+SHA1-Digest-Manifest: Bi7FIn7+4ZLthEkTGkG3JS28Z7o=
+
+Name: system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+SHA1-Digest-Manifest: hC35+E9Z4pcuxYhSDha2D74ipDY=
+
+Name: system/etc/sysconfig/backup.xml
+SHA1-Digest-Manifest: xMLJGrkmf5of5YKGOW6KUcp1dgQ=
+
+Name: system/lib/libncurses.so
+SHA1-Digest-Manifest: FTCrOmrF9skXwJDyRI7wvDNzvkI=
+
+Name: system/lib/libstagefright_httplive.so
+SHA1-Digest-Manifest: B9Vw5Ho5un6Ox/ZRymrHG4Nbp8M=
+
+Name: system/etc/security/cacerts/5a250ea7.0
+SHA1-Digest-Manifest: 97L1T+NK+rPxJz4sWQzU4gsZnTo=
+
+Name: system/lib/libfactoryutil.so
+SHA1-Digest-Manifest: iQBB7ZblvrSSYB/0jh0b3Ihe4Rg=
+
+Name: system/lib/libebt_ulog.so
+SHA1-Digest-Manifest: EmMxL1mq2UGiWpK6HYrRi39MPpI=
+
+Name: system/tts/lang_pico/en-US_ta.bin
+SHA1-Digest-Manifest: qjfJmQkRg0R5S9AWs1TxY8Dz5+s=
+
+Name: system/etc/security/cacerts/1dac3003.0
+SHA1-Digest-Manifest: 66lIqMMKuy3evfVUuA3aSzU/VfI=
+
+Name: system/tts/lang_pico/it-IT_ta.bin
+SHA1-Digest-Manifest: t4tHCovvvrsnb4fc09cpVofPZOk=
+
+Name: system/lib/libmmcamera_cac2_lib.so
+SHA1-Digest-Manifest: tL4fljvmdvPJk5nFOd8vwh9WmsY=
+
+Name: system/recovery-from-boot.p
+SHA1-Digest-Manifest: f+Q0SZm9KyPptZlGDDOVciStv+s=
+
+Name: system/lib/content-types.properties
+SHA1-Digest-Manifest: XC6vnBQRLeJpVo1DO7/7P3j2XZ0=
+
+Name: system/usr/share/vim/syntax/css.vim
+SHA1-Digest-Manifest: MNxtpa90SaptfUt09FwtLbQPlmk=
+
+Name: system/media/audio/ringtones/Sedna.ogg
+SHA1-Digest-Manifest: bDge1qHeqatroncJLj3OfattEPI=
+
+Name: system/fonts/NotoSansMalayalam-Regular.ttf
+SHA1-Digest-Manifest: VtNK1jHaR4GI/QOON7ur2kkD3z4=
+
+Name: system/vendor/lib/libmmcamera_faceproc.so
+SHA1-Digest-Manifest: cDuEFoqgZnG3J4JTg/qMzYk7Ffc=
+
+Name: system/lib/libmtp.so
+SHA1-Digest-Manifest: ciy+rsHZQAdOTT2TfzjeDdZjlwU=
+
+Name: system/lib/libstagefright_soft_aacdec.so
+SHA1-Digest-Manifest: Y9ikJ50Aq4Uo7kbmWAGsZFiZpnw=
+
+Name: system/fonts/NotoSansSaurashtra-Regular.ttf
+SHA1-Digest-Manifest: EmW6edip2HACLwuj+jysYRbPzgE=
+
+Name: system/lib/libhidcommand_jni.so
+SHA1-Digest-Manifest: DRVpmaXM53vavjrncWBg2DdLhBM=
+
+Name: system/vendor/lib/libavformat.so
+SHA1-Digest-Manifest: 0TkSkIy3nwj6YZZ+jHlpNjnCy4U=
+
+Name: system/build.prop
+SHA1-Digest-Manifest: MLqJgBYQwTlRVjVyKN53uy8/5C8=
+
+Name: system/fonts/NotoSansGujaratiUI-Regular.ttf
+SHA1-Digest-Manifest: UtWNJsoISnLAjB1tW40XPplNQuc=
+
+Name: system/xbin/unzip
+SHA1-Digest-Manifest: 0kLQMstjmAv3V4f4HpQqnpOh5RU=
+
+Name: system/fonts/NotoSansMalayalamUI-Bold.ttf
+SHA1-Digest-Manifest: nZgt5Q4d65bQiE2liEs7RF5rcX0=
+
+Name: system/fonts/NotoSansGeorgian-Bold.ttf
+SHA1-Digest-Manifest: KU5XZ38OFdPz1//mCvJs9lnvsYI=
+
+Name: system/media/audio/ringtones/Sheep.mp3
+SHA1-Digest-Manifest: qXVQ6eBdplwERijkPS+q8x5URJg=
+
+Name: system/media/audio/ringtones/GameOverGuitar.ogg
+SHA1-Digest-Manifest: pDKBGPXc21/dqtWj8jjS30H/UjY=
+
+Name: system/vendor/lib/librs_adreno.so
+SHA1-Digest-Manifest: l3ycpXS0c43tBQYHdZ8VMt9W8AU=
+
+Name: system/etc/security/cacerts/7d453d8f.0
+SHA1-Digest-Manifest: n9u35uvrzl9rpqoQgXZPsy/o8Mo=
+
+Name: system/usr/share/zoneinfo/tzdata
+SHA1-Digest-Manifest: lfDFUmHvlmOZg7ZojoyCwAVLdsg=
+
+Name: system/lib/libRSDriver.so
+SHA1-Digest-Manifest: 1fPJ2b3ftVLvHAS7dCdfpZSXY1M=
+
+Name: system/framework/com.android.mediadrm.signer.jar
+SHA1-Digest-Manifest: NJZiEtMcPWMWgKEsUrYKOWQjmKQ=
+
+Name: system/vendor/lib/libqomx_jpegenc.so
+SHA1-Digest-Manifest: 2DEmRt5TXAop1AkCTAIJuRbRXA4=
+
+Name: system/media/audio/notifications/Zirconium.ogg
+SHA1-Digest-Manifest: CaK/jcuzJhuvtunYSKai0mNqW6Q=
+
+Name: system/etc/nano/php.nanorc
+SHA1-Digest-Manifest: e9HIyk3gOCyiV7Qb9Smhdn+dSL8=
+
+Name: system/lib/modules/dma_test.ko
+SHA1-Digest-Manifest: l474nD/p1YaUDSN5lOjxhgP5YCk=
+
+Name: system/media/audio/notifications/Procyon.ogg
+SHA1-Digest-Manifest: NbWn32tbUT5tPK13LJEG/L9pCbg=
+
+Name: system/media/audio/ringtones/Machina.ogg
+SHA1-Digest-Manifest: iIPvhTGmmQavRFfBmQK60aUckOA=
+
+Name: system/etc/permissions/org.cyanogenmod.livedisplay.xml
+SHA1-Digest-Manifest: Q5KtExHb260oWlGY9cZDC2uPUyE=
+
+Name: system/usr/keylayout/Vendor_0b05_Product_4500.kl
+SHA1-Digest-Manifest: NYqTPjDG4tGXDTZltfOilIXLILo=
+
+Name: system/etc/security/cacerts/f61bff45.0
+SHA1-Digest-Manifest: A458yIhHja3afSAvO8m1yzgtxuw=
+
+Name: system/fonts/NotoSansBuhid-Regular.ttf
+SHA1-Digest-Manifest: IL/yuCfT8Lx7ZOjCeYhEOdyBzh8=
+
+Name: system/priv-app/AudioFX/AudioFX.apk
+SHA1-Digest-Manifest: naYvnb/UFY0+f5aXF7t/EsWz+QI=
+
+Name: system/priv-app/PackageInstaller/PackageInstaller.apk
+SHA1-Digest-Manifest: 85RCTG+0EJ1ETxknVPeLr11KvdY=
+
+Name: system/media/audio/ui/Lock.ogg
+SHA1-Digest-Manifest: dziXib8wUiWa+cw9mVAlwWPUX9Q=
+
+Name: system/media/audio/notifications/Gallium.ogg
+SHA1-Digest-Manifest: CuSZN8YvB/z6gauKtInQOCAfq5k=
+
+Name: system/bin/appops
+SHA1-Digest-Manifest: rzRO73g5c7ByaegiCYr8rC5+Go8=
+
+Name: system/vendor/lib/libgsl.so
+SHA1-Digest-Manifest: 1z4wb1leKh/JsD5ZvLidl9q6ffU=
+
+Name: system/etc/bluetooth/bt_stack.conf
+SHA1-Digest-Manifest: pyr30JEORQ5rLCsc0ltKnYL7aAE=
+
+Name: system/lib/libmedia_jni.so
+SHA1-Digest-Manifest: QWHoRAfDu4md32ZebP8dXMfqAXA=
+
+Name: system/fonts/NotoSansBuginese-Regular.ttf
+SHA1-Digest-Manifest: NxkQroQlsvxOJyrduVecNJVhzJM=
+
+Name: system/vendor/lib/libssd.so
+SHA1-Digest-Manifest: 1IMVaUH6avTj0DOZM3Iv7Go99Es=
+
+Name: system/framework/monkey.jar
+SHA1-Digest-Manifest: 1FWp4PAHkVzhd2yRXGPd4TJwXXs=
+
+Name: system/xbin/taskstats
+SHA1-Digest-Manifest: ynjqlA9lma9owGcqj2SEa6QpHts=
+
+Name: system/media/audio/notifications/Upsilon.ogg
+SHA1-Digest-Manifest: 0xRg1iAo2vdE07toxCpysUkgTDw=
+
+Name: system/bin/logpersist.start
+SHA1-Digest-Manifest: M7xP1/F6RrygGaTEtdtvmcfJ/9I=
+
+Name: system/framework/qcom.fmradio.jar
+SHA1-Digest-Manifest: 2qqzKWeuCdJn48hFqvuYAy9jjwU=
+
+Name: system/lib/libtfa9895.so
+SHA1-Digest-Manifest: ScWP/UvTnAPjQzDOSAdcaDRm27c=
+
+Name: system/lib/libext2_profile.so
+SHA1-Digest-Manifest: SZCc5mKiloSAKzofaq6+IEzDSUM=
+
+Name: system/media/audio/ringtones/CrazyDream.ogg
+SHA1-Digest-Manifest: eX9VX7eX3PDq9cKX6PZR7FOMM/U=
+
+Name: system/etc/security/cacerts/6fcc125d.0
+SHA1-Digest-Manifest: pbF4+GDCiDFvnmrTL6QHUiBSyTA=
+
+Name: system/bin/toybox
+SHA1-Digest-Manifest: w7Qr8zAU9Bvl4MTH/rCoYN1msjs=
+
+Name: system/vendor/lib/libdiag.so
+SHA1-Digest-Manifest: xcMkkp5ijKtvzQYYW3yc0CnuX1k=
+
+Name: system/bin/brctl
+SHA1-Digest-Manifest: LjQvMciVQaZYIXOpWDB1jqIIUkk=
+
+Name: system/bin/subsystem_ramdump
+SHA1-Digest-Manifest: Z+OfgiFiF8rfhhf3pSY2yPmh6Vo=
+
+Name: system/lib/hw/bluetooth.default.so
+SHA1-Digest-Manifest: sXEdCv/Uo/4ym97WnGu7OvUMYNY=
+
+Name: system/lib/libaudiopolicyservice.so
+SHA1-Digest-Manifest: AxPQKMfWq/OFIfdHbYl/rZPbjvc=
+
+Name: system/media/audio/notifications/Beat_Box_Android.ogg
+SHA1-Digest-Manifest: PBPG5zWv1R3pjQwtzRQ+VSNghf0=
+
+Name: system/lib/libnativehelper.so
+SHA1-Digest-Manifest: /JYA13VMmgATAjzjxhUrDIjUxMs=
+
+Name: system/bin/monkey
+SHA1-Digest-Manifest: WfWmGLdcQp2C3BlQ/nd56hRSN4M=
+
+Name: system/bin/dhcpcd
+SHA1-Digest-Manifest: yijgX5GBFFPT930KMgfk7n+vHMs=
+
+Name: system/bin/svc
+SHA1-Digest-Manifest: /1od6413nm4+hNXDHR4zepttND8=
+
+Name: system/media/audio/notifications/Plastic_Pipe.ogg
+SHA1-Digest-Manifest: 3O4wLzXogChzd65Qlmygs6OzuSI=
+
+Name: system/xbin/micro_bench_static
+SHA1-Digest-Manifest: FCUMkavwWzWNkuCbYMcG+ywu/fg=
+
+Name: system/media/audio/ringtones/FreeFlight.ogg
+SHA1-Digest-Manifest: 0q8kCIw7qMnJUaF8q1t3Eo3GAGs=
+
+Name: system/bin/requestsync
+SHA1-Digest-Manifest: XkE8EJuMNX9lldXnHHdHoskUaeE=
+
+Name: system/lib/libicuuc.so
+SHA1-Digest-Manifest: jvaGSclkAOtHE9HLgiKIF8aM4wM=
+
+Name: system/media/audio/ringtones/Savannah.ogg
+SHA1-Digest-Manifest: dOXGuw/jPc8JmclsyvuOnvJ/U4E=
+
+Name: system/fonts/NotoSansKhmerUI-Bold.ttf
+SHA1-Digest-Manifest: 8vnx+ZsJ766gCOZ0LftY6rAtOAs=
+
+Name: system/media/audio/ringtones/Thunderfoot.ogg
+SHA1-Digest-Manifest: 07gOIhFF6ls39/dfjISgPQGu2cQ=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_vt_hd.so
+SHA1-Digest-Manifest: DJh2qvEimXAlOuo5qY3bRc9HOcA=
+
+Name: system/vendor/lib/libfastcvopt.so
+SHA1-Digest-Manifest: NUiVLr9SIGGWrXiVHQ6VGSPKbjU=
+
+Name: system/etc/security/cacerts/fb126c6d.0
+SHA1-Digest-Manifest: /ibaWKi9gTbJTuI1u14tlWynMck=
+
+Name: system/lib/libexfat.so
+SHA1-Digest-Manifest: HGtgr/5zlkzq247GTeyGj9382qs=
+
+Name: system/lib/libaudioflinger.so
+SHA1-Digest-Manifest: piKn29wFGXVyBrXAHHnwTUWmzDI=
+
+Name: system/media/audio/notifications/Hojus.ogg
+SHA1-Digest-Manifest: 19TUZIZI/eJ2TdOlR1slPdtL3uI=
+
+Name: system/bin/netd
+SHA1-Digest-Manifest: hDoZh1cmFOHlDYO45W9mw0t5OQc=
+
+Name: system/lib/libantradio.so
+SHA1-Digest-Manifest: 6KDTIvST9pjgm1QXUa8aTD41kZ4=
+
+Name: system/bin/ssh
+SHA1-Digest-Manifest: axrBYeqMCqNLhoNVS8XUjFE8u4E=
+
+Name: system/media/audio/ringtones/BOOTES.ogg
+SHA1-Digest-Manifest: ZjJ5EZ8DSLf7HiGoMNkr6ufv3ng=
+
+Name: system/lib/hw/camera.vendor.msm8916.so
+SHA1-Digest-Manifest: 9V8ezckePdw/du8nPD6QQRzFU0U=
+
+Name: system/lib/libcordon.so
+SHA1-Digest-Manifest: vjEKk8etQD2hIsgvY+ThtafXDq0=
+
+Name: system/priv-app/TelephonyProvider/TelephonyProvider.apk
+SHA1-Digest-Manifest: NfbjL8SGqylPKdkBRaz7yHkO4M4=
+
+Name: system/fonts/Roboto-Light.ttf
+SHA1-Digest-Manifest: grGdSUCmCkKgQ9HUfTuvNx9CgRg=
+
+Name: system/etc/B05QL_s5k5e3yx_module_info.xml
+SHA1-Digest-Manifest: bqyfOMEXqZcUGq/a1pP8u8LAmSo=
+
+Name: system/vendor/bin/perfd
+SHA1-Digest-Manifest: dqDPOHnLOSyFB3e7luiogGkpbFU=
+
+Name: system/priv-app/SystemUI/SystemUI.apk
+SHA1-Digest-Manifest: hAK7Ewq+7dWAcwZtxqdyVDGek/k=
+
+Name: system/media/audio/notifications/Ceres.ogg
+SHA1-Digest-Manifest: IAkEe5aKJxH3QlHoZvk+pHSwQ40=
+
+Name: system/etc/Tfa9895.cnt
+SHA1-Digest-Manifest: V3Gocya0OkFBeVS5A+23XIkH3CE=
+
+Name: system/bin/tinypcminfo
+SHA1-Digest-Manifest: BBcj5KV3N3DWoOY4lTya0O8PbbE=
+
+Name: system/etc/security/cacerts/1e1eab7c.0
+SHA1-Digest-Manifest: +gnNS4J7O8TW3U9fNvgt/7VitYc=
+
+Name: system/media/audio/ringtones/Steppin_Out.ogg
+SHA1-Digest-Manifest: 8Kxwq5Q0tcw54LWcnM/E97uQQNo=
+
+Name: system/lib/libbase.so
+SHA1-Digest-Manifest: Q96aquQD6Vqvz7JiRvoztRj3Fjs=
+
+Name: system/usr/share/vim/doc/tags
+SHA1-Digest-Manifest: qgwXSLrbfF1b5R9egwYz7NtxtCM=
+
+Name: system/lib/liblogwrap.so
+SHA1-Digest-Manifest: xvG/wBFsRhjRrF96DtDqMvMgktU=
+
+Name: system/etc/permissions/android.hardware.sensor.proximity.xml
+SHA1-Digest-Manifest: XnS+P6QtWXi//4uZhn9zCGLFAOk=
+
+Name: system/etc/terminfo/s/screen-bce
+SHA1-Digest-Manifest: CiLjf9nOoF9dPl84M3k54YdUSxc=
+
+Name: system/vendor/lib/libmmcamera_imglib.so
+SHA1-Digest-Manifest: manZLo9z5UPvEkEDjkrzweQiZ2k=
+
+Name: system/bin/dnsmasq
+SHA1-Digest-Manifest: 5GRowgxOMjvyxnDR4Xq4/db74uA=
+
+Name: system/lib/libebt_among.so
+SHA1-Digest-Manifest: Juy+p/wO87XgIpLacND/W5u26Z4=
+
+Name: system/lib/libfilterfw.so
+SHA1-Digest-Manifest: wKOD+LaVt3fEdinUuxqhFm73ouQ=
+
+Name: system/etc/security/cacerts/ccc52f49.0
+SHA1-Digest-Manifest: BhbiT9f0Uggl2ywHMFysMjiC4L4=
+
+Name: system/etc/terminfo/m/mach-bold
+SHA1-Digest-Manifest: Z41861gYWbDgsHMqNJDjsO2BOHY=
+
+Name: system/media/audio/notifications/Iridium.ogg
+SHA1-Digest-Manifest: DU9VigzfsaBvoojPYEv6XE4VY78=
+
+Name: system/etc/permissions/com.android.location.provider.xml
+SHA1-Digest-Manifest: amS9x3HUOepZjI/MyRzFmoDrRd0=
+
+Name: system/fonts/NotoNaskhArabicUI-Regular.ttf
+SHA1-Digest-Manifest: 3+/VQ/sOEPZKvcazyvCDIVZhPJc=
+
+Name: system/bin/start-ssh
+SHA1-Digest-Manifest: sWwBTS4sOfUxR0hKgaQxs35VC0Y=
+
+Name: system/lib/libinput.so
+SHA1-Digest-Manifest: d6/Ga/pLjAUSh+4dXJd8lnPM8rE=
+
+Name: system/etc/security/cacerts/cb156124.0
+SHA1-Digest-Manifest: aAHlSbjOrxSwUR5F1bKlDEmAme8=
+
+Name: system/etc/wifi/wpa_supplicant.conf
+SHA1-Digest-Manifest: OeP36IugdfkI2YlqRnJOC75wyco=
+
+Name: system/media/audio/notifications/Merope.ogg
+SHA1-Digest-Manifest: NJMO8M+Gc2cB+/CREvFtm2hSHhg=
+
+Name: system/lib/libdefcontainer_jni.so
+SHA1-Digest-Manifest: yI16uU5BYEWMegJkuW13olCjDq8=
+
+Name: system/bin/linker
+SHA1-Digest-Manifest: uwa5ZP54/skB9bASgNow7MCGYAo=
+
+Name: system/lib/libloc_api_v02.so
+SHA1-Digest-Manifest: wjDJF0/vQgeWvTww88kSF0KmfKs=
+
+Name: system/lib/libstagefright.so
+SHA1-Digest-Manifest: 5jo6MeO1e3ruYOZ6i8QQ6JmSj6Q=
+
+Name: system/lib/libaec_algo_rear.so
+SHA1-Digest-Manifest: 4L6PWk+B47w08S9X7qRWIcCiBCg=
+
+Name: system/lib/libjni_eglfence.so
+SHA1-Digest-Manifest: sPWPUgih2LIrLS9dS+KItUPZ/TQ=
+
+Name: system/etc/security/cacerts/219d9499.0
+SHA1-Digest-Manifest: 1wIfEsFU8ibrS3t1TphvXd2E5BY=
+
+Name: system/lib/libaudioutils.so
+SHA1-Digest-Manifest: 9y9tDiS415W3fBmm2f7XSOoJwcc=
+
+Name: system/bin/mount.exfat
+SHA1-Digest-Manifest: iM06xSlPuYxOShsHkNvp/Tx/7tI=
+
+Name: system/lib/libsec-ril-dsds.so
+SHA1-Digest-Manifest: BrBALySYaln8SgxnFKebF0ZDOV0=
+
+Name: system/app/LockClock/LockClock.apk
+SHA1-Digest-Manifest: Pw6LesN02aSmfu0KM6TJYbsZbns=
+
+Name: system/bin/blkid
+SHA1-Digest-Manifest: 01mAisj7cSnWrkMVDXIylFGIMMM=
+
+Name: system/etc/security/cacerts/e268a4c5.0
+SHA1-Digest-Manifest: hpsYgerLZvSi0JsUhfR3OtNdhdM=
+
+Name: system/vendor/lib/drm/libdrmwvmplugin.so
+SHA1-Digest-Manifest: rLVYhXLXS/KjNTSYyalg2wjOxes=
+
+Name: system/bin/rfs_access
+SHA1-Digest-Manifest: wGCZImsmH32amGG/oatPmRnYFiU=
+
+Name: system/lib/soundfx/libqcompostprocbundle.so
+SHA1-Digest-Manifest: J/Ay7QuS4Opf3B/ZS6LYmHCxS0k=
+
+Name: system/bin/rild
+SHA1-Digest-Manifest: 0fkSBpOAX6mn0ajHenzd2H0kVCI=
+
+Name: system/xbin/unrar
+SHA1-Digest-Manifest: yYAq2XJlHrFvW2EfUAEwR/lIOcY=
+
+Name: system/lib/soundfx/libdownmix.so
+SHA1-Digest-Manifest: 9UQ1sRUq6OJGVGaBKAB/iWSs6Kk=
+
+Name: system/etc/security/cacerts/35105088.0
+SHA1-Digest-Manifest: ukEJQ8ud7DYpHN3IEpLi0bBef1k=
+
+Name: system/vendor/lib/libRSDriver_adreno.so
+SHA1-Digest-Manifest: l+wE7G+69cdASDj1rNYKIa9aWAY=
+
+Name: system/lib/hw/sensors.msm8916.so
+SHA1-Digest-Manifest: oN2P9JNWO/ckZJDxibhXl9x/tlA=
+
+Name: system/lib/libfuse.so
+SHA1-Digest-Manifest: cZqM9yov9N8/oXoFWDkG+KQK2is=
+
+Name: system/lib/libtime_genoff.so
+SHA1-Digest-Manifest: uRwU04KBACkP+ubd76siI4T7mTU=
+
+Name: system/bin/ip
+SHA1-Digest-Manifest: wEa7CHAT8aTDrZS9G6nQa/zn1Zo=
+
+Name: system/lib/libstagefright_enc_common.so
+SHA1-Digest-Manifest: ak0k6qmKkvttuVun0AAPVerIgtA=
+
+Name: system/usr/share/vim/indoff.vim
+SHA1-Digest-Manifest: xhesTiD2VjPFmCPrOBWbsCuYdEw=
+
+Name: system/bin/gatekeeperd
+SHA1-Digest-Manifest: 0EbAC2LmZ4NhAsNQ9T+xHTVKBIg=
+
+Name: system/media/audio/notifications/CyanDoink.ogg
+SHA1-Digest-Manifest: m1eTk5ntcY5Snm8hvMgJATForbc=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c219.kl
+SHA1-Digest-Manifest: xdOjosLJSR8X/UcLh/6ox2Zy6D4=
+
+Name: system/etc/security/cacerts/5a3f0ff8.0
+SHA1-Digest-Manifest: svVe3VshO43EsPTmc7CrpCbbh4c=
+
+Name: system/media/audio/notifications/Polaris.ogg
+SHA1-Digest-Manifest: v3IhiMU78ILJbPlE1EYWhNG7+N4=
+
+Name: system/vendor/lib/libmmcamera2_frame_algorithm.so
+SHA1-Digest-Manifest: rCC0a1zBJF6gtc0CAQRsCFlbDis=
+
+Name: system/media/audio/notifications/Rhea.ogg
+SHA1-Digest-Manifest: LiikRsxU+SnLNxYR1UYekJaGDNI=
+
+Name: system/vendor/lib/libaudioalsa.so
+SHA1-Digest-Manifest: PFNMLKZiPkjo3aL8fyNIeAbee/A=
+
+Name: system/priv-app/InputDisabler/InputDisabler.apk
+SHA1-Digest-Manifest: nfMfx/ENCa8ZU3Jk1nI8u0bLRbA=
+
+Name: system/lib/libwebviewchromium_plat_support.so
+SHA1-Digest-Manifest: YuERkPeSJTWTgEU/e2hhYF2ZScU=
+
+Name: system/etc/security/cacerts/399e7759.0
+SHA1-Digest-Manifest: ey6/qY+X8MSLX4FlDmzAuyG+neI=
+
+Name: system/lib/libqdMetaData.so
+SHA1-Digest-Manifest: dRndKW0Wt8vlVGH+PzJ+eXz2RMI=
+
+Name: system/priv-app/ThemeChooser/ThemeChooser.apk
+SHA1-Digest-Manifest: fHFpZXVUKjubujuD3Vc+iSOYnBQ=
+
+Name: system/lib/libstagefright_yuv.so
+SHA1-Digest-Manifest: Tw8Aaz8LXWuWy90hRy7W2qFOeVE=
+
+Name: system/fonts/RobotoCondensed-Regular.ttf
+SHA1-Digest-Manifest: 3wp6APYMyD76dO8oGEPFJW2DBP8=
+
+Name: system/xbin/busybox
+SHA1-Digest-Manifest: NoppRU4wOGgWPMuUZtZwj1jbGv4=
+
+Name: system/media/audio/ringtones/Nairobi.ogg
+SHA1-Digest-Manifest: jqBOwFqJGRRgL1idGyQAghO0wtA=
+
+Name: system/vendor/lib/libqcci_legacy.so
+SHA1-Digest-Manifest: 05n8N/SG3rrNfa5x7SP2eKziZUU=
+
+Name: system/app/AntHalService/AntHalService.apk
+SHA1-Digest-Manifest: yKUR9RM7m7NftQUubzsBzuNCZRE=
+
+Name: system/bin/ebtables
+SHA1-Digest-Manifest: WlguRP3GBgTU4W1nWyOkWCISFBs=
+
+Name: system/etc/Global_cal.acdb
+SHA1-Digest-Manifest: 6Jl5KNvDBKzrkdL5uzz301MUOuw=
+
+Name: system/priv-app/Contacts/Contacts.apk
+SHA1-Digest-Manifest: dkpM6mzrecxykYm3T+upnb/MCT0=
+
+Name: system/usr/hyphen-data/hyph-und-ethi.hyb
+SHA1-Digest-Manifest: oIQNdVwK6wygfUK4dkLWWqpgE9I=
+
+Name: system/lib/crtend_so.o
+SHA1-Digest-Manifest: bd/AQXjlAkIkKKbEwmadAJ8n/f4=
+
+Name: system/lib/libpcre.so
+SHA1-Digest-Manifest: liqRahchDlUZxSMIR+TUjPexQ4Q=
+
+Name: system/etc/firmware/wlan/prima/WCNSS_cfg.dat
+SHA1-Digest-Manifest: iQBHGlryDBHg/ybltX+RY+zDWHA=
+
+Name: system/media/audio/alarms/Krypton.ogg
+SHA1-Digest-Manifest: cCh1pZlxi7WWdjMwMLFcjB2MPuE=
+
+Name: system/lib/libpac.so
+SHA1-Digest-Manifest: 6lLSXWQp/J8TjxVQXSU8eKlKYB0=
+
+Name: system/priv-app/MmsService/MmsService.apk
+SHA1-Digest-Manifest: WmjLwKY1a85bmsuPzj4JBf+bMNQ=
+
+Name: system/lib/libhardware.so
+SHA1-Digest-Manifest: PXLJnH1VRgucr/NpoTTjAIcJH70=
+
+Name: system/etc/nano/perl.nanorc
+SHA1-Digest-Manifest: twqXJS2NTTbvCRY5sYzJT2bG9/4=
+
+Name: system/vendor/lib/librpmb.so
+SHA1-Digest-Manifest: GgHjyzPasI8W77uq4WzLib0ss6Q=
+
+Name: system/media/audio/notifications/F1_New_SMS.ogg
+SHA1-Digest-Manifest: a6PaKmVHQ3ldqiKT9cb1lEXKi7A=
+
+Name: system/usr/share/vim/syntax/sh.vim
+SHA1-Digest-Manifest: JlXYZil4o+XXd7Aw1JZmBcmR6uU=
+
+Name: system/app/NoiseField/NoiseField.apk
+SHA1-Digest-Manifest: Z5BxUC6eQ3PaAe/icYpdCdMwV3o=
+
+Name: system/etc/security/cacerts/fac084d7.0
+SHA1-Digest-Manifest: dK5GZ0BEcgVp4uDzkD8y6AvsxcE=
+
+Name: system/etc/bluetooth/auto_pair_devlist.conf
+SHA1-Digest-Manifest: 7zmLnNGABbto2Oz/Sl9XqOdDWts=
+
+Name: system/vendor/lib/libmmcamera_s5k5e3yx.so
+SHA1-Digest-Manifest: 4orSR0ZobsP80vrz54Soh5FC9PE=
+
+Name: system/lib/libnetd_client.so
+SHA1-Digest-Manifest: uZUavO86iG3DzwymAU0UuFhekIk=
+
+Name: system/app/BluetoothMidiService/BluetoothMidiService.apk
+SHA1-Digest-Manifest: uykx6wjYu9Is6EJYad11ygu6Apc=
+
+Name: system/usr/hyphen-data/hyph-nn.lic.txt
+SHA1-Digest-Manifest: xCgpVjzvDtMDnmQy+sHwXUVyLj4=
+
+Name: system/media/audio/notifications/Capella.ogg
+SHA1-Digest-Manifest: QWP0bD1LIKm7lh0QwBPH1XLTsGo=
+
+Name: system/fonts/NotoSansSylotiNagri-Regular.ttf
+SHA1-Digest-Manifest: qZqj7pdj7kbl5Qrzicpuxuq34dc=
+
+Name: system/lib/libsqlite.so
+SHA1-Digest-Manifest: 7+r039koKSDEckd22DqKcZsF6vU=
+
+Name: system/bin/gzip
+SHA1-Digest-Manifest: eRXOo8cQHec3iLCaR6M5+l/yjKI=
+
+Name: system/bin/patchoat
+SHA1-Digest-Manifest: AFx2BZ9ZUx+sHRjuENa5EKhcrTA=
+
+Name: system/lib/libmysound.so
+SHA1-Digest-Manifest: ljX7/OwdEzEXUEw8cjZvUWSLVH0=
+
+Name: system/lib/libchromatix_imx135_common.so
+SHA1-Digest-Manifest: 8gZIFGhFuucFJZA3DrEdIFnuwIw=
+
+Name: system/etc/security/cacerts/9282e51c.0
+SHA1-Digest-Manifest: yRA/dsq2qpa/uZfUzEzeCneyVDI=
+
+Name: system/lib/libext2_e2p.so
+SHA1-Digest-Manifest: zR8dQeeu27o4MyewPi/4l0obFrU=
+
+Name: system/media/audio/notifications/Elara.ogg
+SHA1-Digest-Manifest: 81HkjfehQPxn6Fi8VPJxoKXzY0U=
+
+Name: system/etc/security/cacerts/57692373.0
+SHA1-Digest-Manifest: tcZl9CsLQ4NAsQSFTuFseh7/jzc=
+
+Name: system/etc/terminfo/s/screen-256color
+SHA1-Digest-Manifest: z77+jOfJWuZ01xGGeVkjRgO46bY=
+
+Name: system/xbin/fio
+SHA1-Digest-Manifest: Ka8q7uUXp/Jei+FIv376WBXV3i8=
+
+Name: system/vendor/lib/libOmxAacDec.so
+SHA1-Digest-Manifest: lrqraiXx6lOQdN+AileSRnKNHI8=
+
+Name: system/lib/libmedialogservice.so
+SHA1-Digest-Manifest: kagf2czWDcGyKwiXOQOACU6u9l4=
+
+Name: system/usr/keylayout/Vendor_18d1_Product_2c40.kl
+SHA1-Digest-Manifest: wG1VunPmfNFqCQoF3dBCtKL3PKQ=
+
+Name: system/vendor/lib/libbtnv.so
+SHA1-Digest-Manifest: c18Gf8pa5Q+JXO+3MB50FJctsiI=
+
+Name: system/lib/libril.so
+SHA1-Digest-Manifest: 0f8uAhtmx9IUzhnNfVhZQjCSbdI=
+
+Name: system/lib/libgps.utils.so
+SHA1-Digest-Manifest: l6f3f1t5H6ooLWE/HQYDvWu3KOk=
+
+Name: system/bin/uiautomator
+SHA1-Digest-Manifest: GPWfR6BcXzIGL2rBJbi46qVoYR8=
+
+Name: system/vendor/lib/libmmipl.so
+SHA1-Digest-Manifest: 7kr2zqp6dEFveqsGCpCVH30fiEI=
+
+Name: system/media/audio/ringtones/Perseus.ogg
+SHA1-Digest-Manifest: DszO40GZTLWEilxEgDQajewPc3w=
+
+Name: system/lib/libstagefright_soft_vorbisdec.so
+SHA1-Digest-Manifest: aj7DO/3dreV8If9HPiMCgwQJ1c8=
+
+Name: system/usr/keychars/Vendor_18d1_Product_5018.kcm
+SHA1-Digest-Manifest: pwW2+wwyHcT3JVymSbgUkawBeDU=
+
+Name: system/app/PrintSpooler/PrintSpooler.apk
+SHA1-Digest-Manifest: MNeHT2/AkussO0xXA3oCFixUnhE=
+
+Name: system/bin/pm
+SHA1-Digest-Manifest: /bUeCBR2BQUDLxR12/TqU3+gNmw=
+
+Name: system/usr/keylayout/Vendor_045e_Product_028e.kl
+SHA1-Digest-Manifest: o5yNHVm/CdypkmbIl8AGq/dqTkE=
+
+Name: system/etc/security/cacerts/a3896b44.0
+SHA1-Digest-Manifest: knzzYuSw+EuSLSbjxEDrocAAoEw=
+
+Name: system/media/audio/ringtones/Ring_Digital_02.ogg
+SHA1-Digest-Manifest: AxbqIhaTBVpVjYNryEhtxlVJgA0=
+
+Name: system/etc/NOTICE.html.gz
+SHA1-Digest-Manifest: WFmWhCW6CmZDvTRz4CezTo8m+ck=
+
+Name: system/bin/appwidget
+SHA1-Digest-Manifest: xEJzx2PU30inFMLhjFsEwKN/Wko=
+
+Name: system/lib/libblas.so
+SHA1-Digest-Manifest: kxcfRbdr6i3cGVOFwlUlnfH9158=
+
+Name: system/vendor/lib/egl/libQTapGLES.so
+SHA1-Digest-Manifest: XAOdDhxcWvfkZDFmmAYiaRpiq0c=
+
+Name: system/vendor/lib/libidl.so
+SHA1-Digest-Manifest: b8Wb515vpHjZv/w3Mg+GO6BUeH4=
+
+Name: system/fonts/NotoSerif-Regular.ttf
+SHA1-Digest-Manifest: Lab4ukq9i4+WyHJk8ta3n4VVXa8=
+
+Name: system/lib/libaudio-ril.so
+SHA1-Digest-Manifest: ozhxw3FzYK9hEEHHHPwKD2VdTCA=
+
+Name: system/bin/installd
+SHA1-Digest-Manifest: UtpTBiohQsktsFrkz3lM9omEPZU=
+
+Name: system/vendor/lib/libperipheral_client.so
+SHA1-Digest-Manifest: 9KcNqW2t2KjAM9VqDVh3D3XjUXQ=
+
+Name: system/bin/e2fsck
+SHA1-Digest-Manifest: HpfQWcq9KDbkyZ1p/mMbsPPtKVY=
+
+Name: system/etc/security/cacerts/a0bc6fbb.0
+SHA1-Digest-Manifest: QQYbPKEqW7nhlyQQF+BHvIp7zCc=
+
+Name: system/usr/share/vim/syntax/config.vim
+SHA1-Digest-Manifest: xkTdWtRZOXaIWkfYO8S3Wk3VrjA=
+
+Name: system/lib/librtp_jni.so
+SHA1-Digest-Manifest: LYbwBpu8GrSFs3+HY6mI8Es3Bfg=
+
+Name: system/bin/ip6tables
+SHA1-Digest-Manifest: +kHuKTIXkGKLwJHMTUhi2fw1cxo=
+
+Name: system/etc/nano/fortran.nanorc
+SHA1-Digest-Manifest: niPSjY4yiA63SkEQwQyrlLRPjVo=
+
+Name: system/fonts/RobotoCondensed-Bold.ttf
+SHA1-Digest-Manifest: GHfAZNyIH58+RDTvuEvyDlI3GVY=
+
+Name: system/lib/hw/audio.primary.default.so
+SHA1-Digest-Manifest: ODkKqyvR9cIRf7VTRfC5hakTi2g=
+
+Name: system/usr/share/bmd/RFFstd_501.bmd
+SHA1-Digest-Manifest: C0S/D/gyoOXBfe27iJkWBkJGc28=
+
+Name: system/media/audio/ui/camera_focus.ogg
+SHA1-Digest-Manifest: oASCRq4SIutzhqV38nEyIOic04c=
+
+Name: system/vendor/lib/libqmi_csi.so
+SHA1-Digest-Manifest: GCME9pogoVYB3gE2rgRrcXlpUxk=
+
+Name: system/lib/libOmxAmrEnc.so
+SHA1-Digest-Manifest: UKW6lLrTLjyC7eqLb1ZetB67UUI=
+
+Name: system/lib/libmmjpeg_interface.so
+SHA1-Digest-Manifest: LVqEMz6Qmz5xrVXoV3Qvsq5KiUk=
+
+Name: system/media/audio/notifications/Deneb.ogg
+SHA1-Digest-Manifest: rQ9rUEaw0W3WPrWRD7xzQEjcYxM=
+
+Name: system/bin/bu
+SHA1-Digest-Manifest: ssJV8rKixa6InHKnBAhyFrsGwa8=
+
+Name: system/bin/tzdatacheck
+SHA1-Digest-Manifest: xBL/t5AjjNNjMkGuYWfOo729KBU=
+
+Name: system/etc/gps.conf
+SHA1-Digest-Manifest: GcDVeul9kdWnk6w+Gk2VgITmt+A=
+
+Name: system/media/audio/ringtones/Atria.ogg
+SHA1-Digest-Manifest: sK/I28GDq77D40uiIU+ytVQFvFU=
+
+Name: system/media/audio/notifications/Pollux.ogg
+SHA1-Digest-Manifest: czKkIEsJETsN/hmFuHcQNurkgf0=
+
+Name: system/vendor/lib/egl/libEGL_adreno.so
+SHA1-Digest-Manifest: JgsJ1nvmdOnxCsxpceMJHYbDwiQ=
+
+Name: system/media/audio/ringtones/Girtab.ogg
+SHA1-Digest-Manifest: VzOLmrpnuttFO6ndb4JAVk1bY68=
+
+Name: system/etc/nano/makefile.nanorc
+SHA1-Digest-Manifest: pG26uVrRSR0HFmels2sereiLc/I=
+
+Name: system/media/audio/ui/KeypressSpacebar.ogg
+SHA1-Digest-Manifest: S1XMOQRlDhT9aXYCcSi/TKsaufI=
+
+Name: system/bin/am
+SHA1-Digest-Manifest: uCqjLoo6cnm3TbKIFwdJ9Xjr9aw=
+
+Name: system/fonts/NotoSansTibetan-Regular.ttf
+SHA1-Digest-Manifest: Z/qTFLcs/sGCErTeBYOj4IZHFj0=
+
+Name: system/fonts/NotoSansBalinese-Regular.ttf
+SHA1-Digest-Manifest: ALearTfQ+Vs/qt3/a6cnIs04lp8=
+
+Name: system/vendor/lib/libaudcal.so
+SHA1-Digest-Manifest: IUgZ9vLCooCbCssDynJT0gjzWbQ=
+
+Name: system/etc/security/cacerts/82223c44.0
+SHA1-Digest-Manifest: 82P7bFf5X0kwLT8esGv73UTr8f8=
+
+Name: system/media/audio/notifications/Fluorine.ogg
+SHA1-Digest-Manifest: pYJhY2zf8yHtuU50KuDSxr/jx+o=
+
+Name: system/bin/mkfs.exfat
+SHA1-Digest-Manifest: jhIRKAMnhJp1GnP66GrIU0utq0I=
+
+Name: system/etc/security/cacerts/6e8bf996.0
+SHA1-Digest-Manifest: 7NYrA69iTHbpHZJjDxbGWj3nBHM=
+
+Name: system/xbin/bash
+SHA1-Digest-Manifest: a6ezDR3bptOv6CZjRBtFW9Kwjts=
+
+Name: system/etc/media_codecs_google_video_le.xml
+SHA1-Digest-Manifest: 8jw2EAA3HZhy+pvKLsmI5pL2Tmk=
+
+Name: system/etc/security/cacerts/1e8e7201.0
+SHA1-Digest-Manifest: OaWjaAi4Aw9X/q/8U33myJEsNwc=
+
+Name: system/lib/libbinder.so
+SHA1-Digest-Manifest: Xisw0kv+YVxqgZKsncayRH+pUJM=
+
+Name: system/etc/plmn_se13.bin
+SHA1-Digest-Manifest: L14vsvp6Mr6imrTReB5LFbCCDRA=
+
+Name: system/etc/CHANGELOG-CM.txt
+SHA1-Digest-Manifest: gfks9YT8aWFdSKMOyP0eOJTZeco=
+
+Name: system/etc/security/cacerts/5f47b495.0
+SHA1-Digest-Manifest: aPOOqvjMp9CZKaAc9SVNkv4OXCU=
+
+Name: system/lib/soundfx/libreverbwrapper.so
+SHA1-Digest-Manifest: rO51gLxINaUPcZ8W2cTnIDLfOhA=
+
+Name: system/etc/nano/nanorc
+SHA1-Digest-Manifest: U0OG62I3GDFr/1wjOInASq5MhbQ=
+
+Name: system/media/audio/ringtones/Noises2.ogg
+SHA1-Digest-Manifest: Opa4rgd0Ni416aKhJUJJhE0K0w4=
+
+Name: system/lib/libf2fs.so
+SHA1-Digest-Manifest: ObDeeUnMEi3CW/yqbkij/YzyL0M=
+
+Name: system/media/audio/ringtones/Bollywood.ogg
+SHA1-Digest-Manifest: lp+O3MhWrS1FoZZYuyGBRcHyiz8=
+
+Name: system/etc/security/cacerts/111e6273.0
+SHA1-Digest-Manifest: Nj7X4j/b8ZTkByg8Zid5feIxHs4=
+
+Name: system/vendor/lib/liboemcamera.so
+SHA1-Digest-Manifest: 8NSRYJsnLhCbF3BTX2/Kb5XFDvA=
+
+Name: system/lib/libRScpp.so
+SHA1-Digest-Manifest: 3ukSAatGlpqhlC0H4SBb8dvNdbk=
+
+Name: system/etc/security/cacerts/3a3b02ce.0
+SHA1-Digest-Manifest: mCsivqALYzHHYCedo5cL6TTnnAs=
+
+Name: system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
+SHA1-Digest-Manifest: 1WG+DrDNLeUpVFEFBej3lzItXNY=
+
+Name: system/lib/libsoundtrigger.so
+SHA1-Digest-Manifest: AWPuhVtzAlz9YqIAJc6T8LTZ9is=
+
+Name: system/media/audio/ringtones/NewPlayer.ogg
+SHA1-Digest-Manifest: Uf0E/jmb19A0xXT6CtfiT3ph1e0=
+
+Name: system/lib/libsamsungvad.so
+SHA1-Digest-Manifest: VtYb9SpDVGwgM2jUd4LrLqTWuqM=
+
+Name: system/media/audio/notifications/Rang.ogg
+SHA1-Digest-Manifest: ZxLBQCMcq1EFKNttyTaH8WwIk1s=
+
+Name: system/xbin/7z
+SHA1-Digest-Manifest: Da0yIdNdK+1GN9+iGH67F0zRkqc=
+
+Name: system/vendor/lib/libconfigdb.so
+SHA1-Digest-Manifest: VmjIa/FCtjXitqXVLRNok3/lEa0=
+
+Name: system/bin/screencap
+SHA1-Digest-Manifest: Q19riZVsk3CIXyXuynh/o3XDsl4=
+
+Name: system/usr/keylayout/Vendor_2378_Product_1008.kl
+SHA1-Digest-Manifest: e5CKfmkYWqaxOPs/Hr64q5OmqHg=
+
+Name: system/lib/libart.so
+SHA1-Digest-Manifest: N9uNRsXV7aOpK1Q6F02fAbxKOjA=
+
+Name: system/fonts/NotoSansJP-Regular.otf
+SHA1-Digest-Manifest: vUOm/12+Vt7PMXCBj6eiv6IWMUQ=
+
+Name: system/vendor/lib/libgeofence.so
+SHA1-Digest-Manifest: 6U5cyaSmc0md1ZWZ8cMYi9JilNw=
+
+Name: system/lib/libGLESv2.so
+SHA1-Digest-Manifest: UXxJGGSPwEWgpBHLrTaA6F5KGfk=
+
+Name: system/etc/nano/ruby.nanorc
+SHA1-Digest-Manifest: gfbLAg4sPwzXQlf3yM3SYJXgspA=
+
+Name: system/bin/keystore_cli
+SHA1-Digest-Manifest: eMyYkWhogqXcl2+j1g9RqldWWec=
+
+Name: system/bin/toolbox
+SHA1-Digest-Manifest: o8rvvmBV4/HaUsUh6L9mMrRjfG4=
+
+Name: system/bin/tracepath
+SHA1-Digest-Manifest: ZkQSND0qbd7AM2pMX9cmz3uJBxw=
+
+Name: system/vendor/lib/libswresample.so
+SHA1-Digest-Manifest: He1DaaI3ck8iuzycSVMpyT8Df5Y=
+
+Name: system/framework/bouncycastle.jar
+SHA1-Digest-Manifest: RgNmrUBojNCRWv4bP0GW8s5XNG4=
+
+Name: system/lib/libchromatix_imx135_uhd_video.so
+SHA1-Digest-Manifest: zC/rdz4wnUBiiV3veN4oAKBvmOI=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_common.so
+SHA1-Digest-Manifest: zIwDufWSVjM+3cQ7GsIdin+ERhs=
+
+Name: system/vendor/lib/libmmcamera2_pproc_modules.so
+SHA1-Digest-Manifest: se7WGKN3sAcC7u4QDAMucw1/fZ8=
+
+Name: system/media/audio/ringtones/Nassau.ogg
+SHA1-Digest-Manifest: UA0O0SLCOE2NPdJ/UmNGmELMiG0=
+
+Name: system/fonts/Roboto-Regular.ttf
+SHA1-Digest-Manifest: ZbzgNrZjETiFEpUso/9lZkgEiqk=
+
+Name: system/framework/telecom.jar
+SHA1-Digest-Manifest: YUhODjfIMglwipKcd07T+6xBJu4=
+
+Name: system/media/audio/notifications/Strontium.ogg
+SHA1-Digest-Manifest: 9l2NuUiOQ/+JxZqUnLhAlCiLLJ8=
+
+Name: system/etc/security/cacerts/f80cc7f6.0
+SHA1-Digest-Manifest: r3w6DN1Q2eijVTpPsYtGlljpKVk=
+
+Name: system/etc/security/cacerts/facacbc6.0
+SHA1-Digest-Manifest: VoXYK5WFRBmKt4BZ6+A3ZC3MGlc=
+
+Name: system/etc/security/cacerts/ee7cd6fb.0
+SHA1-Digest-Manifest: ZmvMS/i4FpvlmF558bN/UX7HRZ0=
+
+Name: system/etc/security/cacerts/84cba82f.0
+SHA1-Digest-Manifest: hxJGxnpKtct0vfCE2Hlof8XIdMs=
+
+Name: system/framework/bu.jar
+SHA1-Digest-Manifest: CtSyUQIqWpKb2rhoRFPP1PwsQ1s=
+
+Name: system/bin/drmserver
+SHA1-Digest-Manifest: mfd5sPCTXAWUOTDOIOl8An36gJc=
+
+Name: system/fonts/NotoSansOriyaUI-Regular.ttf
+SHA1-Digest-Manifest: Hyq1o2dTCg9EOJLfUvG6xCKVLXw=
+
+Name: system/usr/hyphen-data/hyph-hu.lic.txt
+SHA1-Digest-Manifest: LnbZ9ce55H+scP0FGnmnTskEBnw=
+
+Name: system/lib/libsec-ril.so
+SHA1-Digest-Manifest: Lqeb7pkrP22qTLwn1159RbhDroE=
+
+Name: system/lib/libmmcamera_wavelet_lib.so
+SHA1-Digest-Manifest: VUyNjyE8637dRy/whj4vfbGWW24=
+
+Name: system/etc/vimrc
+SHA1-Digest-Manifest: uXNP5lRHhV03yR1p+cfbpLbYsrA=
+
+Name: system/lib/libstagefright_soft_mpeg4dec.so
+SHA1-Digest-Manifest: fkaAbSX/WMnrihqb4bUYO61NfYQ=
+
+Name: system/bin/ssh-keygen
+SHA1-Digest-Manifest: N3P2GfA6Zsz4lhZpPnRWE16H1T8=
+
+Name: system/framework/media_cmd.jar
+SHA1-Digest-Manifest: Y8ldsmyL5z4V73x/CyqwyJs1KH4=
+
+Name: system/media/audio/notifications/Heaven.ogg
+SHA1-Digest-Manifest: h6yb9TGCOptNKd1zNXcuxsZvYRg=
+
+Name: system/lib/lib_SoundAlive_ver118t.so
+SHA1-Digest-Manifest: 9MWsiLfjipfuis4QAPr1xnEvEpQ=
+
+Name: system/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so
+SHA1-Digest-Manifest: zZpXcpnVNsbKZTb+5aC1W2YLw2Q=
+
+Name: system/etc/terminfo/a/ansi
+SHA1-Digest-Manifest: Cris6JemRDY2PcREPxdzvWZyGgk=
+
+Name: system/lib/libreference-ril.so
+SHA1-Digest-Manifest: Sv2rh/nEqEjvDyWXdVg+qIU/b4k=
+
+Name: system/etc/nano/ocaml.nanorc
+SHA1-Digest-Manifest: GJoe/RfpbnR/U1NKERtt4d9KxVg=
+
+Name: system/lib/libAl_Awb.so
+SHA1-Digest-Manifest: QVvrgh//xtvGazR57XNXfIJgiBM=
+
+Name: system/etc/security/cacerts/21855f49.0
+SHA1-Digest-Manifest: tYgQAJczZv8LeZBesQpVOUmPths=
+
+Name: system/vendor/lib/libjpegehw.so
+SHA1-Digest-Manifest: ih5m6f9o6m3ZchE6TmL1ZXUHxaw=
+
+Name: system/lib/hw/camera.msm8916.so
+SHA1-Digest-Manifest: GOZxr+pRitnT4X8QpP3JfI4Dgc8=
+
+Name: system/usr/share/vim/colors/desert.vim
+SHA1-Digest-Manifest: lhSZAHFDoayWyCx1Z7jpbWR3y3s=
+
+Name: system/etc/security/cacerts/10531352.0
+SHA1-Digest-Manifest: 27825Pt/487UL25LqBe+OUfV2OQ=
+
+Name: system/priv-app/ThemesProvider/ThemesProvider.apk
+SHA1-Digest-Manifest: PKWzkpLDBvKdsDDZblQXszv5aZo=
+
+Name: system/vendor/lib/libmmqjpeg_codec.so
+SHA1-Digest-Manifest: m9M67RZ8LsZq/EZ0gSdb2Di6zhQ=
+
+Name: system/bin/make_ext4fs
+SHA1-Digest-Manifest: 3/90BwKf/XMVyZJmczpKT2Uh2o4=
+
+Name: system/bin/radiooptions
+SHA1-Digest-Manifest: Q/HDrhvFwNKUHYZnpoeRJZOhV2o=
+
+Name: system/media/audio/ringtones/Eridani.ogg
+SHA1-Digest-Manifest: PJhsYWyjoIIivAKAA8zY9yVmXDM=
+
+Name: system/lib/libqservice.so
+SHA1-Digest-Manifest: HuoK4r6mKYq53K7kbrGTooZl3+M=
+
+Name: system/vendor/lib/libnetmgr.so
+SHA1-Digest-Manifest: ZCpfwUZyNk33rBQciGgUxID/48k=
+
+Name: system/lib/libloc_core.so
+SHA1-Digest-Manifest: ErWbF527Rx/LxjKAbYe8oRaFAAs=
+
+Name: system/fonts/NotoColorEmoji.ttf
+SHA1-Digest-Manifest: 82+iIvzbU6783rFuMQimoTVin18=
+
+Name: system/lib/libstagefright_soft_amrwbenc.so
+SHA1-Digest-Manifest: D4IsVhJeXBVNm12KxzmYSp9yD+g=
+
+Name: system/bin/install-recovery.sh
+SHA1-Digest-Manifest: Qq8fVRcByL61aVgmWdSfdZf0Hr4=
+
+Name: system/lib/libc_malloc_debug_leak.so
+SHA1-Digest-Manifest: TTkR0om4zFNlY5484gHiHXsjNXU=
+
+Name: system/bin/fsck_msdos
+SHA1-Digest-Manifest: VsRB++ssXcZ2zTQD9mt33I+pAGo=
+
+Name: system/lib/libjni_filtershow_filters.so
+SHA1-Digest-Manifest: rW5av3BG8OENd7x1b+2TEIYPAv0=
+
+Name: system/etc/security/cacerts/d6e6eab9.0
+SHA1-Digest-Manifest: 2iGWRUBJtX29Cy4q7SZS+wQGVnU=
+
+Name: system/priv-app/VpnDialogs/VpnDialogs.apk
+SHA1-Digest-Manifest: cSLQtvR1u1mlmH6qNJUilxE5voI=
+
+Name: system/bin/qseecomd
+SHA1-Digest-Manifest: E83pPTuJIyH4m3j6PoqWCsnP080=
+
+Name: system/lib/libaudiopolicymanagerdefault.so
+SHA1-Digest-Manifest: +cdidWeG334YazbyvzS/JhqkLRc=
+
+Name: system/media/audio/ringtones/Highscore.ogg
+SHA1-Digest-Manifest: zKzwNAsp4a6KdE7XKuu4VWik0ic=
+
+Name: system/etc/nano/python.nanorc
+SHA1-Digest-Manifest: bjLZ4d/Ki+IMZwH6dyKJ1EKNSOw=
+
+Name: system/vendor/lib/libswscale.so
+SHA1-Digest-Manifest: aAPmJK1VABrhjfyCLDg4dJxaop0=
+
+Name: system/fonts/NotoSerif-Italic.ttf
+SHA1-Digest-Manifest: GAI4SVqKd8hng9dYe/H2Oqr0IlE=
+
+Name: system/priv-app/DefaultContainerService/DefaultContainerService.
+ apk
+SHA1-Digest-Manifest: Za2uJlRbuk+TqLhCFmLtGBZPF+w=
+
+Name: system/app/FM2/FM2.apk
+SHA1-Digest-Manifest: fdQVdi/gZ06HM8qJFqbJK5SI2Lg=
+
+Name: system/media/audio/ringtones/Club_Cubano.ogg
+SHA1-Digest-Manifest: pBTpYFzvdovd5dDbHiv/rNkcECM=
+
+Name: system/etc/security/cacerts/7672ac4b.0
+SHA1-Digest-Manifest: 6qwu8ypbI9M1MzyaTTVYXxlpuI0=
+
+Name: system/app/DocumentsUI/DocumentsUI.apk
+SHA1-Digest-Manifest: D6BcxGKcdAubjSQyi1BTjCeYQ1c=
+
+Name: system/lib/hw/nfc_nci.msm8916.so
+SHA1-Digest-Manifest: mhCq0uLgo2+nU3piqn3IL1xJT5M=
+
+Name: system/etc/security/cacerts/9685a493.0
+SHA1-Digest-Manifest: RpNrZl1Yp/qRre3+cRWuVaYux2Q=
+
+Name: system/etc/security/cacerts/d7746a63.0
+SHA1-Digest-Manifest: nlAO6vbBeHlT3AVXYQOKMDQXTf8=
+
+Name: system/usr/share/bmd/RFFspeed_501.bmd
+SHA1-Digest-Manifest: O4W+YPqIxPg5c57Ny/tsqS1RV8M=
+
+Name: system/etc/terminfo/d/dumb
+SHA1-Digest-Manifest: KwdLFNxAQQ6GDClLGbtgGFM8pJc=
+
+Name: system/lib/libradioservice.so
+SHA1-Digest-Manifest: vRHlrvippwjvcUCBWjfAUWhAzKM=
+
+Name: system/etc/security/cacerts/895cad1a.0
+SHA1-Digest-Manifest: AbLr99Id7sjq92zrfutwjwNWrSc=
+
+Name: system/fonts/NotoSansHebrew-Regular.ttf
+SHA1-Digest-Manifest: z2Eytx5sBHZfMVNapLDz1qh0FOQ=
+
+Name: system/usr/hyphen-data/hyph-en-us.lic.txt
+SHA1-Digest-Manifest: nl33rCCVO2/YjlI575QeY05txMc=
+
+Name: system/fonts/Roboto-Medium.ttf
+SHA1-Digest-Manifest: E0U/oJP2ypVfD9dsti2o8yGDIjg=
+
+Name: system/fonts/NotoSansThaana-Bold.ttf
+SHA1-Digest-Manifest: pm8nN/T3WYhY/J34NvngC4eDL50=
+
+Name: system/media/audio/ringtones/SilkyWay.ogg
+SHA1-Digest-Manifest: skdmmETxcVqBqsT6a/JPwI7Bgh4=
+
+Name: system/xbin/powertop
+SHA1-Digest-Manifest: sOS/qjNoEL+94nLa/FmuneSgyLI=
+
+Name: system/lib/libRSSupport.so
+SHA1-Digest-Manifest: V/AiVlcn/s52yj3S0XIwu6TKUWc=
+
+Name: system/bin/bootanimation
+SHA1-Digest-Manifest: CgErttZH7MFh2x7zx0N1tXzndYk=
+
+Name: system/etc/security/cacerts/9dbefe7b.0
+SHA1-Digest-Manifest: aBGdM7ixIIfi96wfo/MMU+bOYZA=
+
+Name: system/lib/libstdc++.so
+SHA1-Digest-Manifest: BZYqonXUWGDcK2RbkZEFRUfXatg=
+
+Name: system/etc/terminfo/x/xterm-r6
+SHA1-Digest-Manifest: YYX38vvBpAU3IaKC8lZefydgY+g=
+
+Name: system/fonts/NotoSansKhmer-Regular.ttf
+SHA1-Digest-Manifest: oadXCgCnWQ8CaiftTPfSQbIlk3Q=
+
+Name: system/lib/soundfx/libaudiopreprocessing.so
+SHA1-Digest-Manifest: P7kZCfEhlSZFOpcPvPkURwrAu1M=
+
+Name: system/etc/terminfo/x/xterm-r5
+SHA1-Digest-Manifest: jY/p7f3M0Z/xLZ4Q7STz4q57AyU=
+
+Name: system/lib/libstagefright_soft_opusdec.so
+SHA1-Digest-Manifest: gNqL4rbiUJY60PjfYwIc81CyUAc=
+
+Name: system/priv-app/Shell/Shell.apk
+SHA1-Digest-Manifest: HEGgpeIvpqLXrNRb/iZewbaYLHg=
+
+Name: system/vendor/lib/libqmiservices.so
+SHA1-Digest-Manifest: X7jM2SHtUJwcBHLYSSC6RYyS4lw=
+
+Name: system/fonts/DancingScript-Regular.ttf
+SHA1-Digest-Manifest: ECzEa1PC9WpYqryPQJAiWt50BGE=
+
+Name: system/lib/libext2_uuid.so
+SHA1-Digest-Manifest: p1UICE0JpciDUvibfqfW1/trf1Q=
+
+Name: system/media/audio/ringtones/Solarium.ogg
+SHA1-Digest-Manifest: mu1sqkNAhzScBzIOZgQNM7fdVfo=
+
+Name: system/etc/security/cacerts/8470719d.0
+SHA1-Digest-Manifest: ibsswWQeQiQCX9VQng6cSnNiRSk=
+
+Name: system/lib/libsoundtriggerservice.so
+SHA1-Digest-Manifest: rdC5xEKxivYpKK+I7dKQ0ORmmfY=
+
+Name: system/media/audio/ringtones/Ring_Synth_02.ogg
+SHA1-Digest-Manifest: 0EOVnZ0hVi//57NNMmpgTRHdCRo=
+
+Name: system/vendor/lib/egl/libGLESv1_CM_adreno.so
+SHA1-Digest-Manifest: C5pOxXP6QU/noGIZ0WsUlJPMjaw=
+
+Name: system/lib/libnbaio.so
+SHA1-Digest-Manifest: li2ialwjzigAQZfJopmgZA+VRWw=
+
+Name: system/lib/libchromatix_imx135_liveshot.so
+SHA1-Digest-Manifest: mlS5w3mFeoTnMmidvctfSn4MpRw=
+
+Name: system/media/audio/notifications/Pong.ogg
+SHA1-Digest-Manifest: yei9eai8orNEJAYsALLTcH5CeWw=
+
+Name: system/etc/security/cacerts/23f4c490.0
+SHA1-Digest-Manifest: yA2ICioiekhNcrZ82PB2iYlvtnE=
+
+Name: system/fonts/NotoSansMeeteiMayek-Regular.ttf
+SHA1-Digest-Manifest: crw15Wv5hfJ46JKhnAX1mnhXtIw=
+
+Name: system/etc/permissions/org.cyanogenmod.profiles.xml
+SHA1-Digest-Manifest: CScVrJqhjDSzD2ImQiSNWTsUNB4=
+
+Name: system/priv-app/SettingsProvider/SettingsProvider.apk
+SHA1-Digest-Manifest: HQkjo6sf46bBWku1BcgwkRGZ1XM=
+
+Name: system/fonts/AndroidClock_Solid.ttf
+SHA1-Digest-Manifest: A/eljGiCScsuho2HdxfLlZVo51o=
+
+Name: system/lib/hw/gralloc.msm8916.so
+SHA1-Digest-Manifest: wwXeBmV7Wf1BNHqB851H0rv6eUw=
+
+Name: system/bin/ndc
+SHA1-Digest-Manifest: a+NtH9Y/ta51ddeHWzY4RaPQhD0=
+
+Name: system/lib/libchromatix_imx135_default_video.so
+SHA1-Digest-Manifest: VGfMezZZbB+QSWIFuQ3MJrmXCBk=
+
+Name: system/lib/libresourcemanagerservice.so
+SHA1-Digest-Manifest: TDCsD+OgvHpmMV0MARU4cxjMWI4=
+
+Name: system/usr/share/vim/filetype.vim
+SHA1-Digest-Manifest: 63JZOy3koCwDed2o3J3qZddidBY=
+
+Name: system/lib/libspeexresampler.so
+SHA1-Digest-Manifest: R+A3C7MqoCnIm6YYt22bqqd+qB4=
+
+Name: system/fonts/NotoSansGurmukhi-Bold.ttf
+SHA1-Digest-Manifest: TosgwPKEnwxfK++E+HwgZHPZUHk=
+
+Name: system/etc/nano/patch.nanorc
+SHA1-Digest-Manifest: xwcJHB1DDjnT7pA3ZbsCDkqhwWY=
+
+Name: system/lib/libqcomfm_jni.so
+SHA1-Digest-Manifest: 66VTCAQby67wYLpmaOWysdAg8OA=
+
+Name: system/fonts/NotoSansHanunoo-Regular.ttf
+SHA1-Digest-Manifest: iRCXkQxeol/o7a/CicrAIKnss3g=
+
+Name: system/lib/libqsap_sdk.so
+SHA1-Digest-Manifest: FqaD46B88WvzTCIg2siJjhUeeuM=
+
+Name: system/usr/keylayout/Vendor_045e_Product_0719.kl
+SHA1-Digest-Manifest: JXbggIX0YavEQJ9Es7hwLqcBU+Q=
+
+Name: system/etc/security/cacerts/91739615.0
+SHA1-Digest-Manifest: mSHnEDaRj2NqVMRVcYFcDQIR1W8=
+
+Name: system/lib/libebtable_broute.so
+SHA1-Digest-Manifest: 1YKU8PelSgOLZsXnaD8mDbn0I2s=
+
+Name: system/vendor/lib/libmmcamera_tintless_algo.so
+SHA1-Digest-Manifest: vlTfBtxd3CNpXxyE2+NZC9zSnNk=
+
+Name: system/fonts/NotoSansMalayalamUI-Regular.ttf
+SHA1-Digest-Manifest: koeDFeTmvf2JP/AocQXbRkZ83j0=
+
+Name: system/etc/security/cacerts/ff783690.0
+SHA1-Digest-Manifest: YLStHM8Ors7Fv3JZfYRXSjrXQH4=
+
+Name: system/etc/General_cal.acdb
+SHA1-Digest-Manifest: HiY3EnPEeJmjQPdhE0da/vkQWn4=
+
+Name: system/etc/permissions/android.hardware.bluetooth_le.xml
+SHA1-Digest-Manifest: isSGQwxMQkED4AXyOIctuA/nIGw=
+
+Name: system/fonts/NotoSansYi-Regular.ttf
+SHA1-Digest-Manifest: PG15YfBO2PWJ/wYobDv5mayS5ZQ=
+
+Name: system/framework/wifi-service.jar
+SHA1-Digest-Manifest: 8bcZPKzvLHMYwQgCqD6cSoZhsl0=
+
+Name: system/vendor/lib/libqmi_common_so.so
+SHA1-Digest-Manifest: mq+nx/LyXeOLbr1j062nPA5k8vg=
+
+Name: system/vendor/lib/libmmcamera2_cpp_module.so
+SHA1-Digest-Manifest: DnfY/eRVvfMLOM9ZpsZp80LZpwg=
+
+Name: system/bin/service
+SHA1-Digest-Manifest: Yv0RQk7ZnE++KITmRtkNYg1JsGU=
+
+Name: system/lib/libsqlite_jni.so
+SHA1-Digest-Manifest: UBxldsW17z0Hrs6+qQslsY8A0XQ=
+
+Name: system/etc/nfcee_access.xml
+SHA1-Digest-Manifest: 8HctlPfYbJrarRYrMvj5gjBtXpU=
+
+Name: system/media/audio/ringtones/Orion.ogg
+SHA1-Digest-Manifest: 27CCbiL0yjoiGAs4ccjNWOdCqrc=
+
+Name: system/lib/libstagefright_avc_common.so
+SHA1-Digest-Manifest: zryMzMw2NQZxbL8kAlSbDW8JgNU=
+
+Name: system/framework/input.jar
+SHA1-Digest-Manifest: 30hxZlpLMELwDNYufXPD/Jds/Ws=
+
+Name: system/lib/libstagefright_soft_amrnbenc.so
+SHA1-Digest-Manifest: P1ZBAmBmOoXvCyLawyYnyDcfaXE=
+
+Name: system/etc/firmware/cpp_firmware_v1_1_6.fw
+SHA1-Digest-Manifest: 7irsZTtXomvWKfTZMRoLrlfb8xo=
+
+Name: system/priv-app/Settings/Settings.apk
+SHA1-Digest-Manifest: +xM7CzI2OHiy7JHM+1CE2sV80co=
+
+Name: system/usr/hyphen-data/hyph-en-us.hyb
+SHA1-Digest-Manifest: wBE+uoI793DK/NchTX7Nke6nw0A=
+
+Name: system/lib/liblog.so
+SHA1-Digest-Manifest: TQKwcva5jBKXIuUtA2b/5oSiwjA=
+
+Name: system/media/audio/ringtones/Calypso_Steel.ogg
+SHA1-Digest-Manifest: W3NserGtGJ6PCYi4t+VJpK581M8=
+
+Name: system/vendor/lib/libllvm-glnext.so
+SHA1-Digest-Manifest: SEYGL9I4FaWTmtwruQYEBN6msH0=
+
+Name: system/lib/libm.so
+SHA1-Digest-Manifest: hSZXN0WmqqyZUXMpYHb0gbn6bM8=
+
+Name: system/vendor/lib/libdrmtime.so
+SHA1-Digest-Manifest: AukaDnK9Z+IhYLQO5cj3XjncNwc=
+
+Name: system/lib/libGLES_trace.so
+SHA1-Digest-Manifest: pwUoY99go5d/OVAuVECvqySrUGQ=
+
+Name: system/app/Bluetooth/Bluetooth.apk
+SHA1-Digest-Manifest: +JBNxpZ5ZhbsQ+YO/VyO53mMaaY=
+
+Name: system/vendor/lib/libffmpeg_extractor.so
+SHA1-Digest-Manifest: y516CrtAq2CvuGgLdNqEdvVviT8=
+
+Name: system/lib/libgiftranscode.so
+SHA1-Digest-Manifest: lfIYWzDjWEtuoFl8ecS5rmvY0ws=
+
+Name: system/etc/security/cacerts/3c9a4d3b.0
+SHA1-Digest-Manifest: 0I1HY4A8tITfbmh8ag76zKey0cQ=
+
+Name: system/etc/izat.conf
+SHA1-Digest-Manifest: dhQvPTIwDKdY0yAQZBRregcu+xM=
+
+Name: system/etc/permissions/org.cyanogenmod.partner.xml
+SHA1-Digest-Manifest: JawfbyHgj1z0nSydfudTC2q/Sl4=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c532.kl
+SHA1-Digest-Manifest: uLc7pyyR3HK7SZbqxNhxTnBjvQU=
+
+Name: system/lib/libhwui.so
+SHA1-Digest-Manifest: 9jS7oSd/u7kf3PTzCe/Wgl/tVPI=
+
+Name: system/etc/dhcpcd/dhcpcd-run-hooks
+SHA1-Digest-Manifest: XrrM2h9mRf0h0QuKfu0rxZQ4yfQ=
+
+Name: system/lib/libwcnss_qmi.so
+SHA1-Digest-Manifest: 2GGPS/75Ngnn9YgeX/pdema61Kc=
+
+Name: system/fonts/NotoSansKayahLi-Regular.ttf
+SHA1-Digest-Manifest: DDs/7mLdx369TglVURkOEj6hb7s=
+
+Name: system/etc/firmware/Signedrompatch_v21.bin
+SHA1-Digest-Manifest: HPTa4TmopYOAqFGMlFQ81aV4mDo=
+
+Name: system/lib/libebt_standard.so
+SHA1-Digest-Manifest: TXAtWL8SynWoorezGg9hg6/l1tw=
+
+Name: system/etc/security/cacerts/052e396b.0
+SHA1-Digest-Manifest: Eri4LMJHAzCYcDIPDA6SNojIwt0=
+
+Name: system/vendor/lib/libSecureUILib.so
+SHA1-Digest-Manifest: +J4SigwbKIipnH0QSoBNpj6MWDw=
+
+Name: system/etc/security/cacerts/b0f3e76e.0
+SHA1-Digest-Manifest: FgPtfOb+A7How4fBz5IHd+c7Ijc=
+
+Name: system/bin/mm-qcamera-daemon
+SHA1-Digest-Manifest: 7mceKXjMxwW9AqwWij+2RGTbaaw=
+
+Name: system/media/audio/notifications/Proxima.ogg
+SHA1-Digest-Manifest: LGKrWlUADhw0KgUCKoJZa3Y8XZc=
+
+Name: system/media/audio/notifications/Argon.ogg
+SHA1-Digest-Manifest: HhYnnwVC3/jkQY5/qoN5EDEceVo=
+
+Name: system/media/audio/ringtones/Rasalas.ogg
+SHA1-Digest-Manifest: uzIyhQn4Y417/+IYN/FwuMHWsPI=
+
+Name: system/framework/tm.jar
+SHA1-Digest-Manifest: gGRECJO0k35tWo303z5P32oZKOc=
+
+Name: system/usr/share/vim/syntax/doxygen.vim
+SHA1-Digest-Manifest: 4hR+fjauNcaVevs/SvYK5tTcJ0U=
+
+Name: system/media/audio/ringtones/Champagne_Edition.ogg
+SHA1-Digest-Manifest: KaFzJPyp372kwnqo9vH86gUKibA=
+
+Name: system/usr/share/vim/syntax/gitcommit.vim
+SHA1-Digest-Manifest: VO1mURhr8NNvumBKmpbvhZlwLco=
+
+Name: system/vendor/lib/libadiertac.so
+SHA1-Digest-Manifest: GdmmPVoQd0sORTy5rBfT8wjXg1U=
+
+Name: system/etc/plmn_delta.bin
+SHA1-Digest-Manifest: 0nTpBLyi/cHHZ0lIE6GpXidjhXU=
+
+Name: system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+SHA1-Digest-Manifest: JtjyjXffFyk6W9JA4//D9hPATvU=
+
+Name: system/lib/libstagefright_soft_avcenc.so
+SHA1-Digest-Manifest: KXTl8HBcWYDLZ6HEJmKcasM9Pig=
+
+Name: system/media/audio/alarms/Alarm_Beep_03.ogg
+SHA1-Digest-Manifest: trvQ8a1u/zzL7q3B6Q/I5Lgjm3k=
+
+Name: system/lib/libwebrtc_audio_preprocessing.so
+SHA1-Digest-Manifest: tOI2Pz8YU78MoiOavwz8UQ6u8gg=
+
+Name: system/bin/secdiscard
+SHA1-Digest-Manifest: yrv71RRQm5LE+Fgdyg0kIRs9wcE=
+
+Name: system/bin/bugreport
+SHA1-Digest-Manifest: Jd2ImMA17RFF9p66yDXwAVQ/zDc=
+
+Name: system/fonts/NotoSansMandaic-Regular.ttf
+SHA1-Digest-Manifest: ro6K0u80u2+yRu8qtoSLerKHUAY=
+
+Name: system/lib/libsuspend.so
+SHA1-Digest-Manifest: 1pZopJsYEnLF9FsY3/BYBVVFIvQ=
+
+Name: system/fonts/Roboto-MediumItalic.ttf
+SHA1-Digest-Manifest: kS9ZCis3cR0gT1Z90XR5ZVRtBDo=
+
+Name: system/media/audio/ringtones/Luna.ogg
+SHA1-Digest-Manifest: LKMOmQ7iSX08xVsVXI6WD+FmdqI=
+
+Name: system/usr/hyphen-data/hyph-hu.hyb
+SHA1-Digest-Manifest: 5/uxUmMNPuNIWYEs6AXLjb3VhPk=
+
+Name: system/media/audio/ringtones/Umbriel.ogg
+SHA1-Digest-Manifest: YWwvyw+/H+u32EjFbT32T7g17+E=
+
+Name: system/framework/org.cyanogenmod.hardware.jar
+SHA1-Digest-Manifest: +dTOxF4jbjOfePxCFkKe3eMruXw=
+
+Name: system/xbin/check-lost+found
+SHA1-Digest-Manifest: eddM+OijdpNEOdsF7jEJwiIFVsQ=
+
+Name: system/lib/libnetutils.so
+SHA1-Digest-Manifest: x98FD+RPwsR7MBWMdydj2ieccLU=
+
+Name: system/bin/sh
+SHA1-Digest-Manifest: a8hwS/j2jSsTE3RQiyfn2CU26zQ=
+
+Name: META-INF/com/miui/replace_key
+SHA1-Digest-Manifest: 8S8EY+5cUNvV1RRDsxE5bzE8Mg0=
+
+Name: system/media/audio/ringtones/Cairo.ogg
+SHA1-Digest-Manifest: JCQVGRgmiRHO0MXF8TKIbhF+GeE=
+
+Name: system/vendor/lib/libbt-vendor.so
+SHA1-Digest-Manifest: rA1wh4A2gvFQ9tMc/ivWGulFuyw=
+
+Name: system/lib/libaudiospdif.so
+SHA1-Digest-Manifest: MXXqJRKmvwSjSoMMb7STKN3T2w0=
+
+Name: system/lib/libnl.so
+SHA1-Digest-Manifest: uRrHhBkcJauKdmPMV9UEsWyGf/o=
+
+Name: system/lib/libsurfaceflinger.so
+SHA1-Digest-Manifest: Ky77pmV+i1Cbz6Wasfd758qsKtw=
+
+Name: system/media/audio/notifications/Vega.ogg
+SHA1-Digest-Manifest: AXkmetkgFa/GiXrWjdR/hUR6FTQ=
+
+Name: system/etc/terminfo/c/cons25
+SHA1-Digest-Manifest: g5mm5t2HDqURr4vdHyY7UgxLxn0=
+
+Name: system/etc/security/cacerts/124bbd54.0
+SHA1-Digest-Manifest: 0Y5btc5O9kTs5oWDEfPzlSj/i3A=
+
+Name: system/etc/permissions/com.android.mediadrm.signer.xml
+SHA1-Digest-Manifest: fdS8s2M3k+0yks9z3q9szOGarBI=
+
+Name: system/lib/libsamsungRecord_ns.so
+SHA1-Digest-Manifest: 9frrF6l6zi/EisNAeM5IvJwlDWU=
+
+Name: system/media/audio/notifications/pizzicato.ogg
+SHA1-Digest-Manifest: LjgcPA1K6H6qP0BE/Qyau5L6D38=
+
+Name: boot.img
+SHA1-Digest-Manifest: HLLlaCxfrO1kBzma4jdkcvLy3aQ=
+
+Name: system/etc/ethertypes
+SHA1-Digest-Manifest: DfJVwKCEeB/pcvpr99JkDn3uM+Y=
+
+Name: system/lib/libomission_avoidance.so
+SHA1-Digest-Manifest: pSFjg1QHpa4DiLqDBvAB3Q6KxtU=
+
+Name: system/xbin/pigz
+SHA1-Digest-Manifest: 8Ny5+qYIJ90I6VUZvPcf1eJS/Ws=
+
+Name: system/media/audio/ringtones/Third_Eye.ogg
+SHA1-Digest-Manifest: HpCcmSiMRV88aI8GvoMCCOnWxfg=
+
+Name: system/lib/libext4_utils.so
+SHA1-Digest-Manifest: 2mrWhBVDBD1rzV2tdRmH6voghr4=
+
+Name: system/media/audio/ringtones/Oberon.ogg
+SHA1-Digest-Manifest: bOPX4Ty2g7qw2WFfbD3CewZJgXU=
+
+Name: system/vendor/lib/soundfx/libqcbassboost.so
+SHA1-Digest-Manifest: r+7V7b+1Y2Y3yz38MSC4vpZeiHo=
+
+Name: system/media/audio/ringtones/Pyxis.ogg
+SHA1-Digest-Manifest: pjXFkeBL1tdesn8jKy6uO4AO9UY=
+
+Name: system/usr/icu/icudt55l.dat
+SHA1-Digest-Manifest: 6MOPC8feZQDDTUnJE9TxyVLyUe8=
+
+Name: system/vendor/lib/libdsutils.so
+SHA1-Digest-Manifest: hf7uEEpxuUd4UJdRXSl2Nbm/w1o=
+
+Name: system/priv-app/DownloadProvider/DownloadProvider.apk
+SHA1-Digest-Manifest: B1LbHALYRbHdoqX9s7QmEuPS7/8=
+
+Name: system/vendor/lib/libril-qcril-hook-oem.so
+SHA1-Digest-Manifest: RM01k44/K1czDmG6aO/NfcaHXVs=
+
+Name: system/priv-app/Trebuchet/Trebuchet.apk
+SHA1-Digest-Manifest: v4HYEAf1QhITUYUCfYez4CGs934=
+
+Name: system/etc/preloaded-classes
+SHA1-Digest-Manifest: 2MSToopgT/xp/vLnz2MGh9Qribk=
+
+Name: system/usr/share/vim/syntax/conf.vim
+SHA1-Digest-Manifest: pgV4d18u30j2QN7VulxAlINQruQ=
+
+Name: system/lib/libjnigraphics.so
+SHA1-Digest-Manifest: 9W94buNxlj44/H12baB28ho0Q2Q=
+
+Name: system/lib/libemoji.so
+SHA1-Digest-Manifest: /NAAOBNij6tuKEUkQ1DP60L3oYE=
+
+Name: system/lib/libstagefright_soft_g711dec.so
+SHA1-Digest-Manifest: j6+J1rFIhJMqe53rms+t1WZtLjg=
+
+Name: system/media/audio/notifications/Antares.ogg
+SHA1-Digest-Manifest: 1pB+gfj3XR0WnUsvR8PMfN0Twig=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_snapshot.so
+SHA1-Digest-Manifest: eAzJzd+ZC80mi4asMxJarqB4UzY=
+
+Name: system/bin/tm
+SHA1-Digest-Manifest: e0Pnpkgz+6QJdKwVXliIaXaj8ME=
+
+Name: system/media/audio/ringtones/DreamTheme.ogg
+SHA1-Digest-Manifest: gpRdfHQK+kjh5oWDLAM9klVlWQM=
+
+Name: system/etc/security/mac_permissions.xml
+SHA1-Digest-Manifest: 3F7bD+qbeuzlS6qfW+pmAqf/fDU=
+
+Name: system/priv-app/CalendarProvider/CalendarProvider.apk
+SHA1-Digest-Manifest: UNTyR1bnanudWX4XE2BWWpM+jCE=
+
+Name: system/bin/iptables
+SHA1-Digest-Manifest: c/iZeMypf+4V1n0o9Go2ZUbDneU=
+
+Name: system/media/audio/ringtones/SpringyJalopy.ogg
+SHA1-Digest-Manifest: ASVmjcAYel5//dn1hGDDbA6bvUY=
+
+Name: system/media/audio/ringtones/Paradise_Island.ogg
+SHA1-Digest-Manifest: CU5cvUx4bpJIFEMAcyh6+JmyI3o=
+
+Name: system/etc/security/cacerts/ee90b008.0
+SHA1-Digest-Manifest: PxULKwpzPtjqEOM6RghwRQr7K7k=
+
+Name: system/etc/permissions/org.cyanogenmod.theme.xml
+SHA1-Digest-Manifest: ztJ3F+5s/LNYxwwDDUGkBwabtyY=
+
+Name: system/bin/tc
+SHA1-Digest-Manifest: DlifAE3NuNh51Y6g2ZEhkkLguU8=
+
+Name: system/lib/libvorbisidec.so
+SHA1-Digest-Manifest: Dh/jOFw9D1HQgYSZP//KnUfa1Bs=
+
+Name: system/lib/libdrmframework_jni.so
+SHA1-Digest-Manifest: NMarkjoykINb+0/GqE4aMXJ34eg=
+
+Name: system/priv-app/CallLogBackup/CallLogBackup.apk
+SHA1-Digest-Manifest: 6VczDuaUo+09ld6o4p7DV0HXGH8=
+
+Name: system/vendor/lib/libFlacSwDec.so
+SHA1-Digest-Manifest: jG1wF0OlRDnHEBZxgqvJZ7Q9eMQ=
+
+Name: system/bin/mdnsd
+SHA1-Digest-Manifest: 4VuTRjbOv/YpY2DxVQJsCsX4/FY=
+
+Name: system/etc/security/cacerts/b3fb433b.0
+SHA1-Digest-Manifest: 9YvD2LdOzYwb116Un96dXW/HIsk=
+
+Name: system/tts/lang_pico/en-GB_kh0_sg.bin
+SHA1-Digest-Manifest: Nvij8RZMnJKFf6AdSk78ZVEEIvE=
+
+Name: system/bin/sm
+SHA1-Digest-Manifest: AQSKMyteC6q1InX+AFbv3NCw91U=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c21f.kl
+SHA1-Digest-Manifest: 0xPaVtOmjdtFKtO+WgFDZWvJyxU=
+
+Name: system/bin/fsck.ntfs
+SHA1-Digest-Manifest: h4GW32ZiEda3/S9RM+QHhvEDWuI=
+
+Name: system/media/audio/ui/WirelessChargingStarted.ogg
+SHA1-Digest-Manifest: bJ0SMunnC2QkIPLXABrmp4FXaBE=
+
+Name: system/media/audio/notifications/moonbeam.ogg
+SHA1-Digest-Manifest: pn47ZCD4RSuatHbRznhEq5wxgJA=
+
+Name: system/usr/hyphen-data/hyph-nb.lic.txt
+SHA1-Digest-Manifest: h8fogArVLkLXCcDsnEZFuPdZEVU=
+
+Name: system/bin/wm
+SHA1-Digest-Manifest: AR6omFtIYY3mdX5QchJKYkFf7cg=
+
+Name: system/lib/libdrmdecrypt.so
+SHA1-Digest-Manifest: fVMuYM/PpzwUoDdy68Wi5NG7PvI=
+
+Name: system/fonts/NotoSansTamilUI-Bold.ttf
+SHA1-Digest-Manifest: 4EOZeewbdYzS3Z4xxPZphnl/8iY=
+
+Name: system/lib/libchromatix_imx135_golfshot.so
+SHA1-Digest-Manifest: 5YHFxTUYiJCZB8iTHCE0pg5lRD0=
+
+Name: system/etc/permissions/org.cyanogenmod.platform.xml
+SHA1-Digest-Manifest: Sh8HQUhomMKy8F/67teJj+/Evis=
+
+Name: system/media/audio/ringtones/Yukaay.ogg
+SHA1-Digest-Manifest: 0wzF9etqP99Y4sMRnV1jCkem2HQ=
+
+Name: system/vendor/lib/egl/libRBEGL_adreno.so
+SHA1-Digest-Manifest: dfJP+qviiUa46LG0AuuIocy2EX8=
+
+Name: system/lib/libaf_algo_rear.so
+SHA1-Digest-Manifest: rlkOmRbIlz/m/Ft9km3ACzEbZyM=
+
+Name: system/media/audio/ui/Unlock.ogg
+SHA1-Digest-Manifest: +aLQIIAsI7KjJG1LAT6C3s3GrBs=
+
+Name: system/vendor/lib/libmm-color-convertor.so
+SHA1-Digest-Manifest: T61pvussKlPUGibitX9mVC2k2lM=
+
+Name: system/media/audio/ringtones/Vespa.ogg
+SHA1-Digest-Manifest: DG8LjUjQCBw2q/LrHgYJy4gHclg=
+
+Name: system/etc/nano/groff.nanorc
+SHA1-Digest-Manifest: V7e9FaX4ZytFQ/sL0DzdJ8peWeI=
+
+Name: system/vendor/lib/libmmcamera_lsi_s5k5e3yx_eeprom.so
+SHA1-Digest-Manifest: /+x9diuY9/eNNydKYoV6eRsIws8=
+
+Name: system/media/audio/ringtones/Testudo.ogg
+SHA1-Digest-Manifest: 1QqXoSFOYoowOF6khU/mEoHy2po=
+
+Name: system/media/audio/ringtones/World.ogg
+SHA1-Digest-Manifest: Jr+ottZZz+L+nulxLv5Swwl7Yow=
+
+Name: system/vendor/lib/egl/libESXEGL_adreno.so
+SHA1-Digest-Manifest: 3FStQ3rKZH202+vq/u5nM+vPtrM=
+
+Name: system/fonts/AndroidClock_Highlight.ttf
+SHA1-Digest-Manifest: ISIbNNsaglHJPudXd/vtlNAuOVQ=
+
+Name: system/framework/core-libart.jar
+SHA1-Digest-Manifest: Ba5VQtpPMnFJt9Ct2qmQRaVldt4=
+
+Name: system/tts/lang_pico/it-IT_cm0_sg.bin
+SHA1-Digest-Manifest: rnh7Xn11wgxlksoos2j4/cAF2+I=
+
+Name: system/usr/share/vim/syntax/syntax.vim
+SHA1-Digest-Manifest: I2PkItDj05IXPJqSEyp/578GFGA=
+
+Name: system/etc/security/cacerts/2add47b6.0
+SHA1-Digest-Manifest: m8lC3lcjMWpAt7rxDe1Sslour14=
+
+Name: system/vendor/lib/libmmcamera_imx135.so
+SHA1-Digest-Manifest: C8G0IXWOd6NDdIqa/y0zZRNP0qI=
+
+Name: system/lib/libstagefright_soft_mp3dec.so
+SHA1-Digest-Manifest: 8zE8Tqu1Qcm9KDtrE6xI0yk1d0k=
+
+Name: system/etc/security/cacerts/9339512a.0
+SHA1-Digest-Manifest: b/2l4Yo+Q94chOVtfdrcTcPiTRY=
+
+Name: system/media/audio/notifications/KzurbSonar.ogg
+SHA1-Digest-Manifest: VcVwhyt5M6CUTsNQT50+Eq+amII=
+
+Name: system/fonts/Roboto-Thin.ttf
+SHA1-Digest-Manifest: +b5aYYnvfckkcGyBS+uAN4VW5zE=
+
+Name: system/lib/hw/hwcomposer.msm8916.so
+SHA1-Digest-Manifest: 1GBcREawG8NmdLibYRLBhqpetu4=
+
+Name: system/etc/firmware/Signedrompatch_v30.bin
+SHA1-Digest-Manifest: iUDYf6+Pzc2pkBqnSyCIV0wIHPA=
+
+Name: system/bin/tune2fs
+SHA1-Digest-Manifest: JQGSa8VgqFFsi1Ne20yN5Vazcds=
+
+Name: system/bin/qmuxd
+SHA1-Digest-Manifest: +d4JJ0ihIAdpf8tZXJuGvXf+zUU=
+
+Name: system/usr/share/vim/syntax/javascript.vim
+SHA1-Digest-Manifest: nRrtD6rzclsJsJ2zbgA1V05+bM0=
+
+Name: system/media/audio/alarms/Alarm_Beep_01.ogg
+SHA1-Digest-Manifest: VfGVvIg+rMhK4o1UthmYDw2xG24=
+
+Name: system/lib/libhdmi.so
+SHA1-Digest-Manifest: BOk3I5bmIinU5XZo3cSgsxDOSEM=
+
+Name: system/lib/libstagefright_foundation.so
+SHA1-Digest-Manifest: UhWRgh5O06WyJB6XsOYwwIX2VhQ=
+
+Name: system/xbin/sane_schedstat
+SHA1-Digest-Manifest: LrQM6kdoM4OedYAXg+Fzj8Pue18=
+
+Name: system/lib/libkeymaster1.so
+SHA1-Digest-Manifest: ThLf8uI50XsSxUX2cnDUGzOZj6I=
+
+Name: system/xbin/rawbu
+SHA1-Digest-Manifest: Jl6E+WPWOmysPTm9YsK+vuvslq4=
+
+Name: system/media/audio/ringtones/Shes_All_That.ogg
+SHA1-Digest-Manifest: E19SHFyaTl3gLreM4EppL4K0x4k=
+
+Name: system/fonts/AndroidClock.ttf
+SHA1-Digest-Manifest: bjBwdHSTMYNwicEOxkZ4JsdDmdM=
+
+Name: system/usr/share/vim/syntax/context.vim
+SHA1-Digest-Manifest: YeYvEnOpVbAL+N6sAn38s9N0Xw8=
+
+Name: system/etc/Handset_cal.acdb
+SHA1-Digest-Manifest: O3XjD775adLep4CsGeAeXGdD3Oo=
+
+Name: system/media/audio/notifications/Thallium.ogg
+SHA1-Digest-Manifest: labxWBN5qUXN0Ur4m3XOUMgkod0=
+
+Name: system/lib/libOmxQcelp13Enc.so
+SHA1-Digest-Manifest: Qdxvp0SmNl9Wdrx5+vTvrSjbkTk=
+
+Name: system/media/audio/ringtones/LoveFlute.ogg
+SHA1-Digest-Manifest: OcMeITbz82PnJZUhBm5Z1vEPL4U=
+
+Name: system/usr/keylayout/Vendor_046d_Product_b501.kl
+SHA1-Digest-Manifest: v+xDEoSD655w6O3EV2R8r8Vlq5s=
+
+Name: system/fonts/NotoSansMyanmar-Regular.ttf
+SHA1-Digest-Manifest: RhSHFJL0gnodpABYV8A4CUUV3sc=
+
+Name: system/framework/core-junit.jar
+SHA1-Digest-Manifest: Py6QPvcTFbgmx4jBrqvxx85UTvs=
+
+Name: system/lib/libdl.so
+SHA1-Digest-Manifest: syxMdaSRNn+xiYqKop70dr+Ngvc=
+
+Name: system/bin/curl
+SHA1-Digest-Manifest: t8E5wrDXjK320ERUv49vNIYLDY8=
+
+Name: system/fonts/NotoSansRejang-Regular.ttf
+SHA1-Digest-Manifest: lpXOwBijxzHZlqYXRj6Tc0vh804=
+
+Name: system/etc/security/cacerts/3c58f906.0
+SHA1-Digest-Manifest: pgncAGJJ074qTt5tsOnZw3uRYa4=
+
+Name: system/fonts/NotoSansTaiTham-Regular.ttf
+SHA1-Digest-Manifest: ZvrtAOWVHL7+Kpi+EvlycdF0SyI=
+
+Name: system/fonts/NotoSansTelugu-Bold.ttf
+SHA1-Digest-Manifest: 4MvGOOPMqMdlbFML2tQLJn9AAto=
+
+Name: system/media/audio/notifications/Betelgeuse.ogg
+SHA1-Digest-Manifest: yH2fE96xczBAqGnhzJlE6JPxS80=
+
+Name: system/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+SHA1-Digest-Manifest: quvdl71t+O+gcJq1j13Qu+XQjbg=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_video.so
+SHA1-Digest-Manifest: Eo+mBXzP5kcTY6qDY7AHfq4OvcY=
+
+Name: system/usr/idc/AVRCP.idc
+SHA1-Digest-Manifest: VCm70hJAnux18B4O13B7ZfJnjYQ=
+
+Name: system/etc/security/cacerts/0d5a4e1c.0
+SHA1-Digest-Manifest: Nuer4A3Qjp5fUrCJ3E9QM6sZy28=
+
+Name: system/fonts/NotoSansArmenian-Regular.ttf
+SHA1-Digest-Manifest: jLdqr1PATiIKYPApET3DZhiJFaQ=
+
+Name: system/vendor/lib/liblbs_core.so
+SHA1-Digest-Manifest: Wd+h1PG6yUJu1JraT89FYGT21sE=
+
+Name: system/etc/security/cacerts/b0ed035a.0
+SHA1-Digest-Manifest: hnXSIQMysEbGCK9Nc6CTN2Drv1w=
+
+Name: system/etc/security/cacerts/56b8a0b6.0
+SHA1-Digest-Manifest: XORYsVkwVouBTsYKOWUOl7x1dTQ=
+
+Name: system/fonts/NotoSansGujarati-Regular.ttf
+SHA1-Digest-Manifest: VA6tHOr/CSRMJoLCPjwWRDarSsc=
+
+Name: system/lib/hw/memtrack.msm8916.so
+SHA1-Digest-Manifest: 5hg5mU58VMzD9H7UOPgh4AlImUw=
+
+Name: system/lib/libstagefright_soft_avcdec.so
+SHA1-Digest-Manifest: Hjt5JTHZtFPiQEnWVuQvAUGYpx0=
+
+Name: system/lib/liboverlay.so
+SHA1-Digest-Manifest: r9ftjHC8P+1YvLPjdlJaJVMP7Vg=
+
+Name: system/media/audio/ringtones/Lyon.ogg
+SHA1-Digest-Manifest: 9VNfACiziCQ/mem3HDQ5fy9vmZU=
+
+Name: system/lib/modules/tcp_htcp.ko
+SHA1-Digest-Manifest: hj5qaEEjUK0My6fMch+1Ec7ndjo=
+
+Name: system/bin/sgdisk
+SHA1-Digest-Manifest: iLFZ+QvrSo9rEQO5zOoijR6q8ZA=
+
+Name: system/lib/libhdcp2.so
+SHA1-Digest-Manifest: 3D1UkD8/CzEbePch8m3l7R7sAAg=
+
+Name: system/media/audio/ringtones/Seville.ogg
+SHA1-Digest-Manifest: J5OqHO/8BtMLNvZRzrzI8Pb/31c=
+
+Name: system/etc/terminfo/r/rxvt-basic
+SHA1-Digest-Manifest: iWVCm+bao2RwU2vPRcQIy8VcJF8=
+
+Name: system/fonts/NotoSansBamum-Regular.ttf
+SHA1-Digest-Manifest: aQ707ilDjHCbxJGqxrq7edSFQyk=
+
+Name: system/app/PhaseBeam/PhaseBeam.apk
+SHA1-Digest-Manifest: TbzXdkl4Lh8VazCzKMyW3VSF5BQ=
+
+Name: system/etc/permissions/com.cyanogenmod.nfc.enhanced.xml
+SHA1-Digest-Manifest: MwNqMuzN9y6xxIKavpkfIwH1GFc=
+
+Name: system/media/audio/notifications/Xenon.ogg
+SHA1-Digest-Manifest: HnRSqIvJwV/tZLcpvYukT2/xnMA=
+
+Name: system/fonts/NotoSansDevanagariUI-Bold.ttf
+SHA1-Digest-Manifest: ZbmMJQ4AswdzghJHIY4q6fiPW3U=
+
+Name: system/fonts/NotoSansHebrew-Bold.ttf
+SHA1-Digest-Manifest: x8NgevZJ5NVc3kfS2c4jLmdTS+Q=
+
+Name: system/etc/security/cacerts/a7605362.0
+SHA1-Digest-Manifest: XskBtSxaf+pxttHF1W7NaAR+dd4=
+
+Name: system/etc/firmware/cpp_firmware_v1_4_0.fw
+SHA1-Digest-Manifest: 4cXjYv2AwmMtatcoCEY9uFakvAA=
+
+Name: system/fonts/NotoSansDevanagari-Bold.ttf
+SHA1-Digest-Manifest: y5CZy6kPPrtZ9+2cbRVZhOPiqXs=
+
+Name: system/bin/wpa_supplicant
+SHA1-Digest-Manifest: 6O5I+CbYP7KeSByu8NYqJL0eRNI=
+
+Name: system/lib/libnetlink.so
+SHA1-Digest-Manifest: tCwjxjQ4+udIxo+L5MV/MA13DnE=
+
+Name: system/app/CaptivePortalLogin/CaptivePortalLogin.apk
+SHA1-Digest-Manifest: BKN5GmaSQ5TEawfl+w+kRYKei34=
+
+Name: system/lib/libstagefright_soft_flacenc.so
+SHA1-Digest-Manifest: xq37WaBKwUU7dPTL4YpfowmSiZc=
+
+Name: system/media/audio/ui/KeypressStandard.ogg
+SHA1-Digest-Manifest: wEVR8hdXxim6KOhOsP/6sYQ6Zno=
+
+Name: system/lib/libjni_snaptinyplanet.so
+SHA1-Digest-Manifest: a2KpRn/RCFDFM1bpE3e/alzx8Cg=
+
+Name: system/usr/share/vim/doc/intro.txt
+SHA1-Digest-Manifest: Vh0mfmhKoms3mVFv6EoStpaQoSI=
+
+Name: system/lib/libjavacrypto.so
+SHA1-Digest-Manifest: /MMaXA7wzBIfQF4hEV3dCIxvknc=
+
+Name: system/lib/modules/evbug.ko
+SHA1-Digest-Manifest: mWAsEJZTg8Wz5qJAodFzlsIY4bM=
+
+Name: system/fonts/NotoSansTamil-Bold.ttf
+SHA1-Digest-Manifest: Ur7phQCe8JzSq4+fhxx633DMTWc=
+
+Name: system/etc/security/cacerts/3ad48a91.0
+SHA1-Digest-Manifest: CkUgX7gm2sXlBHaSDIqry2um83w=
+
+Name: system/etc/security/cacerts/89c02a45.0
+SHA1-Digest-Manifest: TqlsxVaosspuuUS1b0DlzdAoxGk=
+
+Name: system/bin/logd
+SHA1-Digest-Manifest: 2/O0PCjm6y22+X2l/i5NatoAJIg=
+
+Name: system/lib/libradio.so
+SHA1-Digest-Manifest: 69eMORz32aCOjAovw+ZUSw0wLqs=
+
+Name: system/framework/org.cyanogenmod.platform.jar
+SHA1-Digest-Manifest: 9FoqP3YNkWQSYgYQivJ8ha7k3cM=
+
+Name: system/lib/hw/power.default.so
+SHA1-Digest-Manifest: 3ae/FmatLjZsCFZXP/9WgKITJYI=
+
+Name: system/fonts/NotoSansKhmerUI-Regular.ttf
+SHA1-Digest-Manifest: Y2agOgYTnf0aLwYZwNDIkI18s9U=
+
+Name: system/bin/schedtest
+SHA1-Digest-Manifest: bs40h+Fn24E7CoXpE75TQ0nYjYA=
+
+Name: system/lib/libcommon_time_client.so
+SHA1-Digest-Manifest: ++/APZIIroeR28ZYFg+6t0wjttA=
+
+Name: system/fonts/NotoSansGujarati-Bold.ttf
+SHA1-Digest-Manifest: glmh78rt1PSS0U6e7zRPv388GJg=
+
+Name: system/etc/nano/css.nanorc
+SHA1-Digest-Manifest: Wy6hUFZKMe5Zru8fxswtzjEMgeQ=
+
+Name: system/fonts/NotoSansTamilUI-Regular.ttf
+SHA1-Digest-Manifest: usEUAljeP3z8RszghQB94fQEHCc=
+
+Name: system/lib/libawb_algo_rear_al.so
+SHA1-Digest-Manifest: pzD9OVnv6qHbi95W/OyI7aPs5zY=
+
+Name: system/priv-app/ProxyHandler/ProxyHandler.apk
+SHA1-Digest-Manifest: rD960c4GoE/IphBYR1tnAwXYwEE=
+
+Name: system/vendor/lib/hw/power.msm8916.so
+SHA1-Digest-Manifest: EQjck52rWbxdZ4T5YMf8AYi04Ko=
+
+Name: system/etc/security/cacerts/1676090a.0
+SHA1-Digest-Manifest: EjWvQLXAevrU7ZPuJrHpXXYz43M=
+
+Name: system/etc/security/cacerts/04f60c28.0
+SHA1-Digest-Manifest: vFmN4XMKYa5TnYwU5RIISI5Hg58=
+
+Name: system/etc/security/cacerts/3c6676aa.0
+SHA1-Digest-Manifest: DBzqScbCXnZc+AH5PeT5UutDs1w=
+
+Name: system/media/audio/ringtones/CaribbeanIce.ogg
+SHA1-Digest-Manifest: SQgjv1jT8oPEIVRORsXGVCvZx90=
+
+Name: system/lib/libgui.so
+SHA1-Digest-Manifest: 5oBc7qh/JvMQ1HdIS5xDOue7wWE=
+
+Name: system/fonts/NotoSansCham-Regular.ttf
+SHA1-Digest-Manifest: o2HqGuHimXvFTiyPLu4yVCn5K6g=
+
+Name: system/vendor/lib/libOmxQcelp13Dec.so
+SHA1-Digest-Manifest: m8SU59y7nYGCby9Mp3l4omHEFdA=
+
+Name: system/priv-app/Tag/Tag.apk
+SHA1-Digest-Manifest: InA8bSCVVf3OYV9kz4TkqBkjKFc=
+
+Name: system/vendor/lib/lib-sec-disp.so
+SHA1-Digest-Manifest: X4ijUZUc9tDvOtUr9ZYlf/+7+ww=
+
+Name: system/xbin/vim
+SHA1-Digest-Manifest: lgctmPunWjL9dwa753L7xRbycrs=
+
+Name: system/vendor/lib/librs_adreno_sha1.so
+SHA1-Digest-Manifest: 0Hmo9UBkd0LgGwbQYTFBHsbESI4=
+
+Name: system/etc/permissions/qcom.fmradio.xml
+SHA1-Digest-Manifest: wM72kHM4eAkj3YcEVa4ibNDUvJo=
+
+Name: system/etc/terminfo/E/Eterm-color
+SHA1-Digest-Manifest: 1Y/v6XV0yPxERPAovoUPZVyegUs=
+
+Name: system/etc/permissions/org.cyanogenmod.audio.xml
+SHA1-Digest-Manifest: QFrTJ2DUyUdtWtpMi8oPxbVANs0=
+
+Name: system/media/audio/notifications/DontPanic.ogg
+SHA1-Digest-Manifest: ynTP9uC8Tlzn0mvUV9PfHcfBoLg=
+
+Name: system/xbin/puncture_fs
+SHA1-Digest-Manifest: +TbBrMf7OTHEpv9EXx4GKuFho7U=
+
+Name: system/lib/libeffects.so
+SHA1-Digest-Manifest: B2GOcIT1mwYNgedYbR7VOQqe9IE=
+
+Name: system/usr/share/vim/syntax/diff.vim
+SHA1-Digest-Manifest: gpbgPr8krYpt6h6kBOwTT2gjwMo=
+
+Name: system/bin/audiod
+SHA1-Digest-Manifest: ewiv6Izj1FIUd6XX9ld9T9tIxCg=
+
+Name: system/lib/libclcore_debug.bc
+SHA1-Digest-Manifest: 3PzLTOykJ6rlrukwLkKrJelZClo=
+
+Name: system/lib/libsysutils.so
+SHA1-Digest-Manifest: a66vJbwLU/01FOkhsddm8/LuP3U=
+
+Name: system/media/audio/ringtones/Glacial_Groove.ogg
+SHA1-Digest-Manifest: 9M+e83znvBcCe+2hrCHURwSYj8w=
+
+Name: system/vendor/lib/liblocationservice.so
+SHA1-Digest-Manifest: IqWsjfP86E/f4BkS5OGsZ7kQ3Pg=
+
+Name: system/etc/security/cacerts/ab5346f4.0
+SHA1-Digest-Manifest: H7kcs5AIra4jxDThnv5YNVamvTM=
+
+Name: system/media/audio/ringtones/Ganymede.ogg
+SHA1-Digest-Manifest: 6HAncrChqR7w6BoelYrmjd6HCSQ=
+
+Name: system/media/audio/ringtones/HalfwayHome.ogg
+SHA1-Digest-Manifest: wyrYCffeViie8bRhm/IRXnw6lYo=
+
+Name: system/vendor/lib/libcryptfs_hw.so
+SHA1-Digest-Manifest: 1qPU3TsNwCjyZ3y2eSetYePIwNA=
+
+Name: system/lib/libOmxCore.so
+SHA1-Digest-Manifest: Gwvuy1LNs3rR6MkX6uSCSs360/4=
+
+Name: system/xbin/ksminfo
+SHA1-Digest-Manifest: g99kFnSjk6go1hmbAgJ0D2NKqDY=
+
+Name: system/priv-app/WeatherProvider/WeatherProvider.apk
+SHA1-Digest-Manifest: 3LMZCChzEbxNR+l0cx8sxEbbkG8=
+
+Name: system/vendor/firmware/sec_s3fwrn5_firmware.bin
+SHA1-Digest-Manifest: ViKywa7HFn9c8S/svZQJSsVdXMA=
+
+Name: system/media/audio/ringtones/Themos.ogg
+SHA1-Digest-Manifest: 5RM/JcMs2Hjb4nftACxQvOBNhYQ=
+
+Name: system/lib/libGLESv1_CM.so
+SHA1-Digest-Manifest: UwMablPeUgC5Y8LfzZFHBUvF7TI=
+
+Name: system/etc/terminfo/x/xterm-256color
+SHA1-Digest-Manifest: 1sV4Wuy9xbvyGSzBjETfNwcl/F8=
+
+Name: system/etc/nano/html.nanorc
+SHA1-Digest-Manifest: PpFN+Rm5VhEI5Y5xDXRFtmI/0b4=
+
+Name: system/lib/libebt_802_3.so
+SHA1-Digest-Manifest: BgKk+QXMMw4rsHdUUOA4tc8waXc=
+
+Name: system/etc/nano/c.nanorc
+SHA1-Digest-Manifest: SLuvQT3+P3gBs3+zSgpKZ1KfufA=
+
+Name: system/etc/security/cacerts/95aff9e3.0
+SHA1-Digest-Manifest: Wwe6pYMj9xD55+g8YELai9XLMUk=
+
+Name: system/app/SoundRecorder/SoundRecorder.apk
+SHA1-Digest-Manifest: IVcaVdrpx/VaAsJrOALffd+SRrQ=
+
+Name: system/bin/media
+SHA1-Digest-Manifest: 8HX+UiY1XwfgUCOD88pE0wNJo5E=
+
+Name: system/framework/okhttp.jar
+SHA1-Digest-Manifest: hMzu1zYcGj7KN9d/fgHuWtH6UN4=
+
+Name: system/priv-app/InputDevices/InputDevices.apk
+SHA1-Digest-Manifest: 3RT6YYXu45ysq+5uw07nNhDxPYI=
+
+Name: system/app/webview/webview.apk
+SHA1-Digest-Manifest: 342l4l9PRsSJpw/dLYiEr5uoir4=
+
+Name: system/fonts/NotoSansBengali-Regular.ttf
+SHA1-Digest-Manifest: FNm3KFjRq1+KfgZpWPWuZbusjdA=
+
+Name: system/fonts/NotoSansKhmer-Bold.ttf
+SHA1-Digest-Manifest: hO2NjvmwFWbQeRua8buXpnCRe6Q=
+
+Name: system/lib/libbacktrace.so
+SHA1-Digest-Manifest: y3tDh21QkFkIe9rGxzK68qKW1B0=
+
+Name: system/vendor/lib/libulp2.so
+SHA1-Digest-Manifest: AyRtTfb6DVZHRRMNKcc8rl8Fk9Q=
+
+Name: system/usr/keylayout/Vendor_18d1_Product_5018.kl
+SHA1-Digest-Manifest: PWUSmSUTk4489GuTppkIZ435UTA=
+
+Name: system/vendor/lib/libsecureui.so
+SHA1-Digest-Manifest: UiGBhPuD33U9TMF/Iw7TRuqxvpQ=
+
+Name: system/vendor/lib/egl/libGLESv2_adreno.so
+SHA1-Digest-Manifest: Ri4/S0oFFg9y1G6REtSpWWssSNE=
+
+Name: system/usr/share/vim/syntax/vb.vim
+SHA1-Digest-Manifest: uAEGIy5vRgBA+gwtoqUccJDzNHE=
+
+Name: system/etc/security/cacerts/455f1b52.0
+SHA1-Digest-Manifest: MOpId0T40vODM9RGirbhdbck4pQ=
+
+Name: system/priv-app/ExternalStorageProvider/ExternalStorageProvider.
+ apk
+SHA1-Digest-Manifest: MfIY0OtCy+6O7/3K+vToE4U3YL4=
+
+Name: system/fonts/NotoSansArmenian-Bold.ttf
+SHA1-Digest-Manifest: 6sa6w+2r4yb58BAdi+mkl3FekHc=
+
+Name: system/media/audio/alarms/Scandium.ogg
+SHA1-Digest-Manifest: lUJO6+c51augLEooakLRfsyASj4=
+
+Name: system/media/audio/notifications/Shaula.ogg
+SHA1-Digest-Manifest: OR75aW7jJyyIBSuaNjBeKAlvq58=
+
+Name: system/etc/security/cacerts/d18e9066.0
+SHA1-Digest-Manifest: xEKNV2xdO6QmSbSbCS8d6IX1uKc=
+
+Name: system/vendor/lib/libWVStreamControlAPI_L1.so
+SHA1-Digest-Manifest: FcJKTTImDiSbBjD2hhXHqPboThk=
+
+Name: system/framework/telephony-common.jar
+SHA1-Digest-Manifest: brUZ/o/TNPpXPJpMIJE1G1PvfDA=
+
+Name: system/lib/drm/libfwdlockengine.so
+SHA1-Digest-Manifest: xmrMCd5JK/3BcmGxs5SLA1Kt8C0=
+
+Name: system/bin/keystore
+SHA1-Digest-Manifest: yo5vKWEksrkbiEDLVJC3tPSe0cI=
+
+Name: system/etc/libnfc-brcm.conf
+SHA1-Digest-Manifest: EH0ZmFkUoj7SBYCdpIaOysN+YNA=
+
+Name: system/etc/security/cacerts/e442e424.0
+SHA1-Digest-Manifest: i52o0LSm1kAKhMaqA9ZVcdptTug=
+
+Name: system/lib/libbcinfo.so
+SHA1-Digest-Manifest: Xl5B8FL+7WoIGUmpoKwa8nzl/BU=
+
+Name: system/media/audio/notifications/Arcturus.ogg
+SHA1-Digest-Manifest: Zm62ZsXMmMSaNdanuz0zKmsOmaQ=
+
+Name: system/etc/security/cacerts/4d654d1d.0
+SHA1-Digest-Manifest: q3h6WOw0hwUxaMC0K29KnjB+lks=
+
+Name: system/lib/libchromatix_imx135_common_res3.so
+SHA1-Digest-Manifest: tY0GllGd9XprT/0G/h5v52bVcoY=
+
+Name: system/media/audio/ringtones/EtherShake.ogg
+SHA1-Digest-Manifest: f74c9hf6HCtxVDhhzr5RlduAycU=
+
+Name: system/bin/tinycap
+SHA1-Digest-Manifest: j4t8PfhuFpmJsuk1YgkCXDxVJbs=
+
+Name: system/lib/libtinycompress.so
+SHA1-Digest-Manifest: w4KqgaCakMsSfD8qR/tTB4aeI14=
+
+Name: system/lib/libwifi-service.so
+SHA1-Digest-Manifest: x4gqac9yM9EToyYfr9Sl2tjeVEQ=
+
+Name: system/media/audio/ui/VideoRecord.ogg
+SHA1-Digest-Manifest: hX3SQbVFL8eKRIImlhE1C7k2COw=
+
+Name: system/lib/libaudioeffect_jni.so
+SHA1-Digest-Manifest: vJ7Xp9wDPfP+UseDwBus855lDXo=
+
+Name: system/vendor/lib/libqmi_client_qmux.so
+SHA1-Digest-Manifest: 7Wn6tfqB4zwmne2raKClBOBodCE=
+
+Name: system/etc/nano/objc.nanorc
+SHA1-Digest-Manifest: rX7ZjAzA388rS+IHLNIhI8LL1FI=
+
+Name: system/etc/security/cacerts/0d69c7e1.0
+SHA1-Digest-Manifest: J2GDpvadjB6lWNmW+VV6EdyRP1E=
+
+Name: system/lib/soundfx/libaudioeffectoffload.so
+SHA1-Digest-Manifest: jEDtmNztPjVFYxBkpMKdARxLuVA=
+
+Name: system/framework/uiautomator.jar
+SHA1-Digest-Manifest: 4vF+2ekRASYV67G0p6ZJvxX1ExE=
+
+Name: system/xbin/zip
+SHA1-Digest-Manifest: gghMb7wMv8KisTNaprsotfWZPJE=
+
+Name: system/media/audio/ringtones/Rockin.ogg
+SHA1-Digest-Manifest: ZrzJYtGlVSwe5JfpkOmgK5bWC+Y=
+
+Name: system/fonts/NotoSansTifinagh-Regular.ttf
+SHA1-Digest-Manifest: KSdndFcU8HPJQvKyY8TD1/lKN9k=
+
+Name: system/media/audio/notifications/Cricket.ogg
+SHA1-Digest-Manifest: F+Lh3iN/UwLe6hyzV0y4fFC6BFM=
+
+Name: system/etc/security/otacerts.zip
+SHA1-Digest-Manifest: Aky8Foz7BkQ0boAD1Fx+V19aMt4=
+
+Name: system/etc/security/cacerts/12d55845.0
+SHA1-Digest-Manifest: 48MLai36QM5BE1NGeZONB8LOvzQ=
+
+Name: system/etc/security/cacerts/3d441de8.0
+SHA1-Digest-Manifest: DWN0CPt7jhV/mIAmuR/8JF9ZRuk=
+
+Name: system/lib/libimg_utils.so
+SHA1-Digest-Manifest: 3OyZ6bsEeoO5uOltidRqvOLHNz0=
+
+Name: system/lib/libchromatix_imx135_snapshot.so
+SHA1-Digest-Manifest: pxa1uezyixqQr5yz+jmdbIxPonk=
+
+Name: system/lib/libjavacore.so
+SHA1-Digest-Manifest: kI5NQo934T6Fs6UXzw9+4qkNbbE=
+
+Name: system/vendor/lib/libmmcamera2_isp_modules.so
+SHA1-Digest-Manifest: pfvKySwXTnakH8MXAe1gGEc1eAU=
+
+Name: system/lib/libextmedia_jni.so
+SHA1-Digest-Manifest: VddBntrOr6QpSDJnZLQb9lZjTlk=
+
+Name: system/media/audio/notifications/CyanMail.ogg
+SHA1-Digest-Manifest: zZVYCMG7NV0IKA5fLIP76YvObho=
+
+Name: system/usr/share/vim/scripts.vim
+SHA1-Digest-Manifest: 7rJGK378iUJyZIbU/ZPstNk5xEQ=
+
+Name: system/usr/keylayout/Vendor_0079_Product_0011.kl
+SHA1-Digest-Manifest: Kw/DW6E167165N2OqUKeEDdM3uk=
+
+Name: system/app/Profiles/Profiles.apk
+SHA1-Digest-Manifest: 0k8snfhP3lfRU+Tf82AmUHgdu0k=
+
+Name: system/bin/bdt
+SHA1-Digest-Manifest: QCngKCF0mJTxmiG04ytQh/OT4A4=
+
+Name: system/etc/security/cacerts/a2df7ad7.0
+SHA1-Digest-Manifest: mzM6eUZEHgEroZy3SW146TB5i6E=
+
+Name: system/lib/libmdnssd.so
+SHA1-Digest-Manifest: 9Lhjycl+MKver5qhenaW8ZNmFYI=
+
+Name: system/lib/libmediaplayerservice.so
+SHA1-Digest-Manifest: Z9FhF+1tlaAY0LY5DX7rE1gIj44=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c216.kl
+SHA1-Digest-Manifest: 334eygJ7+pqLeyMJvz5L56ffVVY=
+
+Name: system/lib/hw/vibrator.default.so
+SHA1-Digest-Manifest: xOuOEn4xS1S7B49rPhZ8gTjl3I4=
+
+Name: system/vendor/lib/libI420colorconvert.so
+SHA1-Digest-Manifest: wK0+vkM1BZnqQ0I8n0aQJWa9vVk=
+
+Name: system/app/CertInstaller/CertInstaller.apk
+SHA1-Digest-Manifest: N0zICfDO7Qws0doMeQPbKsfFJJo=
+
+Name: system/vendor/lib/libQSEEComAPI.so
+SHA1-Digest-Manifest: iel7hgypYNyZHJnqBiUz/Ew1p+0=
+
+Name: system/bin/netmgrd
+SHA1-Digest-Manifest: b9JnOdh2nKZixVKq/Zrj3e6Cu0k=
+
+Name: system/fonts/NotoSansNKo-Regular.ttf
+SHA1-Digest-Manifest: YZ9i1/9wj/beIQ9ST/OiuXZ5+cU=
+
+Name: system/etc/mixer_paths.xml
+SHA1-Digest-Manifest: Etwq59YZI5GxJDSkWL+aRXsi4QQ=
+
+Name: system/etc/security/cacerts/882de061.0
+SHA1-Digest-Manifest: rtyjkMr7w1xqb1BDM1kcgcQ2+4Y=
+
+Name: system/app/Galaxy4/Galaxy4.apk
+SHA1-Digest-Manifest: kj/z5gaYhgv+9gLzyPCUWYfM6/4=
+
+Name: system/etc/terminfo/w/wsvt25
+SHA1-Digest-Manifest: 52vEH1LVLQjl/ingNTcyvIN4Vcc=
+
+Name: system/etc/Speaker_cal.acdb
+SHA1-Digest-Manifest: VLQZ0Qgma0t1drm6Fnt7M+axNg8=
+
+Name: system/etc/mkshrc
+SHA1-Digest-Manifest: +oF9zVFbPWzfofYiCxrrtVGum1M=
+
+Name: system/etc/security/cacerts/5e4e69e7.0
+SHA1-Digest-Manifest: Wc+KQgewmMU/yV/5xsLVBzpMrhk=
+
+Name: system/etc/security/cacerts/a7d2cf64.0
+SHA1-Digest-Manifest: PP1W4JmvlJfyTvbYtuK1Gae8Is4=
+
+Name: system/etc/security/cacerts/7999be0d.0
+SHA1-Digest-Manifest: vBLJyN//iPe4eLgdpzjySYPn42g=
+
+Name: system/etc/ssh/sshd_config
+SHA1-Digest-Manifest: c924IKWXDHv8ndQBU4V3h1oJHWM=
+
+Name: system/fonts/NotoSansSundanese-Regular.ttf
+SHA1-Digest-Manifest: 5nJRZGF+bMoFh+ga3KL3sInoGus=
+
+Name: system/lib/libnfc-nci.so
+SHA1-Digest-Manifest: SjYDnvpSgoN+LzgfMlJqSROsfCE=
+
+Name: system/vendor/lib/soundfx/libqcvirt.so
+SHA1-Digest-Manifest: KfH17atE0G34RNDvXB/+DUk7w+A=
+
+Name: system/etc/security/cacerts/00673b5b.0
+SHA1-Digest-Manifest: xRqh5tT7PWQ/uvihgucbjzC8SjY=
+
+Name: system/media/audio/notifications/Carme.ogg
+SHA1-Digest-Manifest: bRoF4XZz14XggTENwTbSMeDIIJY=
+
+Name: system/etc/terminfo/v/vt52
+SHA1-Digest-Manifest: Dnm6UzL+vp18QCFIwkKG3hO0tog=
+
+Name: system/media/audio/ringtones/ArgoNavis.ogg
+SHA1-Digest-Manifest: sz7d+/E1RWY9E6V5s428an+Ox6k=
+
+Name: system/etc/permissions/org.cyanogenmod.weather.xml
+SHA1-Digest-Manifest: TJtfcWUtoqp8K2zf7Q2cB8hGcJs=
+
+Name: system/etc/terminfo/c/cygwin
+SHA1-Digest-Manifest: fpM7hXipPoAJYb133nkP63TtfhI=
+
+Name: system/media/audio/ringtones/No_Limits.ogg
+SHA1-Digest-Manifest: 5skJUZ9GZHPeSneCQAWFXA1scWA=
+
+Name: system/etc/security/cacerts/450c6e38.0
+SHA1-Digest-Manifest: c87QqmkYlKZaYxPwiZLrWuTpMNw=
+
+Name: system/lib/libebtable_filter.so
+SHA1-Digest-Manifest: cXWC1GSiGb67fC9o3bahv9n8jUA=
+
+Name: system/bin/bcc
+SHA1-Digest-Manifest: buFiCcOhXT6tcUI9z4VZFh8RKfY=
+
+Name: system/etc/media_profiles.xml
+SHA1-Digest-Manifest: CPIYoC3S+S9+lNPbONGRp3bWhUU=
+
+Name: system/lib/libawb_algo_front_al.so
+SHA1-Digest-Manifest: ylpLyap+g9IhDkXr2LJ0cJEE2CI=
+
+Name: system/app/Gallery2/Gallery2.apk
+SHA1-Digest-Manifest: PuJ48nKvSmUHyjjLOiaNtiWW+FM=
+
+Name: system/media/audio/ringtones/Triton.ogg
+SHA1-Digest-Manifest: rvV7Q8OTFr4QwW/aXjIQhia9sn4=
+
+Name: system/etc/security/cacerts/02b73561.0
+SHA1-Digest-Manifest: SUHHG69kKI7OuHZUtTHXFW8KuOk=
+
+Name: system/lib/libfilterpack_imageproc.so
+SHA1-Digest-Manifest: cpe9oHUnWd29I2quBs1kuPrLIPw=
+
+Name: system/bin/scp
+SHA1-Digest-Manifest: Kukoz62njRWdRrmmXm6/3Y7rX50=
+
+Name: system/framework/wm.jar
+SHA1-Digest-Manifest: MPxmZARLYFJ8cEM7DsDVVpXqCIo=
+
+Name: system/lib/libart-compiler.so
+SHA1-Digest-Manifest: IlQiO6g+XrisDRf75oF3WEnBM4s=
+
+Name: system/vendor/lib/libmm-abl.so
+SHA1-Digest-Manifest: ld7LqU2s5im/XEgc7TZu8O9Oc38=
+
+Name: system/bin/sysinit
+SHA1-Digest-Manifest: oV7XXzXAZ6QoOkZFGwo7UK5xV3M=
+
+Name: system/media/audio/ringtones/Zeta.ogg
+SHA1-Digest-Manifest: HmFS/0BDeTFiEBTg3tp5dFNzJok=
+
+Name: system/fonts/NotoSansVai-Regular.ttf
+SHA1-Digest-Manifest: g2Mbf8jLDFGIuZVAOKglzMEK1OQ=
+
+Name: system/app/PacProcessor/PacProcessor.apk
+SHA1-Digest-Manifest: NzTXMDEb3s3Q1oK2CglSjpgsHKI=
+
+Name: system/framework/appwidget.jar
+SHA1-Digest-Manifest: Im8EqHstGc3P54WT5hCf7RO/NKE=
+
+Name: system/etc/security/cacerts/4fbd6bfa.0
+SHA1-Digest-Manifest: C5smDUFT7Vz6Ztn1Jqt3xIAl10I=
+
+Name: system/xbin/ltrace
+SHA1-Digest-Manifest: Ng4+BIOdkZn6yhf0Q9B9mkhLK9o=
+
+Name: system/etc/permissions/org.cyanogenmod.appsuggest.xml
+SHA1-Digest-Manifest: s5RQsHDwph2FppnnHRRwx8LWdZo=
+
+Name: system/etc/security/cacerts/d64f06f3.0
+SHA1-Digest-Manifest: A7wGAT21eHbbKmHE7YzOGUMlOOo=
+
+Name: system/bin/sftp
+SHA1-Digest-Manifest: Ak3PiBDeabG9VXkEsQ2kBn1I3Rs=
+
+Name: system/etc/permissions/org.cyanogenmod.livelockscreen.xml
+SHA1-Digest-Manifest: g2xdKF5XXkCtxZeKuAWeZ8+VP38=
+
+Name: system/lib/libttscompat.so
+SHA1-Digest-Manifest: EVz1UMECmGadRVC4gdWArRW4Y1E=
+
+Name: system/priv-app/WallpaperCropper/WallpaperCropper.apk
+SHA1-Digest-Manifest: xyl3TCuae8T30CXr7B8wcrbRC4Q=
+
+Name: system/vendor/firmware/a330_pm4.fw
+SHA1-Digest-Manifest: MwObjaldbwuIZk2Q+Kspt60UU4U=
+
+Name: system/media/audio/ringtones/Sceptrum.ogg
+SHA1-Digest-Manifest: NMMIgSZuDf6zu1G8c42OcXzRFNY=
+
+Name: system/priv-app/TeleService/TeleService.apk
+SHA1-Digest-Manifest: Pc7Vbb/oT0vH8s98+XdfwSyQiNs=
+
+Name: system/vendor/lib/libchromatix_imx135_vt_hd.so
+SHA1-Digest-Manifest: MLk9/tCCw/9qs9lEFmGduaegvBE=
+
+Name: system/fonts/Roboto-Black.ttf
+SHA1-Digest-Manifest: UD7zP74vM2CZNbqX/mgSEDVACZk=
+
+Name: system/fonts/NotoSansEthiopic-Regular.ttf
+SHA1-Digest-Manifest: jaKydqsQXUmvu4iDwwsyADnHlhQ=
+
+Name: system/etc/security/cacerts/c51c224c.0
+SHA1-Digest-Manifest: lSf1Mw0xiF6NuEbW6B2tKA20UDI=
+
+Name: system/lib/libframesequence.so
+SHA1-Digest-Manifest: Dg31RLJa+NXXp1kXKUHi7JmkvOQ=
+
+Name: system/bin/ping6
+SHA1-Digest-Manifest: iQPZ4p50JKF3bAQukV+9j8cvV10=
+
+Name: system/media/audio/ringtones/Callisto.ogg
+SHA1-Digest-Manifest: Z2Q9T211/oFUEB/mFgGX2I7ZxXE=
+
+Name: system/etc/bash/bashrc
+SHA1-Digest-Manifest: Bm6hu2vN0nRB2Mw4Q3mml3JlkmI=
+
+Name: system/etc/security/cacerts/ea169617.0
+SHA1-Digest-Manifest: ejaRAzTYnyMJQOQl9S/4LLzxyNA=
+
+Name: system/lib/libebt_mark.so
+SHA1-Digest-Manifest: 7vhx+DM9NQOdD0a1L1p30VE+nwo=
+
+Name: system/tts/lang_pico/en-US_lh0_sg.bin
+SHA1-Digest-Manifest: OmEWL+G/OLXlfcQXpILKeHbEpwQ=
+
+Name: system/lib/librilutils.so
+SHA1-Digest-Manifest: QTELIy458sZamvOCgf1g/LkjSUY=
+
+Name: system/app/Snap/Snap.apk
+SHA1-Digest-Manifest: YTUK3hfLiM0tKnxhwmevqw/xBdo=
+
+Name: system/lib/libpower.so
+SHA1-Digest-Manifest: /8Ye+IqaazWl0tWhtZlx1GbC5yU=
+
+Name: system/media/audio/alarms/Argon.ogg
+SHA1-Digest-Manifest: 6l6R53YhjgwLuJifpEVtqo2KXjo=
+
+Name: system/bin/irsc_util
+SHA1-Digest-Manifest: YvaOZgVZHugAYPXKt/DA+mAaGiY=
+
+Name: system/lib/libjni_latinime.so
+SHA1-Digest-Manifest: LPw/O9O/fMICU9Dv9frB5kgBSOI=
+
+Name: system/lib/libaec_algo_front.so
+SHA1-Digest-Manifest: /GXTOoKn4OBnIpdDyusJ4hQC9uo=
+
+Name: system/bin/fsck.f2fs
+SHA1-Digest-Manifest: F4oa39KMg1GTbefNbob2AOH30Ms=
+
+Name: system/etc/security/cacerts/08aef7bb.0
+SHA1-Digest-Manifest: Aw1wY6saZWAPKLi5HvSCwLGA1Ss=
+
+Name: system/media/audio/ui/Effect_Tick.ogg
+SHA1-Digest-Manifest: FMQKFDwBhYaQTf3pxKx3QrlJRQA=
+
+Name: system/etc/audio_effects.conf
+SHA1-Digest-Manifest: S+C2bcvQILJM7Zeat04tpssWjs8=
+
+Name: system/framework/voip-common.jar
+SHA1-Digest-Manifest: gICmEAya5TUTgdr5QTpyi3ArvSU=
+
+Name: system/vendor/lib/libqmi_encdec.so
+SHA1-Digest-Manifest: wgUcYEdotJovfPqnwlwm7Tzvfj4=
+
+Name: system/lib/libOmxVenc.so
+SHA1-Digest-Manifest: l3x9+NEZah+gYRKjqYbz+3U2b3U=
+
+Name: system/media/audio/ringtones/Titania.ogg
+SHA1-Digest-Manifest: PN2vm1kfekgHzFo28582ilkXQas=
+
+Name: system/framework/ims-common.jar
+SHA1-Digest-Manifest: VBJohcqTW3dEgQk0MgNZvgctlpc=
+
+Name: system/app/Calendar/Calendar.apk
+SHA1-Digest-Manifest: fkjbV8aZQ2r36I/lc8I+VPIbNhc=
+
+Name: system/lib/libutils.so
+SHA1-Digest-Manifest: Ee2bC3bVzT5Zvs+MBIT6Knzdit8=
+
+Name: system/lib/libart-disassembler.so
+SHA1-Digest-Manifest: WYT/V1xle5H6EW2vdtX8QOC0h44=
+
+Name: system/lib/libOmxAacEnc.so
+SHA1-Digest-Manifest: WYtb+2Ceju1JC7/qmcyLLy4XQ80=
+
+Name: system/lib/libttspico.so
+SHA1-Digest-Manifest: 9na3XAGogLso63/O0OXeG1nsCDc=
+
+Name: system/media/audio/alarms/Carbon.ogg
+SHA1-Digest-Manifest: RKZ1rf0His6ZB8QmdYstlndLZck=
+
+Name: system/usr/keylayout/Vendor_1bad_Product_f016.kl
+SHA1-Digest-Manifest: aohnWU3LuPQJpuRnstdvyhUQJLM=
+
+Name: system/bin/content
+SHA1-Digest-Manifest: PyF7E/iuWk4+agaPGfAomR/pre4=
+
+Name: system/priv-app/MediaProvider/MediaProvider.apk
+SHA1-Digest-Manifest: w5Bjfa3nm/HAeBJ6mCKOO/QvBDM=
+
+Name: system/lib/libbacktrace_test.so
+SHA1-Digest-Manifest: N1Mwi5OjMme94vCHweMPRhmUoWE=
+
+Name: system/media/audio/ringtones/Hydra.ogg
+SHA1-Digest-Manifest: KbJOomcvmuoX70q9NPsHAJbRorc=
+
+Name: system/lib/libchromatix_imx135_panorama.so
+SHA1-Digest-Manifest: BAgcuvZpAMLv/66nh5GfrdwJdks=
+
+Name: system/etc/permissions/android.hardware.nfc.xml
+SHA1-Digest-Manifest: HUIRpkagOLqayoGvTHbaDrcSTdc=
+
+Name: system/lib/libebtable_nat.so
+SHA1-Digest-Manifest: f/CdPJHoJvhoAcFMI68Baey24Dc=
+
+Name: system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so
+SHA1-Digest-Manifest: 7shTH6NagCHHzjaK3IEVu/SJx+Y=
+
+Name: system/vendor/lib/libadsprpc.so
+SHA1-Digest-Manifest: l1CN/ua+zeD5wLNBzPGBHwsi0n4=
+
+Name: system/fonts/Clockopia.ttf
+SHA1-Digest-Manifest: n1nEHVBV0P2kUhJb+s5OyKXY+zQ=
+
+Name: system/lib/libpagemap.so
+SHA1-Digest-Manifest: G1YIrxi+6K5yRFT+JIFwMZ5z0LY=
+
+Name: system/etc/security/cacerts/5cf9d536.0
+SHA1-Digest-Manifest: IcSWojDxTOSkVVl2sU8Lc+Ep8nA=
+
+Name: system/media/audio/ringtones/Draco.ogg
+SHA1-Digest-Manifest: pmJddm9rBw4nYyhnulKI1rn7li0=
+
+Name: system/lib/libwpa_client.so
+SHA1-Digest-Manifest: zmyjmkSFMTkKBQMY5OsnEYKItpA=
+
+Name: system/vendor/lib/libOmxEvrcDec.so
+SHA1-Digest-Manifest: ymuue+J5tIKzPY6jHwrUqAurUnw=
+
+Name: system/vendor/lib/libscale.so
+SHA1-Digest-Manifest: fVENRq2+KWAmCWQqpufolWMGTiw=
+
+Name: system/usr/keylayout/Vendor_1689_Product_fe00.kl
+SHA1-Digest-Manifest: F6/c1RWdQF54GbObo7Bkb9I/BZs=
+
+Name: system/xbin/tcpdump
+SHA1-Digest-Manifest: CKNo6J/ueut+oVnhjFqpEUmArjY=
+
+Name: system/lib/lib7z.so
+SHA1-Digest-Manifest: pqe2lbxyHyqQrFIVbc3PKCpzXqo=
+
+Name: system/lib/libmemalloc.so
+SHA1-Digest-Manifest: 6csIHmEIY9YOLCr/BLaC5APsacs=
+
+Name: system/vendor/lib/libmmcamera2_stats_modules.so
+SHA1-Digest-Manifest: mXSmeTOBbMcypPxzs68e/B6MCD0=
+
+Name: system/etc/security/cacerts/4be590e0.0
+SHA1-Digest-Manifest: 6+0giplwM5eTZtmKAu4rYAe1GFE=
+
+Name: system/media/audio/ringtones/Andromeda.ogg
+SHA1-Digest-Manifest: QRGP5SgnFNkfSgZqMnZ8Pj/ymlI=
+
+Name: system/etc/security/cacerts/bdacca6f.0
+SHA1-Digest-Manifest: BAv6+hU5rGkxBDlnM8NGwkqIShw=
+
+Name: system/lib/libandroidfw.so
+SHA1-Digest-Manifest: kZFaNjC6LGMdzxf+4Cz9AjdrWkU=
+
+Name: system/lib/libjni_pacprocessor.so
+SHA1-Digest-Manifest: yoFYZ14bR2bG5orxNyRIZIuOsHk=
+
+Name: system/usr/keylayout/AVRCP.kl
+SHA1-Digest-Manifest: FBwoxD1UTrHW4/CUjpnXPLayYn0=
+
+Name: system/bin/dpm
+SHA1-Digest-Manifest: 4iHKqc3dzpIl0j6VrwzGrUSp7r8=
+
+Name: system/usr/hyphen-data/hyph-hy.lic.txt
+SHA1-Digest-Manifest: mXhPOzq/proY6Qg77P1Zum3Wnz8=
+
+Name: system/etc/firmware/cpp_firmware_v1_2_0.fw
+SHA1-Digest-Manifest: 5J7/KM5x5E0rSaigBPqGzJwv9Zo=
+
+Name: system/etc/nano/xml.nanorc
+SHA1-Digest-Manifest: 3ogmfvVD/hDorvhaq8/07zdRTNA=
+
+Name: system/fonts/RobotoCondensed-BoldItalic.ttf
+SHA1-Digest-Manifest: j52T1UbPbEx5qV6xq5KAevXZGIU=
+
+Name: system/xbin/bzip2
+SHA1-Digest-Manifest: wFc8j6rM0ySIiFeDddhzo9SKeCE=
+
+Name: system/usr/share/vim/syntax/c.vim
+SHA1-Digest-Manifest: V4ii//oZFCtGjpS9O1Mthr0zJGA=
+
+Name: system/media/audio/notifications/Canopus.ogg
+SHA1-Digest-Manifest: nHcoEDdFrcmBIIi9e1aYmFF4Rag=
+
+Name: system/media/audio/notifications/Iapetus.ogg
+SHA1-Digest-Manifest: 2Ezm1mIhQGfmk3Y21W0eZrAZ+bM=
+
+Name: system/app/ExactCalculator/ExactCalculator.apk
+SHA1-Digest-Manifest: hdEdx38c8Om6tdbK99L92W4oTpM=
+
+Name: system/etc/sec_s3fwrn5_rfreg.bin
+SHA1-Digest-Manifest: E9DSrr1GoH0IcbkAM0ddnhaF0WE=
+
+Name: system/lib/libalsautils.so
+SHA1-Digest-Manifest: ldLaZbXBfj0Qx78yY0AnVedTvqQ=
+
+Name: system/bin/sshd
+SHA1-Digest-Manifest: 2wTONeJyKVfWB7GNa8Ady/teQmY=
+
+Name: system/fonts/NotoSansCham-Bold.ttf
+SHA1-Digest-Manifest: t8f6wWFaNQvxMUFgKQ0h74XO2e0=
+
+Name: system/vendor/lib/libadreno_utils.so
+SHA1-Digest-Manifest: 1Lwt/kK6tKcvah3USDVdyZwuDoU=
+
+Name: system/lib/libjpega.so
+SHA1-Digest-Manifest: y5qiEaUN+4KQWfjplN94nLDODDU=
+
+Name: system/bin/hci_qcomm_init
+SHA1-Digest-Manifest: v2E5x/ydKFk4XfYjZ/VUPMaawsM=
+
+Name: system/vendor/lib/libmm-abl-oem.so
+SHA1-Digest-Manifest: rm+yTzTEje6ms+jt1ee72vud//U=
+
+Name: system/media/audio/notifications/Cobalt.ogg
+SHA1-Digest-Manifest: SeZGH97zAL2SB240pp7TpZY2l8A=
+
+Name: system/etc/security/cacerts/e60bf0c0.0
+SHA1-Digest-Manifest: +Wy+XB1CVjPdrgiAQY1hOXe8q38=
+
+Name: system/lib/libstagefright_amrnb_common.so
+SHA1-Digest-Manifest: r5kwOTtwxIvF5CBe6Bip815YP74=
+
+Name: system/etc/security/cacerts/961f5451.0
+SHA1-Digest-Manifest: rb4qfHUJHI/Lm8CrkYzR5Wp89gI=
+
+Name: system/framework/ext.jar
+SHA1-Digest-Manifest: +cLl19xCTRBGKBqdyE/u1ktbFbw=
+
+Name: system/etc/permissions/org.cyanogenmod.performance.xml
+SHA1-Digest-Manifest: 0tpNsjt+RbPjvldAXRUOD7BUUEw=
+
+Name: system/fonts/NotoSansKannada-Regular.ttf
+SHA1-Digest-Manifest: 7mZ05XScv3XBRcG8UM2pWyNibBg=
+
+Name: system/priv-app/Telecom/Telecom.apk
+SHA1-Digest-Manifest: k7URrsxW/RtZsuezIAkhalDLjOk=
+
+Name: system/etc/security/cacerts/2d9dafe4.0
+SHA1-Digest-Manifest: +IH+VxW7CTsqjDTed6aEZKoX1GY=
+
+Name: system/usr/hyphen-data/hyph-eu.hyb
+SHA1-Digest-Manifest: gDawoMrTU91TOrwpPO1AqGBYSKE=
+
+Name: system/media/audio/alarms/Osmium.ogg
+SHA1-Digest-Manifest: IjdMRv+tnF3pg26+y4rG76WBZdQ=
+
+Name: system/media/audio/notifications/TaDa.ogg
+SHA1-Digest-Manifest: exgYXFhRaq9mykCzd24GSp+CYk8=
+
+Name: system/etc/Headset_cal.acdb
+SHA1-Digest-Manifest: a8hLi6lVuj1DzYRD/0+NVBitQaE=
+
+Name: system/etc/dhcpcd/dhcpcd.conf
+SHA1-Digest-Manifest: z29QWdYi7o6AkM/E2HkGGl+XJDo=
+
+Name: system/fonts/NotoNaskhArabicUI-Bold.ttf
+SHA1-Digest-Manifest: BnGSz3jusPUdcwTY2NmVUKNkHOE=
+
+Name: system/etc/security/cacerts/c491639e.0
+SHA1-Digest-Manifest: duz9PJyCh3h0VeoOy6UGQdgjEyg=
+
+Name: system/etc/media_codecs_performance.xml
+SHA1-Digest-Manifest: 5Zn15GW4/VGHFHYyeORUQBFPd+s=
+
+Name: system/fonts/Roboto-Bold.ttf
+SHA1-Digest-Manifest: ONUP1Bcm+Kkds81eM0PwA/YQOO4=
+
+Name: system/etc/nano/tcl.nanorc
+SHA1-Digest-Manifest: fLNBnMfwB4QM+EPYn/AR3p+BRdM=
+
+Name: system/vendor/lib/mediadrm/libwvdrmengine.so
+SHA1-Digest-Manifest: 5Jh+sLjev7PjKjhLY9/QCW5+iJY=
+
+Name: system/lib/libebt_mark_m.so
+SHA1-Digest-Manifest: D9POAOJpOglVgfij2AqQpuzTCdw=
+
+Name: system/etc/security/cacerts/4e18c148.0
+SHA1-Digest-Manifest: fDNzyfMiuVhrDnrrut4UW2xw7Jc=
+
+Name: system/vendor/lib/libwvdrm_L1.so
+SHA1-Digest-Manifest: PM0G+FR+ZbpvZFaG+9VdYy1gBlY=
+
+Name: system/media/audio/ringtones/DancinFool.ogg
+SHA1-Digest-Manifest: FFpA1ZPrtUsjI4CLfR0/+xpAlWQ=
+
+Name: system/etc/security/cacerts/d4c339cb.0
+SHA1-Digest-Manifest: UCd2tYn9Ivy/C8F342XJxz+WPPE=
+
+Name: system/usr/keylayout/Vendor_1949_Product_0401.kl
+SHA1-Digest-Manifest: BHgxiyS1WlZtUdgjvkeCvP4wW8U=
+
+Name: system/lib/libminikin.so
+SHA1-Digest-Manifest: yIFegaA1Ot1gC6x73CUdm15oJxI=
+
+Name: system/media/audio/ringtones/Scarabaeus.ogg
+SHA1-Digest-Manifest: 8djU2RtPSLfuBQxYGaA1fx39EHQ=
+
+Name: system/etc/security/cacerts/1f58a078.0
+SHA1-Digest-Manifest: Jbth2BOwKzsfkJRKMMJ3o9VLmfw=
+
+Name: system/usr/share/vim/doc/term.txt
+SHA1-Digest-Manifest: ekKglm3/GqfAkZMtdbyiZOOZ7iI=
+
+Name: system/framework/apache-xml.jar
+SHA1-Digest-Manifest: Rovy3SgTF2wJ3OhFfb26c5rcFeY=
+
+Name: system/vendor/lib/libthermalclient.so
+SHA1-Digest-Manifest: CXpyHtGS5NeFWABUH/g2NzLUpEc=
+
+Name: system/bin/debuggerd
+SHA1-Digest-Manifest: vfcvrOkcUnGn2O4pTPFDGdyqQXo=
+
+Name: system/xbin/librank
+SHA1-Digest-Manifest: vPh2jMTld+mykT/GVfvzJ0j+VG0=
+
+Name: system/fonts/RobotoCondensed-LightItalic.ttf
+SHA1-Digest-Manifest: 4hbmhrv1SVDmWtMDxGFNX64NNBE=
+
+Name: system/media/audio/alarms/Alarm_Rooster_02.ogg
+SHA1-Digest-Manifest: dmlZwLMeV0D2AVnm00L8CQQCXXo=
+
+Name: system/etc/permissions/android.hardware.usb.accessory.xml
+SHA1-Digest-Manifest: lKVhbliD+5NmYq61xsHEVEZTfsE=
+
+Name: system/lib/libjpeg.so
+SHA1-Digest-Manifest: 2o6VOGdBlWqwSWjUG/OOXKh9dXw=
+
+Name: system/framework/javax.obex.jar
+SHA1-Digest-Manifest: F9Lf4H5XfRC8a0otWSBt8j16up4=
+
+Name: system/etc/security/cacerts/5046c355.0
+SHA1-Digest-Manifest: hoMjstP2WkZZJXMKENZbJFsLkq4=
+
+Name: system/app/HTMLViewer/HTMLViewer.apk
+SHA1-Digest-Manifest: w1Yf8nsH/QjIDfq2fdiRmPO9/a8=
+
+Name: system/priv-app/SamsungDoze/SamsungDoze.apk
+SHA1-Digest-Manifest: Ld5R86hsFUiVL7Aw0C4+gJ2rYU0=
+
+Name: system/etc/permissions/handheld_core_hardware.xml
+SHA1-Digest-Manifest: N2ou3yKFdhukpns6CfpME6orEFU=
+
+Name: system/bin/mediaserver
+SHA1-Digest-Manifest: 5iLbwSJK1rMog/07/CZ+hKNdnqg=
+
+Name: system/fonts/NotoSansLaoUI-Bold.ttf
+SHA1-Digest-Manifest: GwTcwnhvIGLN7dOECa4Euf+r+uc=
+
+Name: system/usr/share/vim/syntax/html.vim
+SHA1-Digest-Manifest: o4vtQaCkI8qzkQkBO9iVVZE4LSA=
+
+Name: system/bin/telecom
+SHA1-Digest-Manifest: j4VesD5qlUm5ICf+RhSCfyRZPZ4=
+
+Name: system/etc/security/cacerts/c7e2a638.0
+SHA1-Digest-Manifest: 41UMVpmkBCj0fyJp6wqd9d9I+9c=
+
+Name: system/app/KeyChain/KeyChain.apk
+SHA1-Digest-Manifest: LaAlEJAn5p3k+raon1P/eUivq+g=
+
+Name: system/lib/libbluetooth_jni.so
+SHA1-Digest-Manifest: 3B49moLxew8Yy6kLwW2Yt/us+Po=
+
+Name: system/lib/libchromatix_imx135_hfr_1080p_b.so
+SHA1-Digest-Manifest: /1NBrXlMAx9h1bhzoy9foSQ+qOM=
+
+Name: system/usr/share/vim/syntax/java.vim
+SHA1-Digest-Manifest: 06dEjyO0Lsl/ty2SfSUpeRJ0SeI=
+
+Name: system/priv-app/CarrierConfig/CarrierConfig.apk
+SHA1-Digest-Manifest: e/tqWr4Z2C/0B9mWJCNSpf36+lw=
+
+Name: system/etc/security/cacerts/bf64f35b.0
+SHA1-Digest-Manifest: SXhyBjOPVoyVPLl324FiGJqO6Qo=
+
+Name: system/lib/libpixelflinger.so
+SHA1-Digest-Manifest: 2xEEh7kqAO835Wi3fe5dcZwEEI4=
+
+Name: system/etc/security/cacerts/9d6523ce.0
+SHA1-Digest-Manifest: NfUROaW9KgsUoB+kIMMVa1ntieg=
+
+Name: system/lib/libstagefright_soft_rawdec.so
+SHA1-Digest-Manifest: KwAerXektwNYy+epItkM6AUnvDo=
+
+Name: system/usr/share/vim/syntax/logcat.vim
+SHA1-Digest-Manifest: 28/SG+7Qt3CeiNik8zWzM1d5uqo=
+
+Name: system/vendor/lib/libmmcamera_hdr_gb_lib.so
+SHA1-Digest-Manifest: LepyQxt+zLtNK9eywr+u1SHn0M0=
+
+Name: system/etc/security/cacerts/40dc992e.0
+SHA1-Digest-Manifest: kuAWDU/kDj96WOaaSLadE9xfUOU=
+
+Name: system/etc/dhcpcd/dhcpcd-hooks/95-configured
+SHA1-Digest-Manifest: tuW89AjFUDkBapo/cDFgQscRhFE=
+
+Name: system/fonts/NotoSansKannadaUI-Regular.ttf
+SHA1-Digest-Manifest: LNQBcfZeJiiyALzU872A0n1pDmg=
+
+Name: system/bin/mke2fs
+SHA1-Digest-Manifest: 8Y97cKGQeAxrTWMjXgJz3P+4ZVA=
+
+Name: system/bin/qmiproxy
+SHA1-Digest-Manifest: nL/zZK94bldujna7v7JEVQAll8I=
+
+Name: system/lib/libebt_ip6.so
+SHA1-Digest-Manifest: EPathFIkwkrwjz9tiRjQRcdrp7A=
+
+Name: system/media/audio/ringtones/Ring_Classic_02.ogg
+SHA1-Digest-Manifest: 3+dDRMcLXTPNRjUBXi0YzTWFjTk=
+
+Name: system/etc/event-log-tags
+SHA1-Digest-Manifest: EvskX8PvA24wmrVxFsSoi8tibLg=
+
+Name: system/vendor/lib/libsecureuisvc_jni.so
+SHA1-Digest-Manifest: svY03N11bLpuRIDR1KhRfC2Ri64=
+
+Name: system/media/audio/notifications/CaffeineSnake.ogg
+SHA1-Digest-Manifest: pK/rLfaC5hIZEbXLCqxSN92ocVs=
+
+Name: system/usr/keylayout/Vendor_1bad_Product_f036.kl
+SHA1-Digest-Manifest: TEBB9h4zLNm/G5Myf+xxD63zbt4=
+
+Name: system/lib/libinputservice.so
+SHA1-Digest-Manifest: 236ql2fV4FrwGxVYO5NlxI65LJw=
+
+Name: system/fonts/NotoSansThaana-Regular.ttf
+SHA1-Digest-Manifest: AwqpDZK8C5CCgNs66WmNN/9pIa4=
+
+Name: system/fonts/NotoSansEthiopic-Bold.ttf
+SHA1-Digest-Manifest: p1LzyeTahMriX3QEsv1oyfT1b54=
+
+Name: META-INF/com/miui/busybox
+SHA1-Digest-Manifest: uTbnTq8ZvbPzVSfuW/quWCkQ72I=
+
+Name: system/etc/permissions/android.software.live_wallpaper.xml
+SHA1-Digest-Manifest: AyPpQw5IN0UBn608llm8t77fiPY=
+
+Name: system/lib/libebt_stp.so
+SHA1-Digest-Manifest: iRhz+nuariEd5pm8dhcodbcgiWg=
+
+Name: system/lib/libstlport.so
+SHA1-Digest-Manifest: QlFtfbj9nvOQbbEVdsY0Hd7C96U=
+
+Name: system/vendor/lib/egl/libq3dtools_adreno.so
+SHA1-Digest-Manifest: f6hzMep4JUEaYIOTpQ30XIlCOGI=
+
+Name: system/vendor/lib/libcneapiclient.so
+SHA1-Digest-Manifest: eEF18Nj/Qv6qWIWcG691oOV5/44=
+
+Name: system/bin/gatt_testtool
+SHA1-Digest-Manifest: ECD1QeunPc30f54lDkH8urwPyOA=
+
+Name: system/vendor/lib/libmmcamera_silicon_sr544_eeprom.so
+SHA1-Digest-Manifest: /JmvaCU1VLnA3oxCnB3JXNFPENg=
+
+Name: system/media/audio/ui/KeypressDelete.ogg
+SHA1-Digest-Manifest: 1b5/Es6bDIffjqaOrRuyQo1ICds=
+
+Name: system/lib/libtinyxml.so
+SHA1-Digest-Manifest: TDqHcJ63Rld6TAFMnCyPcscOJ4E=
+
+Name: system/xbin/add-property-tag
+SHA1-Digest-Manifest: G/fiXO5gdPj6N6Y1sejN+l2NIGs=
+
+Name: system/lib/libmedia.so
+SHA1-Digest-Manifest: kbUqEc3TUPr65GAivgSPtHGtDVE=
+
+Name: system/fonts/NotoSansGurmukhiUI-Bold.ttf
+SHA1-Digest-Manifest: yxwnRZRU7hlj1X3bb9GFY8pd0Kg=
+
+Name: system/media/audio/ringtones/CyanTone.ogg
+SHA1-Digest-Manifest: qNcjKjiibxEoKgdoUYZf/o1gD2w=
+
+Name: system/vendor/lib/libStDrvInt.so
+SHA1-Digest-Manifest: jzub0Bi/eatgU2In5arAGiFUf9U=
+
+Name: system/bin/run-as
+SHA1-Digest-Manifest: 9usJo5DSX5e9iY9Y6DBqqagEYKg=
+
+Name: system/fonts/NotoSansMyanmarUI-Regular.ttf
+SHA1-Digest-Manifest: /h81wEcnyiYg373eVcSFSdJPNVs=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_vt.so
+SHA1-Digest-Manifest: CWa5lJ/hnK35GVr+beiuGHTvs5M=
+
+Name: system/priv-app/StatementService/StatementService.apk
+SHA1-Digest-Manifest: ZWO/tVQvdlHl09QSsUqDx/D06+8=
+
+Name: system/usr/share/vim/plugin/matchparen.vim
+SHA1-Digest-Manifest: ir+/xhFGI1zZ5Ihv+opdhfSqzjI=
+
+Name: system/lib/libsamsungRecord.so
+SHA1-Digest-Manifest: 1Xl8xMa33zZonyAoOD9i2gTTiXI=
+
+Name: system/fonts/NotoSansMalayalam-Bold.ttf
+SHA1-Digest-Manifest: 4dJaeIZDxhUX5se6ZXk6DeER7xU=
+
+Name: system/bin/bmgr
+SHA1-Digest-Manifest: bBpREmgN5x0uzCxgS8dQhyklSCA=
+
+Name: system/etc/sec_config
+SHA1-Digest-Manifest: jevuN4wf517PKEPnAbsmzn9KSgc=
+
+Name: system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmat
+ ion.apk
+SHA1-Digest-Manifest: 8aOKvw+WDEqCESe1HFq7b272CUg=
+
+Name: system/xbin/strace
+SHA1-Digest-Manifest: ajZo8WB+E/5er6QN5bz+CmvVk2Q=
+
+Name: system/fonts/NotoSansThai-Regular.ttf
+SHA1-Digest-Manifest: bctG03jecaonbSI/HZd9R7k1/G8=
+
+Name: system/etc/media_codecs.xml
+SHA1-Digest-Manifest: 429P0PMqAAg+bdkV30YMwEhmvcU=
+
+Name: system/lib/libandroid_servers.so
+SHA1-Digest-Manifest: 0k5kLCiO2hfP+U/75nr8DARTURo=
+
+Name: system/usr/share/vim/syntax/xml.vim
+SHA1-Digest-Manifest: WnccK8KMYOS+aL1HyYcRWWP54bI=
+
+Name: system/etc/terminfo/x/xterm
+SHA1-Digest-Manifest: R6GrdkKVnzNvOu5/j7rOx0vpOpQ=
+
+Name: system/lib/libmediandk.so
+SHA1-Digest-Manifest: r6Jv/2QG0QI+R1lRKsXIgz66p/0=
+
+Name: system/addon.d/blacklist
+SHA1-Digest-Manifest: RNxTFMk/FodJX3NWXg8UqIG9J5k=
+
+Name: system/media/audio/ringtones/Boxbeat.ogg
+SHA1-Digest-Manifest: MXgtXoI6xOIVY1Vj5CuQclMFYPM=
+
+Name: system/usr/share/vim/syntax/markdown.vim
+SHA1-Digest-Manifest: sxh0Mo95WXSzxRa4IS2kfpWhChk=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c299.kl
+SHA1-Digest-Manifest: N64rO5ir6UJhDLlL6vtA277M/n0=
+
+Name: system/lib/hw/gralloc.default.so
+SHA1-Digest-Manifest: MV90rxGlfl8XTaUWvN22r0HxBe0=
+
+Name: system/media/audio/ringtones/Revelation.ogg
+SHA1-Digest-Manifest: j/nuANHX4DpAJPZka+/sxa00tcQ=
+
+Name: system/app/BluetoothExt/BluetoothExt.apk
+SHA1-Digest-Manifest: YWVF+txTxCD4xoPzCyBwQMtdJ9Y=
+
+Name: system/xbin/latencytop
+SHA1-Digest-Manifest: Ak99kpJefwi8+yJBiq8WaTfkO54=
+
+Name: system/bin/showlease
+SHA1-Digest-Manifest: t0ogqCzWg3IBQfyxSUe9Wdc59HE=
+
+Name: system/bin/aapt
+SHA1-Digest-Manifest: nIlg6NpFZhkgjUlR4ovkqW6YiSk=
+
+Name: system/fonts/Roboto-BoldItalic.ttf
+SHA1-Digest-Manifest: 9ANKnu5156rHDznFmktkunbD2cA=
+
+Name: system/media/audio/notifications/Krypton.ogg
+SHA1-Digest-Manifest: aHmdh+Mp17nXRfM4HFTOH84xJ8o=
+
+Name: system/usr/keylayout/Vendor_0583_Product_2060.kl
+SHA1-Digest-Manifest: 2fdPmaBJOTp9FApWgRvgTbXtfE8=
+
+Name: system/fonts/NotoSansCherokee-Regular.ttf
+SHA1-Digest-Manifest: Fkd3qy19H9fqp8RlMNK8OTu9mFU=
+
+Name: system/media/audio/notifications/Naughty.ogg
+SHA1-Digest-Manifest: E4qA7HitueCpvDVYHx8ttOyX+84=
+
+Name: system/vendor/lib/libjpegdhw.so
+SHA1-Digest-Manifest: obGfclq0CUh+4g6m1CC09ug5uV8=
+
+Name: system/usr/share/vim/doc/help.txt
+SHA1-Digest-Manifest: RsT3uZfA0zv2krom2iQXZz6hB1Q=
+
+Name: system/lib/hw/copybit.msm8916.so
+SHA1-Digest-Manifest: fnWGkgiEaMhKus0uDQCqWT+fT3U=
+
+Name: system/usr/keychars/Generic.kcm
+SHA1-Digest-Manifest: cm4tiO0XiI5GRJJvq2dTHdMEbeg=
+
+Name: system/etc/nano/nanorc.nanorc
+SHA1-Digest-Manifest: iQj2fgRCa730erCL+5ea/KCWeSQ=
+
+Name: system/media/audio/notifications/CyanMessage.ogg
+SHA1-Digest-Manifest: nM2aoKv6vcgXo0bUggXmAWMl03U=
+
+Name: system/lib/libntfs-3g.so
+SHA1-Digest-Manifest: +ZuNlC86slTgsd0vy8mxRwxrSFE=
+
+Name: system/xbin/sqlite3
+SHA1-Digest-Manifest: hxPgHC3YKBS3mvvKDs3EZYDvV/E=
+
+Name: system/etc/wifi/wpa_supplicant_overlay.conf
+SHA1-Digest-Manifest: vCCSHuZohrt7opeFb35CVP6BxNI=
+
+Name: system/lib/libOpenSLES.so
+SHA1-Digest-Manifest: zmm4UusaKjW9oqCxNq7wRELZZ5k=
+
+Name: system/bin/hostapd_cli
+SHA1-Digest-Manifest: o7TEQ3S/8qmn3g1qHjKeOB2heSI=
+
+Name: system/etc/permissions/android.hardware.wifi.direct.xml
+SHA1-Digest-Manifest: iPmbEsXxaKyWbEdVZcAxkacBUr0=
+
+Name: system/app/UserDictionaryProvider/UserDictionaryProvider.apk
+SHA1-Digest-Manifest: euInLW5KApsQ3Gsn3YcEWLscNhg=
+
+Name: system/etc/security/cacerts/119afc2e.0
+SHA1-Digest-Manifest: u9qAvkGqTk50qkIxvIWEpVhNuZI=
+
+Name: system/usr/hyphen-data/hyph-eu.lic.txt
+SHA1-Digest-Manifest: RFP2RhcSK8N4R+ij3dG6UZyKRjs=
+
+Name: system/etc/security/cacerts/48a195d8.0
+SHA1-Digest-Manifest: 5E0IKEXt5jHUlAoMw9M60aj5KM8=
+
+Name: system/fonts/NotoSansTaiViet-Regular.ttf
+SHA1-Digest-Manifest: B8b3NOA7sBJmrpniGKektEdI+rg=
+
+Name: system/lib/libcurl.so
+SHA1-Digest-Manifest: qO9GTR/xcbQ5tEiSCLPuuh4e7cw=
+
+Name: system/media/audio/ringtones/Lyra.ogg
+SHA1-Digest-Manifest: WyUXy6DRYGG/OFhRZNLOtnfUjvg=
+
+Name: system/lib/libblasV8.so
+SHA1-Digest-Manifest: 3m2EEGd/vMKl/yAMYX9W7I9EOOo=
+
+Name: system/vendor/firmware/keymaster/keymaster.mdt
+SHA1-Digest-Manifest: wL03Xamh0WRQfLnNTGaGrcVLYaM=
+
+Name: system/lib/libserviceutility.so
+SHA1-Digest-Manifest: 716zdC3+sHaZ0FLaNQp6uqrt+UE=
+
+Name: system/lib/libnfc_ndef.so
+SHA1-Digest-Manifest: PsHP87RBsnKmHTMfn56Gaj2tUa0=
+
+Name: system/app/LatinIME/LatinIME.apk
+SHA1-Digest-Manifest: FMr1AwsVQ4IplEGWGhVVy0rIhOs=
+
+Name: system/vendor/firmware/a330_pfp.fw
+SHA1-Digest-Manifest: bqY32/rJAFwkz+mSQcAqdksK6WY=
+
+Name: system/lib/libexif.so
+SHA1-Digest-Manifest: 2u/0Gyt6uYP8zec2mZmhZaXvbnc=
+
+Name: system/addon.d/50-cm.sh
+SHA1-Digest-Manifest: A/M3/aUzd9bRUlTFwloL4n8B9qk=
+
+Name: system/lib/libSamsungPreProcess.so
+SHA1-Digest-Manifest: IWuOnGonrHNz9lSeTfU4QpdPoio=
+
+Name: system/bin/vold
+SHA1-Digest-Manifest: Q3Q3TsNZvXXYWmKA5L7UvN2VY4M=
+
+Name: system/etc/terminfo/h/hurd
+SHA1-Digest-Manifest: SYjRmYCKsk59jUREjG4fYNnIX+g=
+
+Name: system/bin/ime
+SHA1-Digest-Manifest: RpNbbWSd+bvmP5Bk8IPErzl4iN4=
+
+Name: system/vendor/lib/liboemcrypto.so
+SHA1-Digest-Manifest: vX7t8NhUxxsF4QihafurJ93cipA=
+
+Name: system/lib/libcrypto.so
+SHA1-Digest-Manifest: 0H8P9/ky55qNVBXhCvRgLk4Gl8w=
+
+Name: system/usr/share/vim/ftoff.vim
+SHA1-Digest-Manifest: Dr6MJq54Y0C2Wqm2YOdb5A15JU0=
+
+Name: system/vendor/lib/egl/eglsubAndroid.so
+SHA1-Digest-Manifest: 7DAeNTDI2Lbd5tNlg50UCYqiuUI=
+
+Name: system/fonts/NotoSansCoptic-Regular.ttf
+SHA1-Digest-Manifest: kHth1MxZ1AIbnwzoQfcsFN92xN4=
+
+Name: system/etc/Bluetooth_cal.acdb
+SHA1-Digest-Manifest: MhpXP92OEcpUpHuJybQ5GK7oGOE=
+
+Name: system/lib/libunwind.so
+SHA1-Digest-Manifest: BNbJB/I8Ae5IbRuK/4OAeIzkPoU=
+
+Name: system/media/audio/ringtones/Pegasus.ogg
+SHA1-Digest-Manifest: CwpOe93/O7BdQTbaBexnQ8zHJVs=
+
+Name: system/xbin/cpustats
+SHA1-Digest-Manifest: fN3CFZIIGH3sdbYVbDqWXNGacJI=
+
+Name: system/media/audio/ringtones/OrganDub.ogg
+SHA1-Digest-Manifest: fA1t9jwv37dc+PhyZu4w68HGLnI=
+
+Name: system/lib/libaudiopolicyenginedefault.so
+SHA1-Digest-Manifest: 5lRvIaf3iyDFmHqOA7E3ZImTst4=
+
+Name: system/etc/security/cacerts/17b51fe6.0
+SHA1-Digest-Manifest: R/l0osby1qMsFVq95/cSZE4iZqA=
+
+Name: system/lib/libstagefright_omx.so
+SHA1-Digest-Manifest: Og6QkzkxNa5uTPWDU4dk1SdlAio=
+
+Name: system/etc/permissions/android.hardware.nfc.hce.xml
+SHA1-Digest-Manifest: eTIz5R5ut8e8x7iQG3PUMKqgrvg=
+
+Name: system/lib/libchromatix_imx135_common_1080p_b.so
+SHA1-Digest-Manifest: WP5PRlIWjnXzgAjSNLZOdjFJSqw=
+
+Name: system/lib/libcompiler_rt.so
+SHA1-Digest-Manifest: C14ANVdnPjAzrmM3kASkuvMRAY0=
+
+Name: system/etc/security/cacerts/58a44af1.0
+SHA1-Digest-Manifest: y6f3g5pJyhrsQ51kQmtuRZ4zFMY=
+
+Name: system/lib/lib_SoundAlive_SRC192_ver205.so
+SHA1-Digest-Manifest: XBdXhaDxL7OjbmT4tIxR43MnP1Y=
+
+Name: system/usr/share/vim/doc/editing.txt
+SHA1-Digest-Manifest: yPCWKZKBsQjmjP7YUkZrWHoQ7EM=
+
+Name: system/bin/vdc
+SHA1-Digest-Manifest: jPxe6ssOd5DdD2b75Igkb3ZeDNs=
+
+Name: system/etc/permissions/android.hardware.location.gps.xml
+SHA1-Digest-Manifest: 5BoPvzraABvx8iNcW0s9BCY42l4=
+
+Name: system/tts/lang_pico/de-DE_ta.bin
+SHA1-Digest-Manifest: UxOTX6s/ImMF3+i9MWBJSPZ52Hs=
+
+Name: system/etc/nano/sh.nanorc
+SHA1-Digest-Manifest: MwEV72GLJmty3KbtNt8AADR5Vlg=
+
+Name: system/bin/tracepath6
+SHA1-Digest-Manifest: tgXEEO7WWdG1xGr1PgiGxePIE6c=
+
+Name: system/fonts/CarroisGothicSC-Regular.ttf
+SHA1-Digest-Manifest: r1QQgfNuHzEAshISzDT+vf2d3ks=
+
+Name: system/lib/crtbegin_so.o
+SHA1-Digest-Manifest: WxNqXNnpuonqeAO8keBVVV781ws=
+
+Name: system/etc/nano/tex.nanorc
+SHA1-Digest-Manifest: o7it+dOcD+47hqvBFppC28PoQg8=
+
+Name: system/etc/security/cacerts/c527e4ab.0
+SHA1-Digest-Manifest: Wqbama0p/arS3X5kzdrt/eNzoV0=
+
+Name: system/vendor/lib/libqmi_cci.so
+SHA1-Digest-Manifest: qW125wsC4y0iBY1WQWjw5DNbHDo=
+
+Name: system/fonts/NotoSansLimbu-Regular.ttf
+SHA1-Digest-Manifest: 1EIuiPexEowCmvN8dsljKv2arFc=
+
+Name: system/lib/libOmxVdecHevc.so
+SHA1-Digest-Manifest: V7LxzSkcj9nmimjhPh/yPZtN9wI=
+
+Name: system/tts/lang_pico/fr-FR_nk0_sg.bin
+SHA1-Digest-Manifest: uJPDIkoo44Xdhg1IvPQ7n+AiG7M=
+
+Name: system/lib/libsigchain.so
+SHA1-Digest-Manifest: 7lOpTZKsAqt8yyB1R2Hz4rTvqJ4=
+
+Name: system/etc/security/cacerts/594f1775.0
+SHA1-Digest-Manifest: 3BW/zfpi/scTw6mDPd/zxno6zr0=
+
+Name: system/priv-app/ContactsProvider/ContactsProvider.apk
+SHA1-Digest-Manifest: o1SEb9q9at8FtOeBex6hkdIq8N8=
+
+Name: system/etc/security/cacerts/03f2b8cf.0
+SHA1-Digest-Manifest: X5P91uaLqmkBrpXJ/TGHIM8PUPI=
+
+Name: system/framework/com.android.nfc_extras.jar
+SHA1-Digest-Manifest: Oh5iaOxjutNvYhbUcHaRTGRMZxk=
+
+Name: system/usr/keylayout/Vendor_05ac_Product_0239.kl
+SHA1-Digest-Manifest: wHt8GgwJXGqd3pROXhis+5etsR0=
+
+Name: system/lib/modules/mmc_block_test.ko
+SHA1-Digest-Manifest: 4QVrWAOiV3FoIqXcBAbDm2CeADQ=
+
+Name: system/usr/keylayout/Vendor_1038_Product_1412.kl
+SHA1-Digest-Manifest: Y8GeDDzZnIeDQcNZ+HE02YwDFXk=
+
+Name: system/lib/libchromatix_imx135_pip.so
+SHA1-Digest-Manifest: pbv8Uu1E2iWvsn6ldAvYxfB9ZdA=
+
+Name: system/vendor/etc/audio_effects.conf
+SHA1-Digest-Manifest: OejN3kPsicn/PHawBO4IC2dWfc4=
+
+Name: system/fonts/NotoSansBatak-Regular.ttf
+SHA1-Digest-Manifest: dX7nRtkmabbrZvcYPMYOIsYaNQI=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_pip.so
+SHA1-Digest-Manifest: qWnl32HgR+OxUHKaG+m8QWLx1LI=
+
+Name: system/fonts/NotoSansGurmukhi-Regular.ttf
+SHA1-Digest-Manifest: 9FySSx3LthRP758Gf2iaVT0tQCI=
+
+Name: system/vendor/lib/libchromatix_imx135_vt.so
+SHA1-Digest-Manifest: BXnGu305kN6c3MZHmWkVIxTQ6sE=
+
+Name: system/media/audio/ringtones/Terminated.ogg
+SHA1-Digest-Manifest: +YxryNPCIPgnrwApbBmIyxPJtA0=
+
+Name: system/fonts/NotoSansBengaliUI-Regular.ttf
+SHA1-Digest-Manifest: /mm8f4etvrJSba3OAmcrj1/e05U=
+
+Name: system/usr/keylayout/Vendor_054c_Product_0268.kl
+SHA1-Digest-Manifest: uyM/VtmoQ8dMFRObFel26zlgT8w=
+
+Name: system/bin/ping
+SHA1-Digest-Manifest: U2JSE93srAWvFJ4vAKMtPaYjPj8=
+
+Name: system/bin/idmap
+SHA1-Digest-Manifest: id3OHvwFkzmlCDIvJvAuk+DaIkA=
+
+Name: system/fonts/NotoSansCanadianAboriginal-Regular.ttf
+SHA1-Digest-Manifest: mAtJvA4hLyi9lXB+hW1OrIAYnQE=
+
+Name: system/lib/libebt_nflog.so
+SHA1-Digest-Manifest: eAGP9K7UKk39kVB/dVYmSuuKJxQ=
+
+Name: system/media/audio/notifications/tweeters.ogg
+SHA1-Digest-Manifest: NMokEXyM2NInXWTLTTPnep9M47U=
+
+Name: system/etc/permissions/org.cyanogenmod.hardware.xml
+SHA1-Digest-Manifest: JfFmArBe3kwilEq/cE8W5B71ngk=
+
+Name: system/lib/libext2fs.so
+SHA1-Digest-Manifest: YGT6Y4wh2obrFC4OaIWqIizQbs4=
+
+Name: system/vendor/lib/libthermalioctl.so
+SHA1-Digest-Manifest: XoxBAckXkOYr+ogbPIDQLoZlbfk=
+
+Name: system/media/audio/ringtones/TwirlAway.ogg
+SHA1-Digest-Manifest: yILYHhxvX3n1dzRjtc44ysyWWBw=
+
+Name: system/usr/keylayout/Generic.kl
+SHA1-Digest-Manifest: rIliOozFLwS8R5t5eN3pCNUiR4c=
+
+Name: system/vendor/lib/libmdmdetect.so
+SHA1-Digest-Manifest: kbVdgRsUpSvgjtKPAE9TVACVfe0=
+
+Name: system/etc/security/cacerts/bc3f2570.0
+SHA1-Digest-Manifest: qOvDq9H6JYAXRRrwPtQwsEOBF+U=
+
+Name: system/lib/libmmcamera_interface.so
+SHA1-Digest-Manifest: dqEf7oqC0U0Oi10aVgdPSzqeLCw=
+
+Name: system/media/audio/ringtones/RomancingTheTone.ogg
+SHA1-Digest-Manifest: vWOeZbHxqiBc6El1J95d4J2MpJo=
+
+Name: system/etc/nano/awk.nanorc
+SHA1-Digest-Manifest: pht44nTJAOTBl9xQ7Z8lG8Z8l8o=
+
+Name: system/lib/libsonivox.so
+SHA1-Digest-Manifest: A8cZxwFfY7ZifwAACzBD6aqAEsU=
+
+Name: system/usr/share/vim/syntax/pod.vim
+SHA1-Digest-Manifest: tRRufpDMjPTvzEr8IviZ3VC9Bls=
+
+Name: system/lib/libicui18n.so
+SHA1-Digest-Manifest: nkabf8wt4tp7Z5EK6/iUJMLjv9w=
+
+Name: system/media/audio/notifications/Laser.ogg
+SHA1-Digest-Manifest: 4ce9powob4YlT46rzWnMvmeOItM=
+
+Name: system/vendor/lib/libacdbrtac.so
+SHA1-Digest-Manifest: kRQWPjHgCRcR3FN7YDVJlVqh+No=
+
+Name: system/lib/soundfx/libaudiosa_sec.so
+SHA1-Digest-Manifest: AmbZ47NSjAoX/K3kmbkn3RuneyA=
+
+Name: system/media/audio/ringtones/Dione.ogg
+SHA1-Digest-Manifest: 9MJWVAeHOdyjKlmNyBx/yRoRqek=
+
+Name: system/media/audio/ringtones/Kuma.ogg
+SHA1-Digest-Manifest: l4joz3IMW0u8d/eQCDWUcXqN654=
+
+Name: system/fonts/NotoNaskhArabic-Regular.ttf
+SHA1-Digest-Manifest: Otv45IYCXwXeoLK+bFHheQhIJrA=
+
+Name: system/lib/soundfx/libvisualizer.so
+SHA1-Digest-Manifest: zS+nGVxsx6kQvM4T0r/hd2ogYNM=
+
+Name: system/vendor/lib/libactuator_dw9804_a7_camcorder.so
+SHA1-Digest-Manifest: DiWwthjuLLZjicEZ+V4O9KMxtRY=
+
+Name: system/app/DownloadProviderUi/DownloadProviderUi.apk
+SHA1-Digest-Manifest: NDwPFYWQ5+ZoMt4RhKg0I1JhGRA=
+
+Name: system/etc/terminfo/v/vt220
+SHA1-Digest-Manifest: eF5nZUzTWbfWhyH+wtwqCqnkCGE=
+
+Name: system/vendor/firmware/keymaster/keymaster.b02
+SHA1-Digest-Manifest: nWEm/smK/yvvS0GBk04rB0aLE2A=
+
+Name: system/vendor/firmware/keymaster/keymaster.b03
+SHA1-Digest-Manifest: XR2mnIUk7Yemklqb/KuY1S9rjjo=
+
+Name: system/lib/modules/tcp_westwood.ko
+SHA1-Digest-Manifest: eGUL2FNMqvmWNuH1CmPlmI7nIPs=
+
+Name: system/etc/security/cacerts/3e7271e8.0
+SHA1-Digest-Manifest: uQtrk5YrN+5YyU6td01g5Q6VX78=
+
+Name: system/vendor/firmware/keymaster/keymaster.b00
+SHA1-Digest-Manifest: Q57jeu/NmPUs1GttcpTrOhRoNHc=
+
+Name: system/vendor/lib/libTimeService.so
+SHA1-Digest-Manifest: gAI3jzfWccJiGwHT6y8hED4ajN8=
+
+Name: system/etc/security/cacerts/7d3cd826.0
+SHA1-Digest-Manifest: V+mAxNWKhoLv2XjDKjQATa9LxR8=
+
+Name: system/vendor/firmware/keymaster/keymaster.b01
+SHA1-Digest-Manifest: +1d+gqtojW9ZCaANwF718lFS+Hg=
+
+Name: system/fonts/NotoSansLao-Regular.ttf
+SHA1-Digest-Manifest: yXNwGWvJ+bZqCvqScFQl7mItfA4=
+
+Name: system/media/audio/ringtones/CASSIOPEIA.ogg
+SHA1-Digest-Manifest: NhiJ6aX02lstiUCAJfCjwadBkoA=
+
+Name: system/fonts/NotoSansThaiUI-Regular.ttf
+SHA1-Digest-Manifest: i534jO6GWkioRR8jiHZ0sqHsxeI=
+
+Name: system/etc/terminfo/s/screen-s
+SHA1-Digest-Manifest: Whb/pZQQ1Y3Qxjo2VLHCwLyeyCI=
+
+Name: system/usr/hyphen-data/hyph-nb.hyb
+SHA1-Digest-Manifest: BxS+H2KVVe2+JKdX9RXSF+rcbU4=
+
+Name: system/etc/terminfo/s/screen-w
+SHA1-Digest-Manifest: 50/CpOB2+18HSScvAnMthShz/wU=
+
+Name: system/lib/libmemtrack.so
+SHA1-Digest-Manifest: FhWRHJmCkV6iEgVFnBo/iR9p7/E=
+
+Name: system/lib/libebt_nat.so
+SHA1-Digest-Manifest: 4BMNAF7FU1X7CZ1ir2vQ9mzE7Mc=
+
+Name: system/lib/lib_Samsung_AudioZoom_v102.so
+SHA1-Digest-Manifest: 8Me0C4R97MWQ3DWCpzOyGHAcr/M=
+
+Name: system/app/WallpaperPicker/WallpaperPicker.apk
+SHA1-Digest-Manifest: qAx8UGjuQ+B9LV4Yn7j8QtIksrk=
+
+Name: system/usr/share/vim/syntax/syncolor.vim
+SHA1-Digest-Manifest: mag3xK2GT/bSK7E7v5hvyNf5v40=
+
+Name: system/etc/security/cacerts/dbc54cab.0
+SHA1-Digest-Manifest: hcE80x4c6RkkOwSi37LdwH/CHJk=
+
+Name: system/lib/libdiskconfig.so
+SHA1-Digest-Manifest: hQWnJFKGumgdJFPVxhzUBA1B0q4=
+
+Name: system/usr/share/vim/doc/options.txt
+SHA1-Digest-Manifest: 5Q8tNQmU1kbt89Ry4pH8yunK3fg=
+
+Name: system/bin/mount.ntfs
+SHA1-Digest-Manifest: 4nNdIbUPwd9jcZJDFQUyWyDvk+4=
+
+Name: system/bin/rfc
+SHA1-Digest-Manifest: leeo+92trCX5iVfKwO8zvNbR068=
+
+Name: system/lib/libjhead_jni.so
+SHA1-Digest-Manifest: edoOxbLzJqh9sOSqjlL5xSfSgzw=
+
+Name: system/bin/logwrapper
+SHA1-Digest-Manifest: DPSWn0JCB1BWBGyBV9gduBf8K3U=
+
+Name: system/fonts/DancingScript-Bold.ttf
+SHA1-Digest-Manifest: GhO7D8hyoxgPkovYwGebPmTnm/k=
+
+Name: system/etc/F13QS_imx135_module_info.xml
+SHA1-Digest-Manifest: +0ugqJAFJXo8G/h6AWahJ8WeIwY=
+
+Name: system/vendor/lib/libffmpeg_utils.so
+SHA1-Digest-Manifest: H4Tjl0h5Kco2IMLcal4kle+6GWM=
+
+Name: system/bin/sensorservice
+SHA1-Digest-Manifest: 0485Jg+JCW000axM6AJogDuIYnw=
+
+Name: system/fonts/NotoSansGlagolitic-Regular.ttf
+SHA1-Digest-Manifest: rtH6nqK+3i09OsR9i8c8uSuMAig=
+
+Name: system/media/audio/notifications/Bellatrix.ogg
+SHA1-Digest-Manifest: WoxsmxUxiNids1w2Vpe1vn1meng=
+
+Name: system/media/audio/ringtones/Big_Easy.ogg
+SHA1-Digest-Manifest: XwOAShMm4jbw1/ZNB62JjB8iyEo=
+
+Name: system/etc/permissions/android.hardware.camera.flash-autofocus.x
+ ml
+SHA1-Digest-Manifest: C/lVFaPc2jNrgqV7TMWzC4G2bVg=
+
+Name: system/etc/security/cacerts/6645de82.0
+SHA1-Digest-Manifest: bVUO4kAtp8hYaQ8nutSU3t993dQ=
+
+Name: system/usr/keylayout/Vendor_1532_Product_0900.kl
+SHA1-Digest-Manifest: zfLbTqtLeG2wGMcvL5TbQqA+w0g=
+
+Name: system/etc/terminfo/w/wsvt25m
+SHA1-Digest-Manifest: PeA3vWZHvkLTEhjzBeLH4jJ0QWs=
+
+Name: system/media/audio/notifications/Beryllium.ogg
+SHA1-Digest-Manifest: Oua990VMXulTZxJsZDlLnlVT2NY=
+
+Name: system/framework/dpm.jar
+SHA1-Digest-Manifest: WaD4Qiw7k+k+gLUNcyDil/W09hU=
+
+Name: system/app/Exchange2/Exchange2.apk
+SHA1-Digest-Manifest: HY+h97CVfyjOdfhie3jXPWfCRu8=
+
+Name: system/media/audio/ui/Dock.ogg
+SHA1-Digest-Manifest: Aqlx0uppEHUJRyb6uxXMgEC85+c=
+
+Name: system/etc/terminfo/x/xterm-color
+SHA1-Digest-Manifest: zGXx7Q0FszoC56sxFMM+ANvag74=
+
+Name: system/etc/wifi/p2p_supplicant_overlay.conf
+SHA1-Digest-Manifest: S3gusIEB9/d155jTTvEs2I+ol2c=
+
+Name: system/lib/libc_malloc_debug_qemu.so
+SHA1-Digest-Manifest: JDbbp42D5PJDK9gxYgPW4swW0lQ=
+
+Name: system/usr/hyphen-data/hyph-hy.hyb
+SHA1-Digest-Manifest: bgnDgI5SwZWBuG0ncm6TyYcZP8A=
+
+Name: system/etc/security/cacerts/9ab62355.0
+SHA1-Digest-Manifest: ydpR0UdW26QasQww36dEI9AnEeE=
+
+Name: system/bin/mcap_tool
+SHA1-Digest-Manifest: 4JhMbDGhyDF3BhXCHdCamsNswDo=
+
+Name: system/lib/libRS.so
+SHA1-Digest-Manifest: uxcimEi6gPYarZ2skF85QIR+gg4=
+
+Name: system/vendor/lib/libmmcamera_hdr_lib.so
+SHA1-Digest-Manifest: vaud9wKq/R4HMOpjBryPAlwRiQg=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest-Manifest: QW7yPFUPbhU0tUYKW4i2EdneCnw=
+
+Name: system/etc/media_codecs_google_audio.xml
+SHA1-Digest-Manifest: 0V8nAC0Y4MZmBbprGn3XyzOJdI4=
+
+Name: system/lib/libqomx_core.so
+SHA1-Digest-Manifest: W5NIZ4q1ZNkwMIixakqfhMGxCx4=
+
+Name: system/media/audio/alarms/CyanAlarm.ogg
+SHA1-Digest-Manifest: oal6XWlwiwhgeF724EQEtbfm7zA=
+
+Name: system/lib/libclcore.bc
+SHA1-Digest-Manifest: PrlOtkKI2FVbmbPZe3fPlHnTBoI=
+
+Name: system/lib/libiprouteutil.so
+SHA1-Digest-Manifest: 5Vs4B7EAd7a/LQvLVyg7ei4QzbE=
+
+Name: system/lib/libaudio-resampler.so
+SHA1-Digest-Manifest: 2fx/uNC6gPen9A9eDiEoHSlApRk=
+
+Name: system/etc/permissions/com.android.nfc_extras.xml
+SHA1-Digest-Manifest: Qi+tQ+6ZJcMQyV/l49XjYlVTiHk=
+
+Name: system/etc/permissions/org.cyanogenmod.statusbar.xml
+SHA1-Digest-Manifest: MUf0Votmks5LErmcTzgnmwyJk5w=
+
+Name: system/etc/sap.conf
+SHA1-Digest-Manifest: fgxJy0OfPM/RduuO7kboSASpGOY=
+
+Name: system/lib/libchromatix_imx135_preview.so
+SHA1-Digest-Manifest: swYIsduH9o18i+XUgip9la957RA=
+
+Name: system/lib/hw/audio.a2dp.default.so
+SHA1-Digest-Manifest: a9p14DWFMUxKnuQqGu1kyB6EmH0=
+
+Name: system/usr/share/vim/syntax/synload.vim
+SHA1-Digest-Manifest: oohPw+3tdYDc915pgWk/i2eTcws=
+
+Name: system/vendor/lib/libacdbloader.so
+SHA1-Digest-Manifest: quE58vkRf3wxVFdwAbpoRLKOjlM=
+
+Name: system/app/Eleven/Eleven.apk
+SHA1-Digest-Manifest: nIB7ESMeuFruJt+atKnN61tsWHU=
+
+Name: system/media/audio/notifications/Talitha.ogg
+SHA1-Digest-Manifest: DrG7w54/LNfUCgt3kt6YvPxpU3c=
+
+Name: system/app/HoloSpiralWallpaper/HoloSpiralWallpaper.apk
+SHA1-Digest-Manifest: LckxU/3lQDzxAT5A04C1kibdouM=
+
+Name: system/usr/keylayout/Vendor_1689_Product_fd01.kl
+SHA1-Digest-Manifest: xBcQgJ1cAWumJ3VisZznijWa7kM=
+
+Name: system/etc/permissions/android.software.midi.xml
+SHA1-Digest-Manifest: sBJ/TjCD/snHlmxGUV/SEk/WY+A=
+
+Name: system/lib/modules/ansi_cprng.ko
+SHA1-Digest-Manifest: ftU/EtKZavvUo+eJDnkY+YL/L2c=
+
+Name: system/lib/libOpenMAXAL.so
+SHA1-Digest-Manifest: oKiK6YL4cznQq3+mFmbefd6XbkU=
+
+Name: system/app/CMFileManager/CMFileManager.apk
+SHA1-Digest-Manifest: +PHpyI5ENINx3rB+/kxRDdBgi7A=
+
+Name: system/etc/permissions/com.android.media.remotedisplay.xml
+SHA1-Digest-Manifest: N+B505irIFgwjCQOLzB/Zbr6EWQ=
+
+Name: system/media/audio/ringtones/Aquila.ogg
+SHA1-Digest-Manifest: MX37foWJ/WE1yn7zh1RfseETzcM=
+
+Name: system/media/audio/notifications/pixiedust.ogg
+SHA1-Digest-Manifest: 7X0VYwWxtmkvLurVI/sKzXS22RA=
+
+Name: system/lib/lib_soundaliveresampler.so
+SHA1-Digest-Manifest: 6eWx6f6oK/uTmtm9SE8qtUeFDxw=
+
+Name: system/lib/libcmsdk_platform_jni.so
+SHA1-Digest-Manifest: iiQHTR7nNWQ9wHkbsq844GUcXec=
+
+Name: system/lib/hw/audio.primary.msm8916.so
+SHA1-Digest-Manifest: xDWwOHdhH647L3MhW1JsV9a9iq8=
+
+Name: system/framework/settings.jar
+SHA1-Digest-Manifest: uJMDxuOh/rwo7d3JuK6T4lN6KJw=
+
+Name: system/vendor/lib/libxml.so
+SHA1-Digest-Manifest: abHtEYuuO/uwonTWqs0mGsILRAc=
+
+Name: system/bin/surfaceflinger
+SHA1-Digest-Manifest: 0y3Z6+Qws5mxYz+i+IywghwV8cM=
+
+Name: system/etc/permissions/android.hardware.telephony.gsm.xml
+SHA1-Digest-Manifest: VedgY17d+3Q4Wvr4BUBh8n6kIt4=
+
+Name: system/etc/nano/cmake.nanorc
+SHA1-Digest-Manifest: eJb+HG2Tu0ktRuCEUb6Wk/JpLB4=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest-Manifest: IPE2ADx61L7+KtXt4ARBAvarq/k=
+
+Name: system/media/audio/notifications/Fomalhaut.ogg
+SHA1-Digest-Manifest: CSODjVs4oQvV9I1QqvCHwgmYFDI=
+
+Name: system/etc/security/cacerts/cf701eeb.0
+SHA1-Digest-Manifest: 6AgO/7Rr3O62OxSQunW7/1k6SpQ=
+
+Name: system/tts/lang_pico/es-ES_zl0_sg.bin
+SHA1-Digest-Manifest: dX1TIDkkkvgY3gnXGkcrIO1D/Fs=
+
+Name: system/priv-app/Screencast/Screencast.apk
+SHA1-Digest-Manifest: VPw0P99pLyv0dRtGJYPyX5BhMUo=
+
+Name: system/media/audio/ringtones/CanisMajor.ogg
+SHA1-Digest-Manifest: BRRfpucnkD5rS1TLFbPJnK/z2VI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: qhPvTZG5Qyw2Et4+1woADcXEbyQ=
+
+Name: system/media/audio/ringtones/Noises3.ogg
+SHA1-Digest-Manifest: 70DC9qujf293u6ga0WsiKRUMH+Q=
+
+Name: system/etc/security/cacerts/2fa87019.0
+SHA1-Digest-Manifest: t4p3uQT4H/QqicQimp5TiHqdRtI=
+
+Name: system/lib/librmnetctl.so
+SHA1-Digest-Manifest: yfAtpCnrfYfXj5CZbcdsNOIec9U=
+
+Name: system/vendor/lib/libmmcamera_dw_dw9806b_eeprom.so
+SHA1-Digest-Manifest: hGj02MsKJwSvcg2OB0vzREp2Ynw=
+
+Name: system/media/audio/notifications/sirius.ogg
+SHA1-Digest-Manifest: MUS/sZW+Wgobkjv7srVEAruyPWk=
+
+Name: system/media/audio/ringtones/VeryAlarmed.ogg
+SHA1-Digest-Manifest: zYiq7CqOHhrF8uBC9lgiZWeJfsM=
+
+Name: system/bin/mkfs.f2fs
+SHA1-Digest-Manifest: /dH/SX7ai43BzZCYxgEeeH5mh0E=
+
+Name: system/etc/recovery-resource.dat
+SHA1-Digest-Manifest: 6A1Wyh2h6kl2vAJtP4dcumvRpp4=
+
+Name: system/media/audio/alarms/Oxygen.ogg
+SHA1-Digest-Manifest: gsJoB8qbRb3rlJb3VgsYCI6bq7o=
+
+Name: system/media/audio/ringtones/Ring_Synth_04.ogg
+SHA1-Digest-Manifest: f9iaiYm7beZ4ferroTuqAMeazYg=
+
+Name: system/app/PicoTts/PicoTts.apk
+SHA1-Digest-Manifest: oBIJLuYQDrqbfb3ZrkpnAvzLOt0=
+
+Name: system/lib/libgatekeeper.so
+SHA1-Digest-Manifest: xzV0dUFcv+jF5r6iSLLyEMli2YE=
+
+Name: system/media/audio/notifications/Doink.ogg
+SHA1-Digest-Manifest: IyT26D6bxZf8XqiL+VS645K/XE8=
+
+Name: system/framework/org.apache.http.legacy.boot.jar
+SHA1-Digest-Manifest: 0zDTFKlA/29EMvig9cngapNuFIw=
+
+Name: system/media/audio/alarms/NuclearLaunch.ogg
+SHA1-Digest-Manifest: RnS41Ssq4K7iRgtWJA1mTfot71M=
+
+Name: system/lib/libsurfaceflinger_ddmconnection.so
+SHA1-Digest-Manifest: pG8IidvRbBtMI7p0Q3DPq1ZAehA=
+
+Name: system/usr/keylayout/Vendor_1d79_Product_0009.kl
+SHA1-Digest-Manifest: A/2uwxUOQ6IZzKRyuOkwN9WitqA=
+
+Name: system/lib/libchromatix_imx135_common_res2.so
+SHA1-Digest-Manifest: ZAkYpZ+QplgLbwia9wmTCyvioVM=
+
+Name: system/media/audio/ringtones/Cygnus.ogg
+SHA1-Digest-Manifest: b3xfDigizmVwNegVqgDdvWS0F8w=
+
+Name: system/etc/security/cacerts/33815e15.0
+SHA1-Digest-Manifest: 3s4u9G41C78v0xnxZd8g5Xq9sYQ=
+
+Name: system/etc/security/cacerts/33815e15.1
+SHA1-Digest-Manifest: OscR6Y1sC01xA7qRmF07iKgm8AQ=
+
+Name: system/lib/libstagefright_soft_mpeg2dec.so
+SHA1-Digest-Manifest: 8MiIOuRyebIZmIyEJ7xFW1Jj8/E=
+
+Name: system/etc/security/cacerts/52b525c7.0
+SHA1-Digest-Manifest: Mv4mDFP/0hrlQA5jzE6hpptJyo0=
+
+Name: system/usr/share/vim/syntax/vim.vim
+SHA1-Digest-Manifest: lgTxydls3zQWJKDvgc+DfAVUlj8=
+
+Name: system/lib/libsparse.so
+SHA1-Digest-Manifest: ztytlj97beCd3hTvQ+3toWNExhE=
+
+Name: system/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so
+SHA1-Digest-Manifest: DugYU8L8Y6GLEMV5HsaNijeibZY=
+
+Name: system/bin/oatdump
+SHA1-Digest-Manifest: JW824eUfAbsgoZlsDc6TYDdkgWQ=
+
+Name: system/fonts/NotoSansKannada-Bold.ttf
+SHA1-Digest-Manifest: RgvvptnyZsPFtjlvKWKCcwWo5Aw=
+
+Name: system/bin/btsnoop
+SHA1-Digest-Manifest: sckNdXWkgphlorm9gTv/1aJnyUs=
+
+Name: system/etc/terminfo/r/rxvt
+SHA1-Digest-Manifest: NsMxD1/Ntvgr6hVdazLoG6y8vn4=
+
+Name: system/bin/applypatch
+SHA1-Digest-Manifest: 1nMYcRAmxSrNr33EyuJTbvwD+y8=
+
+Name: system/lib/libexifa.so
+SHA1-Digest-Manifest: QScppfqsO6d1UkL2jO0CwMcmPIw=
+
+Name: system/media/audio/notifications/Altair.ogg
+SHA1-Digest-Manifest: lYiXMrCfKgD2IYCsrG23C/qCwi0=
+
+Name: system/etc/apns-conf.xml
+SHA1-Digest-Manifest: xDtSZ/PtUOWcID7voMPiHTAnL3Y=
+
+Name: system/etc/init.d/90userinit
+SHA1-Digest-Manifest: 0yZRvx+paMMBHjkFhc8f/FvN1Kc=
+
+Name: system/usr/keychars/qwerty2.kcm
+SHA1-Digest-Manifest: daI1+jRsBLH0AaORU4xCM1Bp4/M=
+
+Name: system/fonts/NotoSansMyanmarUI-Bold.ttf
+SHA1-Digest-Manifest: tQ7bY0MX901mYdbDkdj0U2Vnwrg=
+
+Name: system/media/audio/ringtones/UrsaMinor.ogg
+SHA1-Digest-Manifest: uSdK8kCZfVuz+mlm/w8xp7HLIN0=
+
+Name: system/usr/keylayout/gpio-keys.kl
+SHA1-Digest-Manifest: qq74pYoy/Yjv60euKvmwtHcXF1c=
+
+Name: system/vendor/lib/libqmi.so
+SHA1-Digest-Manifest: oxyTbDNO8mdjmex2/KXBD50IwO8=
+
+Name: system/bin/racoon
+SHA1-Digest-Manifest: lnalK2nP5hp4apnUURQp0MNPwi0=
+
+Name: system/app/WAPPushManager/WAPPushManager.apk
+SHA1-Digest-Manifest: gVaFwrhfu7cDNAYEs8FzZFLc6RM=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_preview.so
+SHA1-Digest-Manifest: o8EatpoApmcAQWDaQF4W+HdsJVI=
+
+Name: system/media/audio/notifications/Palladium.ogg
+SHA1-Digest-Manifest: XKfXczaRiqFqDMQb5gUjLHsrLtg=
+
+Name: system/lib/libext2_quota.so
+SHA1-Digest-Manifest: M/RTbjbspx60fG6sdNQG6s+psjU=
+
+Name: system/lib/libnfc_nci_jni.so
+SHA1-Digest-Manifest: bFqxtvNvl7pyiP1KFrAh4KbP8AY=
+
+Name: system/lib/libui.so
+SHA1-Digest-Manifest: kRYnfMylCQbaFMsFos6hbyPJu4M=
+
+Name: system/media/audio/notifications/Aldebaran.ogg
+SHA1-Digest-Manifest: 4+F/3PFpx8eULQPkdNx0e8+1+xw=
+
+Name: system/etc/media_codecs_google_telephony.xml
+SHA1-Digest-Manifest: cEH60UffMvECrTUew9SC8MBiWIg=
+
+Name: system/lib/libstagefright_http_support.so
+SHA1-Digest-Manifest: LbrcTXFQI2oMXkADhqK6wxKlrI8=
+
+Name: system/vendor/lib/libmmcamera2_imglib_modules.so
+SHA1-Digest-Manifest: 1j+U1it3kC93KiE0z5QqkBXC09A=
+
+Name: system/lib/hw/audio.r_submix.default.so
+SHA1-Digest-Manifest: d6wVkHqU6NhUvZj/j4yPzZ0HyBc=
+
+Name: system/lib/libkeymaster_messages.so
+SHA1-Digest-Manifest: r3C44Ltpe+NGgyTKbyKV+16jxtw=
+
+Name: system/bin/uncrypt
+SHA1-Digest-Manifest: xESSeS7gxa8QBy9LveCv8muzAnM=
+
+Name: system/lib/hw/local_time.default.so
+SHA1-Digest-Manifest: fXeRqjKenzNh6X5HIkRG0hv+XwU=
+
+Name: system/media/audio/notifications/Helium.ogg
+SHA1-Digest-Manifest: 895BCJqtlxi9Bhh0Rz/PyyFQemE=
+
+Name: system/framework/com.android.media.remotedisplay.jar
+SHA1-Digest-Manifest: lcgckQZbAw/eunNjbMfbEaU7944=
+
+Name: system/xbin/procmem
+SHA1-Digest-Manifest: tQ0RGaOVpr21YLyg3P5vl7qO5JQ=
+
+Name: system/fonts/NotoNaskhArabic-Bold.ttf
+SHA1-Digest-Manifest: o/g9l/ZtwFAgR8wfxSLmSUjQgkc=
+
+Name: system/lib/hw/audio.usb.default.so
+SHA1-Digest-Manifest: omH6AOW+SX8yc3YJKIIiRVWh83M=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c294.kl
+SHA1-Digest-Manifest: FEu4tbv/pfG+jZWhYQQVPaclr8Y=
+
+Name: system/lib/libandroid.so
+SHA1-Digest-Manifest: kXMMsLsMgtgFFQ/ZrM3d7NmlkVw=
+
+Name: system/fonts/NotoSansTagbanwa-Regular.ttf
+SHA1-Digest-Manifest: GAcPoCh2vjRcSwKSUoYXyb0QqRE=
+
+Name: system/lib/libQWiFiSoftApCfg.so
+SHA1-Digest-Manifest: wGb8tqVUx7j7Xzrn4/PzbFGFmdQ=
+
+Name: system/fonts/NotoSansJavanese-Regular.ttf
+SHA1-Digest-Manifest: koBmi3ibwFyq18bo3XVIAmSV+Jw=
+
+Name: system/lib/modules/test-iosched.ko
+SHA1-Digest-Manifest: Jf/zz+En/JUJWVflUghvxft7+1k=
+
+Name: system/media/audio/alarms/Alarm_Beep_02.ogg
+SHA1-Digest-Manifest: 9Cw9s61BeSWhTnvzXxttiBZ1qu0=
+
+Name: system/fonts/RobotoCondensed-Italic.ttf
+SHA1-Digest-Manifest: 60U+sfoBMI7VIBknMTrLSRbavHY=
+
+Name: system/etc/libnfc-sec-hal.conf
+SHA1-Digest-Manifest: DlnexPj5nHiARfTD9oI6VWwbdko=
+
+Name: system/lib/libebt_arp.so
+SHA1-Digest-Manifest: ZGo1L7vZMW/rMMEL+Cf3GQMVj/s=
+
+Name: system/lib/modules/spidev.ko
+SHA1-Digest-Manifest: 5Bns/prVrwvxVuqm08eBvzriDkY=
+
+Name: system/lib/libz.so
+SHA1-Digest-Manifest: /7YZ3fysa0eNM0w+OGMWjBD4EDs=
+
+Name: system/vendor/lib/libmmcamera2_wnr_module.so
+SHA1-Digest-Manifest: LQUdgg6C40f+XX+F1HE4sNug5HM=
+
+Name: system/etc/terminfo/s/sun
+SHA1-Digest-Manifest: lB6zIV1z1cYPwUZX3f65STw5ZeQ=
+
+Name: system/lib/libebt_vlan.so
+SHA1-Digest-Manifest: xPc7ntSjwjuKc4t2sR8GLYPTQdk=
+
+Name: system/xbin/dexdump
+SHA1-Digest-Manifest: An+8mDzl574kTtzRaUj7e1+YlQU=
+
+Name: system/etc/security/cacerts/d06393bb.0
+SHA1-Digest-Manifest: qxmGDWWU6g1u7CDlBlZ63Znly7c=
+
+Name: system/bin/dhcptool
+SHA1-Digest-Manifest: ZPJIp2wjImrR3QQMtlb1oxvqdkc=
+
+Name: system/etc/security/cacerts/27af790d.0
+SHA1-Digest-Manifest: g9l7O6TX3FSEjWxHh5AEugviGRg=
+
+Name: system/media/audio/notifications/Sirrah.ogg
+SHA1-Digest-Manifest: rhPvMnpeyYGPjaw4uh65x5woy5M=
+
+Name: system/media/audio/notifications/Spica.ogg
+SHA1-Digest-Manifest: p4ocX2dd8+x7ajE2UUgZiUCHP7U=
+
+Name: system/bin/resize2fs
+SHA1-Digest-Manifest: NlNzGVryolLTU/TyVo+iARdE9yU=
+
+Name: system/lib/libchromatix_imx135_common_res1.so
+SHA1-Digest-Manifest: 5kktIzj6DCQuq1KKmMAZWRSes+I=
+
+Name: system/usr/keylayout/Vendor_22b8_Product_093d.kl
+SHA1-Digest-Manifest: 94UqYM02uQuqPT7U58C9UD8Plaw=
+
+Name: system/media/audio/ringtones/Eastern_Sky.ogg
+SHA1-Digest-Manifest: 50qSb8b9/pJqMgH8FsggDrvK8jM=
+
+Name: system/vendor/lib/libizat_core.so
+SHA1-Digest-Manifest: upQkZVP3Y0HRrFPLtXSNoZA2+LE=
+
+Name: system/etc/security/cacerts/60afe812.0
+SHA1-Digest-Manifest: 7EMkbpx4y1z8uycn9w7S7/U00l4=
+
+Name: system/etc/security/cacerts/9576d26b.0
+SHA1-Digest-Manifest: OJveUPuC/gD/PqXR9M2UloIHPzU=
+
+Name: system/lib/libOmxEvrcEnc.so
+SHA1-Digest-Manifest: PQJRHY8xKhdMU3nXuMEHlWIm4UY=
+
+Name: system/vendor/lib/libacdbmapper.so
+SHA1-Digest-Manifest: L6Rw0Lhi/WKAKnT3speLBRAbnuQ=
+
+Name: system/xbin/wget
+SHA1-Digest-Manifest: QhhHLdXCw68F3p6lrXiwPul4lv8=
+
+Name: system/bin/adsprpcd
+SHA1-Digest-Manifest: SBFEHQB09/CLi46ANR8XZwGx9lk=
+
+Name: system/media/audio/notifications/DearDeer.ogg
+SHA1-Digest-Manifest: PqQWPpaTrtYxRVymXbHHNl4TDcY=
+
+Name: system/etc/security/cacerts/cdaebb72.0
+SHA1-Digest-Manifest: kGnHEefMKDq/07YwpCBVBQCEpfg=
+
+Name: system/etc/security/cacerts/8d6437c3.0
+SHA1-Digest-Manifest: 6AT71LQMQ1jM63aOGrmwnu0/k6g=
+
+Name: system/usr/share/vim/syntax/dtd.vim
+SHA1-Digest-Manifest: NL6MRKbJhWGJV9T7au0q40th6js=
+
+Name: system/app/telresources/telresources.apk
+SHA1-Digest-Manifest: Lxezu2tOQ3TKCVnvzr2WOtc16WU=
+
+Name: system/lib/libprotobuf-cpp-lite.so
+SHA1-Digest-Manifest: l1m2FZ7+ZELGMgmzdMHMlFeRwrQ=
+
+Name: system/fonts/NotoSansDevanagari-Regular.ttf
+SHA1-Digest-Manifest: RvMdShogu0bBY1gP1SLX8DZUXCQ=
+
+Name: system/vendor/lib/libCB.so
+SHA1-Digest-Manifest: Fa2jdCYQp3HpCfKF+3XdAtUTsz8=
+
+Name: system/app/PhotoTable/PhotoTable.apk
+SHA1-Digest-Manifest: cuFiWCSxRU2haWb1+EBc8BUldZc=
+
+Name: system/lib/libopus.so
+SHA1-Digest-Manifest: WR29nQTyyFrmV87WPhT9EA5cUr8=
+
+Name: system/media/audio/ringtones/BeatPlucker.ogg
+SHA1-Digest-Manifest: 0C+UeY+8Y/tG774geR5ewQrL+84=
+
+Name: system/etc/permissions/android.hardware.sensor.light.xml
+SHA1-Digest-Manifest: Pn0I13jrVn51nOyc4S/jiw/Xw6U=
+
+Name: system/media/audio/notifications/Ariel.ogg
+SHA1-Digest-Manifest: /beaOXuuT1KQ+4rEW9sB8nDTgvk=
+
+Name: system/media/audio/notifications/Drip.ogg
+SHA1-Digest-Manifest: S/niwl+AQfzWR0PgT8tKe/f0skY=
+
+Name: system/tts/lang_pico/de-DE_gl0_sg.bin
+SHA1-Digest-Manifest: ScYyzXaktqrP2gdGvGwnttbNyVw=
+
+Name: system/usr/keylayout/Vendor_1bad_Product_f027.kl
+SHA1-Digest-Manifest: 6OoB0yMC1/dRdY1aSnnC7uGKsVY=
+
+Name: system/etc/security/cacerts/f58a60fe.0
+SHA1-Digest-Manifest: NaxzjBIJ7f1CmSUjqgyRMxtdCxo=
+
+Name: system/etc/permissions/android.hardware.camera.front.xml
+SHA1-Digest-Manifest: NAh1WhR7ey/q2qiP0i7mYjJshxw=
+
+Name: system/lib/libFFTEm.so
+SHA1-Digest-Manifest: uwrAln3oIX7Xsz5huo+f1CB7mxQ=
+
+Name: system/framework/conscrypt.jar
+SHA1-Digest-Manifest: u6IEPMbyle6+7avHL2MxADIgeyQ=
+
+Name: system/etc/security/cacerts/aeb67534.0
+SHA1-Digest-Manifest: ITChWfBSXf8xG5ioJMcwWwpIYBk=
+
+Name: system/etc/terminfo/s/screen
+SHA1-Digest-Manifest: ARf439VvuQNk8p+utNUat64Qd0I=
+
+Name: system/lib/libbcc.so
+SHA1-Digest-Manifest: 0XdMDgcyB1AZfxf5XPoxTIvFIwc=
+
+Name: system/lib/libaudioroute.so
+SHA1-Digest-Manifest: N9+OVXvG1UQQfFym+axSYZC75lE=
+
+Name: system/lib/libAl_Awb_Sp.so
+SHA1-Digest-Manifest: n60T0w8fhEitaFBsnltFbSu8uuc=
+
+Name: system/framework/sm.jar
+SHA1-Digest-Manifest: hW08r2dgHCk5RJliaM/qcyiYcPM=
+
+Name: system/fonts/NotoSansBengaliUI-Bold.ttf
+SHA1-Digest-Manifest: xi0xdCeCI5/FgglrfYJC7u55nh8=
+
+Name: system/usr/share/vim/colors/default.vim
+SHA1-Digest-Manifest: ld7Fb0pGHkWM8EXE0+COSovIcsw=
+
+Name: system/lib/libRSCpuRef.so
+SHA1-Digest-Manifest: pjC2yVasInRV4O8uRglp1BdtoLA=
+
+Name: system/etc/security/cacerts/fde84897.0
+SHA1-Digest-Manifest: 1h9iJ8EzxxArotifjFsUfZrToIM=
+
+Name: system/lib/libETC1.so
+SHA1-Digest-Manifest: HYjld13SUFjVmUNwZSlb+doczjs=
+
+Name: system/vendor/lib/libc2d30-a3xx.so
+SHA1-Digest-Manifest: 2CRsSPlsyHjCbmYVTSE66TJkEMY=
+
+Name: system/etc/hosts
+SHA1-Digest-Manifest: 5ldXOKT6xRrZLmZz3eqoDomMca0=
+
+Name: system/lib/libskia.so
+SHA1-Digest-Manifest: R0IT64CHfTaI5xmxdowwWXugTZY=
+
+Name: system/vendor/lib/libmmjpeg.so
+SHA1-Digest-Manifest: SPjjMJcVuUM9l4O1C+4jK+BIQmk=
+
+Name: system/etc/security/cacerts/9f533518.0
+SHA1-Digest-Manifest: Q+V4xE9Yf7WacCLo57bmVHepW3k=
+
+Name: system/media/audio/ringtones/Safari.ogg
+SHA1-Digest-Manifest: lVdLM9Ky9lzogjCPj3L400wibgA=
+
+Name: system/etc/security/cacerts/81b9768f.0
+SHA1-Digest-Manifest: lbTei2tmMF6F5/WFeH4i5suKAD4=
+
+Name: system/usr/share/vim/autoload/spacehi.vim
+SHA1-Digest-Manifest: z+pzZwniV1HMpW88TpAlu4LQ/hk=
+
+Name: system/vendor/lib/soundfx/libqcreverb.so
+SHA1-Digest-Manifest: hSwBUAm639759T+hUEgZ1hsoqNI=
+
+Name: system/xbin/htop
+SHA1-Digest-Manifest: UYx+aBS2yIHsWaF9mhaIHlOR7+o=
+
+Name: system/fonts/NotoSerif-BoldItalic.ttf
+SHA1-Digest-Manifest: I29x3jzpyaHog/yjz7/v/l8PhYc=
+
+Name: system/bin/tinyplay
+SHA1-Digest-Manifest: bRIb0oZUp+iRWNxsxKdVWU8gAbo=
+
+Name: system/framework/framework.jar
+SHA1-Digest-Manifest: LMTEjgv5uLBErGlFdcEQthROw5g=
+
+Name: system/media/audio/notifications/Highwire.ogg
+SHA1-Digest-Manifest: QZ6ZDBFRvKN7mRBSvr7xhbhEU/Q=
+
+Name: system/bin/fsck.exfat
+SHA1-Digest-Manifest: WLtYvK6EWxFDxkRhvKGhRTfPa74=
+
+Name: system/vendor/lib/egl/libESXGLESv1_CM_adreno.so
+SHA1-Digest-Manifest: 97y8/Ydm2SMpj7vObfX62AamFj8=
+
+Name: system/fonts/NotoSansThai-Bold.ttf
+SHA1-Digest-Manifest: hK/bd4LQS911YB21BkaX3tdcM6Q=
+
+Name: system/lib/libstagefright_soft_aacenc.so
+SHA1-Digest-Manifest: MTeWABVpNbNI05W+QbS40+fsTLM=
+
+Name: system/usr/keychars/qwerty.kcm
+SHA1-Digest-Manifest: Z/WKxPvIkR28R++ZAs/Acj5tvbw=
+
+Name: system/etc/permissions/platform.xml
+SHA1-Digest-Manifest: PVjnvBrDxB1Qvqab4nIjvUAQuJ0=
+
+Name: system/fonts/RobotoCondensed-Light.ttf
+SHA1-Digest-Manifest: TLUK6fkWJeLBkIaLH6oGTNIRthI=
+
+Name: system/bin/r
+SHA1-Digest-Manifest: C9DAZujhrP3fgOYn2RFayUjywZA=
+
+Name: system/app/Provision/Provision.apk
+SHA1-Digest-Manifest: d1uY1ekn85oh/TrnUDzXxlkAY6A=
+
+Name: system/etc/security/cacerts/86212b19.0
+SHA1-Digest-Manifest: wILlIki+R11An4I2OXylvZiUVrg=
+
+Name: system/lib/libinputflinger.so
+SHA1-Digest-Manifest: 4g0SAL0k65/641h/5id0EzTGrzc=
+
+Name: system/lib/libcutils.so
+SHA1-Digest-Manifest: itWV5w/N1Yp+bfimOhz/zASXO90=
+
+Name: system/etc/clatd.conf
+SHA1-Digest-Manifest: 53YpoP/YWABVlz/5yJY7/KDRbAg=
+
+Name: system/media/audio/ringtones/CrayonRock.ogg
+SHA1-Digest-Manifest: 7HGDQ/+DQJHGxd5FJfDT3VhnPEc=
+
+Name: system/bin/servicemanager
+SHA1-Digest-Manifest: 9swkSJs1g/6qDFA50+G9ysIjsuo=
+
+Name: system/media/audio/ringtones/BirdLoop.ogg
+SHA1-Digest-Manifest: tyacfsy342or13y6VoNIQ+eoiXk=
+
+Name: system/lib/libselinux.so
+SHA1-Digest-Manifest: 7xgpH/Dg3Fbd6kkKt3iiZ1EV3Xg=
+
+Name: system/media/audio/ringtones/Growl.ogg
+SHA1-Digest-Manifest: GdBECgwoDbSXi+JfYz+8kOBPNaw=
+
+Name: system/media/audio/notifications/Alya.ogg
+SHA1-Digest-Manifest: yr9GmVFmaM8SFFt1XoBq/GiAbgs=
+
+Name: system/etc/security/cacerts/a2c66da8.0
+SHA1-Digest-Manifest: ZKt2OTBbPQikOXZmNNTgfFTVsa4=
+
+Name: system/etc/fonts.xml
+SHA1-Digest-Manifest: GhtAQyk2fuHwmeEZwkFzpvSe1sc=
+
+Name: system/media/audio/alarms/Alarm_Buzzer.ogg
+SHA1-Digest-Manifest: hQCM62arLTWWXYDH/rvXHo8FCOY=
+
+Name: system/vendor/lib/libC2D2.so
+SHA1-Digest-Manifest: roywEP+7TuZkQ0UYJ8QQsc2llKw=
+
+Name: system/media/audio/ringtones/Enter_the_Nexus.ogg
+SHA1-Digest-Manifest: zACA+wwMoEDVgps4LpZPvSgDIUM=
+
+Name: system/lib/hw/lights.msm8916.so
+SHA1-Digest-Manifest: PfQfmQnC0K4yraeE0VzDz7hITaE=
+
+Name: system/media/audio/notifications/OnTheHunt.ogg
+SHA1-Digest-Manifest: btYib2szrK5TKBS52wvGzYp+z7Y=
+
+Name: system/bin/input
+SHA1-Digest-Manifest: Gueagp8jzE9cI/lstV2eYAe3agA=
+
+Name: system/lib/librsjni.so
+SHA1-Digest-Manifest: qvMV+oAoSq4vpWX3bllZaupQmhk=
+
+Name: system/bin/l2test_ertm
+SHA1-Digest-Manifest: Jw36OiNB9zrfxbBC6oySN6HVwpg=
+
+Name: system/lib/libaudiosa.so
+SHA1-Digest-Manifest: WBdna13QW/feM9WtXR5NtMqCPaI=
+
+Name: system/xbin/simpleperf
+SHA1-Digest-Manifest: Ypf3qKRUHZj3vJJ2UEQcMb1UJmM=
+
+Name: system/etc/security/cacerts/85cde254.0
+SHA1-Digest-Manifest: W8U8msFtEP/oXxQORAGMmAn8ctg=
+
+Name: system/lib/lib_SoundAlive_play_ver125e.so
+SHA1-Digest-Manifest: WYD3HW896MM6WN4s9RuQ6DeTBzo=
+
+Name: system/etc/terminfo/x/xterm-xfree86
+SHA1-Digest-Manifest: GruqW+qAmrItOu25apD8nbrVD28=
+
+Name: system/fonts/NotoSansTamil-Regular.ttf
+SHA1-Digest-Manifest: RGVcSn4suI3nJdi2uXGpnbbvHjs=
+
+Name: system/media/audio/notifications/Voila.ogg
+SHA1-Digest-Manifest: 8k2ncBzwwD2NoWUvRt/+U/BMgGE=
+
+Name: system/lib/libclcore_neon.bc
+SHA1-Digest-Manifest: ttD2FEFuMUHBG1ANTlfaUjs/SDs=
+
+Name: system/xbin/rsync
+SHA1-Digest-Manifest: QEk3sJY5Lh25T8DBOWQKpn6SkUk=
+
+Name: system/etc/security/cacerts/b7db1890.0
+SHA1-Digest-Manifest: WmnyNjXFGG7+yVyzvAAO2Qds2MU=
+
+Name: system/etc/hostapd/hostapd_default.conf
+SHA1-Digest-Manifest: f0snB5mXIySxEvg72JoWHvYb9nY=
+
+Name: system/lib/libc++.so
+SHA1-Digest-Manifest: SkMmH1gKAVMhHSdGjI/YrDLxu1U=
+
+Name: system/priv-app/OneTimeInitializer/OneTimeInitializer.apk
+SHA1-Digest-Manifest: H2RGXr+hsIiAOeZzZZD7SDxJino=
+
+Name: system/xbin/micro_bench
+SHA1-Digest-Manifest: I5obX14AIUC91Y2oxiUCWbGEKo8=
+
+Name: system/media/audio/ringtones/Playa.ogg
+SHA1-Digest-Manifest: LFUvtapzPyL03swjeMPtP1FnShk=
+
+Name: system/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc
+SHA1-Digest-Manifest: PRieXZKnzZ5Jaxv7EwwxAolnhN0=
+
+Name: system/vendor/bin/thermal-engine
+SHA1-Digest-Manifest: a+yzetZtuE5aNaf446a0ZkmuioE=
+
+Name: system/lib/libstagefright_soft_gsmdec.so
+SHA1-Digest-Manifest: 7KQQKNxBhs/mpuTtU46ALNwlND0=
+
+Name: system/lib/libstagefright_soft_mpeg4enc.so
+SHA1-Digest-Manifest: s8fegsN4dXN5yYOwKFfUaIMf47M=
+
+Name: system/lib/libboringssl-compat.so
+SHA1-Digest-Manifest: 5/oZWF+yqekRc0pNgf/BX/Zs5F4=
+
+Name: system/vendor/lib/egl/eglSubDriverAndroid.so
+SHA1-Digest-Manifest: uDeRnKgLKL7zHuhPrmxxc17UV9c=
+
+Name: system/bin/settings
+SHA1-Digest-Manifest: XXnESblBetyTmyoX6YYnmaAhjcQ=
+
+Name: system/lib/libexpat.so
+SHA1-Digest-Manifest: 20XxL+xdbY8rYcEpz1tKfJsH4/E=
+
+Name: system/bin/lmkd
+SHA1-Digest-Manifest: JxvzgCfPk8nBg8pFZBQI3OTCeus=
+
+Name: system/fonts/NotoSansKannadaUI-Bold.ttf
+SHA1-Digest-Manifest: JMUnB4lKkryZ3e5z/o2fRSM8FRs=
+
+Name: system/fonts/NotoSansSC-Regular.otf
+SHA1-Digest-Manifest: n/UxZL2Y5cSp3xCsctP1cqvCg5E=
+
+Name: system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+SHA1-Digest-Manifest: syJaxNNMj5wZmrHfZhaJVm61WoU=
+
+Name: system/usr/keylayout/qwerty.kl
+SHA1-Digest-Manifest: hHLaUFDN52qWEwIaiyqLA+ggnkw=
+
+Name: system/etc/security/cacerts/add67345.0
+SHA1-Digest-Manifest: KcVbiQLdqMgikCCvXQ+x6GKcp4M=
+
+Name: system/etc/fallback_fonts.xml
+SHA1-Digest-Manifest: 0JIiJLZ0niocc4J6mv0mjKDC6SE=
+
+Name: system/lib/soundfx/libeffectproxy.so
+SHA1-Digest-Manifest: MZu8FJ52SHClDvjyxyeZfgc25d0=
+
+Name: system/priv-app/CMUpdater/CMUpdater.apk
+SHA1-Digest-Manifest: GI1Q+ZIBaRappF9IrH4jDUaK5eQ=
+
+Name: system/bin/reboot
+SHA1-Digest-Manifest: XXh57WzTg2fmCJSNmO7OzZmcPHg=
+
+Name: system/app/messaging/messaging.apk
+SHA1-Digest-Manifest: aMTRakbaK76fl2vyTqjxFS8VlQo=
+
+Name: system/bin/dumpsys
+SHA1-Digest-Manifest: vYsWXL+glwr0RraMCDsdTDCpBcw=
+
+Name: system/lib/lib_DNSe_NRSS_ver226.so
+SHA1-Digest-Manifest: 4Zu+CfATR+mDNfH8eBlJrYT+6SM=
+
+Name: system/bin/logcat
+SHA1-Digest-Manifest: OJ01ZK7cgJYEB6fGYvTaTQfXn7c=
+
+Name: system/etc/permissions/android.software.webview.xml
+SHA1-Digest-Manifest: 9SAaEMrlywyEGxgeZmauhhOMftE=
+
+Name: system/etc/wifi/WCNSS_qcom_cfg.ini
+SHA1-Digest-Manifest: kdE40Qa4lo8WCtUqCKIUWRSnuBA=
+
+Name: system/fonts/NotoSansKR-Regular.otf
+SHA1-Digest-Manifest: kanUTpYsQysPQV1Sb2zMnBv9NIk=
+
+Name: system/etc/selective-spn-conf.xml
+SHA1-Digest-Manifest: 73ThJLAad3VOJE/EtsL+GlAmJ7k=
+
+Name: system/vendor/lib/libmmcamera_image_stab.so
+SHA1-Digest-Manifest: hQ7+3oKfRX3DZG9JWaEgbQkdjCI=
+
+Name: system/media/audio/ringtones/CurveBall.ogg
+SHA1-Digest-Manifest: UQ+QbrebDZH5rcGGV8EyjTSfMsc=
+
+Name: system/lib/libchromatix_imx135_zslshot.so
+SHA1-Digest-Manifest: nu3ga3Elj/y2EOAb3Q9GPAfC9Ac=
+
+Name: system/etc/firmware/Signedrompatch_v24.bin
+SHA1-Digest-Manifest: ETyUNPVX25iiEWck2i/Ix+nvJUY=
+
+Name: system/lib/libstagefright_soft_hevcdec.so
+SHA1-Digest-Manifest: 4JQMiLeypBgB633TaqI6hEMDGTw=
+
+Name: system/media/audio/notifications/Adara.ogg
+SHA1-Digest-Manifest: tziXnX9eKHBsJo4Fe1zksDhhAP8=
+
+Name: system/media/audio/notifications/Titan.ogg
+SHA1-Digest-Manifest: UwGn2qjNRUyefVyAfxfAUO7W97A=
+
+Name: system/lib/libebt_arpreply.so
+SHA1-Digest-Manifest: qOVC/6dRYXSlHg/3/oTx8PHLd8E=
+
+Name: system/lib/libsamsungpowersound.so
+SHA1-Digest-Manifest: 9btKI77WexTTjsHe2/NbX0wo5dY=
+
+Name: system/vendor/lib/libactuator_dw9804_a7_camera.so
+SHA1-Digest-Manifest: uKn7Em5xYhiiSXytT6AbXOc8dRo=
+
+Name: system/bin/rmt_storage
+SHA1-Digest-Manifest: f2kdQto20l/IKtfa6gFjPUs2t4g=
+
+Name: system/etc/security/cacerts/d16a5865.0
+SHA1-Digest-Manifest: WY7rqu8GaP8MZH/cB7/cKeGpV4A=
+
+Name: system/fonts/NotoSansGeorgian-Regular.ttf
+SHA1-Digest-Manifest: iqGfawvRoaEE4gdfDI+Q/43We8A=
+
+Name: system/lib/libstagefright_soft_amrdec.so
+SHA1-Digest-Manifest: 78tIFQkhywK0/+lJj/uIHwmj7eA=
+
+Name: system/usr/share/vim/syntax/awk.vim
+SHA1-Digest-Manifest: 5YZDWBJkxUBcfTWtic4Ugu3Ir/M=
+
+Name: system/bin/radish
+SHA1-Digest-Manifest: aVIZ/+Cmb6Rtrk+W9JLDIa8LlNc=
+
+Name: system/etc/terminfo/m/mach
+SHA1-Digest-Manifest: eZFEUUZ3E99mh9JH3+BLjS+kB/g=
+
+Name: system/bin/dalvikvm32
+SHA1-Digest-Manifest: ybXlVKKJZ6svmO6Mj6l0KTp0ycc=
+
+Name: system/lib/soundfx/libqcomvoiceprocessing.so
+SHA1-Digest-Manifest: qdWnOlUxW9RDPBOJuloVvrC8ixM=
+
+Name: system/priv-app/FusedLocation/FusedLocation.apk
+SHA1-Digest-Manifest: HtwcNoZwnOLQFrprPAq3Ed99O38=
+
+Name: system/framework/com.android.future.usb.accessory.jar
+SHA1-Digest-Manifest: N4mx99blRX2Q4di79YnU3QrMo4w=
+
+Name: system/lib/modules/oprofile.ko
+SHA1-Digest-Manifest: BRGPUd29H6Wr0ya2tremM2EdAzs=
+
+Name: system/lib/libsync.so
+SHA1-Digest-Manifest: bL6gx9tClR90F/rMHejygZOZPyw=
+
+Name: system/media/audio/alarms/Neon.ogg
+SHA1-Digest-Manifest: nn9euTJLfQfxmLWCFpRXKoP2/M4=
+
+Name: system/lib/libstagefright_soft_vpxdec.so
+SHA1-Digest-Manifest: iVejlJh8t2BKMn5H1ymH9Jx+7xY=
+
+Name: system/media/audio/notifications/Mira.ogg
+SHA1-Digest-Manifest: T3YV3JAhoKolk4Gc582ZZOBhEaw=
+
+Name: system/lib/hw/gps.default.so
+SHA1-Digest-Manifest: 4hIvUDzkSCMamZ3G2PYBGqfTMF8=
+
+Name: system/fonts/NotoSansTC-Regular.otf
+SHA1-Digest-Manifest: bt1tYaOXQwPpZJ/NR3gDT0C3cqA=
+
+Name: system/fonts/NotoSansMyanmar-Bold.ttf
+SHA1-Digest-Manifest: Qv+gknXBjUAE3KiEplEpqnpC7XI=
+
+Name: system/lib/modules/msm-buspm-dev.ko
+SHA1-Digest-Manifest: 3XhmvKESvLLZ+g4gTcxSQuwgnM0=
+
+Name: system/fonts/NotoSansTeluguUI-Regular.ttf
+SHA1-Digest-Manifest: UB/6e+g5G8IU2AiS0aXWXOIyVaU=
+
+Name: system/etc/system_fonts.xml
+SHA1-Digest-Manifest: /+Q4ApdeUGsqzG0hg51CLf1OEds=
+
+Name: system/media/audio/notifications/CetiAlpha.ogg
+SHA1-Digest-Manifest: LNiMC1qc/7XTuVgbF/U6Nwssyho=
+
+Name: system/vendor/lib/libllvm-qcom.so
+SHA1-Digest-Manifest: vmxKnSF6bSTHySyNAPuf0/Wwfp0=
+
+Name: system/framework/requestsync.jar
+SHA1-Digest-Manifest: OBM+BFqhOm5iX9yURZDL7KwKSMg=
+
+Name: system/vendor/lib/libwvm.so
+SHA1-Digest-Manifest: qWDDpISkPNjEWkOsLdylxjKq5S8=
+
+Name: system/etc/security/cacerts/1dcd6f4c.0
+SHA1-Digest-Manifest: KQRQhhngm4lUVqfIeZJfK3g+bHE=
+
+Name: system/fonts/Roboto-BlackItalic.ttf
+SHA1-Digest-Manifest: qBUDGAdFfjKZZzsSKP0JYu+6lq4=
+
+Name: system/media/audio/ui/LowBattery.ogg
+SHA1-Digest-Manifest: 7T+wcTl+2j1R1M1FBapDMRt4ho4=
+
+Name: system/usr/share/vim/indent.vim
+SHA1-Digest-Manifest: yDWoxkczGXbtSiU3hwpcDDsvSBE=
+
+Name: system/lib/libkeystore_binder.so
+SHA1-Digest-Manifest: alTSnwwR4x7H4KM6EYWrak7A9g8=
+
+Name: system/bin/hostapd
+SHA1-Digest-Manifest: fRPFSdpL+M8hcj2sEayRwE37ykM=
+
+Name: system/usr/keylayout/Vendor_2378_Product_100a.kl
+SHA1-Digest-Manifest: AVctkE/LpoDLj5AzcEB3tFosB5k=
+
+Name: system/bin/gdbserver
+SHA1-Digest-Manifest: PBgq/l94szpIgVvwd51AUWKo0Go=
+
+Name: system/etc/terminfo/s/screen-256color-bce
+SHA1-Digest-Manifest: dIttwwBRaxebjHRzEqsx/8McUCc=
+
+Name: system/fonts/Roboto-ThinItalic.ttf
+SHA1-Digest-Manifest: gXxEsd7SO7EstK/e6melkCmn6iI=
+
+Name: system/lib/libaudiopolicymanager.so
+SHA1-Digest-Manifest: 9yib1PNsjwXGYlHN8gbHAbObc68=
+
+Name: system/usr/share/vim/doc/scroll.txt
+SHA1-Digest-Manifest: yY196cV7L+u1B8S++G1YZGYv6UM=
+
+Name: system/app/CMWallpapers/CMWallpapers.apk
+SHA1-Digest-Manifest: 1a3p62f3I7I5H6OGz/YruFFZF3c=
+
+Name: system/lib/libstagefright_wfd.so
+SHA1-Digest-Manifest: m634ctH8l+uTaUynaV0rA73R1/E=
+
+Name: system/etc/nano/asm.nanorc
+SHA1-Digest-Manifest: oxdxqoYBW0e1G7noRi+vw6oZG5I=
+
+Name: system/etc/security/cacerts/7651b327.0
+SHA1-Digest-Manifest: M56JdYdYu3y44Phvc20apYkgYng=
+
+Name: system/framework/appops.jar
+SHA1-Digest-Manifest: AlAVhXDtaoYWQyVvQvyqoWvyZ8c=
+
+Name: system/etc/permissions/com.dsi.ant.antradio_library.xml
+SHA1-Digest-Manifest: o6B88MLhO8p6ThF7VN6dJfVtDuA=
+
+Name: system/usr/keylayout/Vendor_1bad_Product_f023.kl
+SHA1-Digest-Manifest: 2zN/RSv/Sq1neC0E+xtAPD2mbPU=
+
+Name: system/lib/libsecnativefeature.so
+SHA1-Digest-Manifest: efb5+wqg1a9S8CnBpnPHHKROqwY=
+
+Name: system/bin/mtpd
+SHA1-Digest-Manifest: 5n6Nec5oYJ3xE3Q6U7MAFpur030=
+
+Name: system/lib/hw/keystore.default.so
+SHA1-Digest-Manifest: 3ZHJ+ZqJrKq7O/GHsFamXClJW+g=
+
+Name: system/lib/libjhead.so
+SHA1-Digest-Manifest: M67VZtl5BxaX+jkRebqLV9vShFc=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c21d.kl
+SHA1-Digest-Manifest: H5lRmirKp1YYb1Lg5w/4rhqDNDI=
+
+Name: system/etc/permissions/android.hardware.touchscreen.multitouch.j
+ azzhand.xml
+SHA1-Digest-Manifest: +jpP1GhT6HwDfDHhPbF4fqQTwB8=
+
+Name: system/lib/libcamera_metadata.so
+SHA1-Digest-Manifest: PkHSVQhCNfzOtPmzqJNq/1DiREk=
+
+Name: system/fonts/NotoSansSymbols-Regular-Subsetted.ttf
+SHA1-Digest-Manifest: Wb6gwnWYAHiv6CUjcQYY2eY/R8o=
+
+Name: system/fonts/CutiveMono.ttf
+SHA1-Digest-Manifest: 9fb1HuPUwbZnloSomwnhr0V223s=
+
+Name: system/lib/libchromatix_imx135_lowres_zslshot.so
+SHA1-Digest-Manifest: llli/vUyXkuqUsHN5dVWj0M3VCc=
+
+Name: system/fonts/ComingSoon.ttf
+SHA1-Digest-Manifest: ql2Wyf7qMso9I+1apM4MHM00+7g=
+
+Name: system/media/audio/ui/Trusted.ogg
+SHA1-Digest-Manifest: XmvNZKqWIVuUbA28OgYCW1feLD8=
+
+Name: system/framework/bmgr.jar
+SHA1-Digest-Manifest: H/t1hrv13LaYgqcUSAfjL5qFv/c=
+
+Name: system/fonts/NotoSansTelugu-Regular.ttf
+SHA1-Digest-Manifest: EGjCqEAAnSY0fjxDoBNBsMsjryE=
+
+Name: system/fonts/NotoSansSyriacEstrangela-Regular.ttf
+SHA1-Digest-Manifest: kGe27o1hjG2YTAnGRrhfHlRGnGk=
+
+Name: system/app/TimeService/TimeService.apk
+SHA1-Digest-Manifest: C58TJPh+v14prYudT0EDkflSO9Y=
+
+Name: system/fonts/DroidSansMono.ttf
+SHA1-Digest-Manifest: wDis3bsdoOKsAxDmve5B1NxxNvw=
+
+Name: system/media/audio/alarms/Platinum.ogg
+SHA1-Digest-Manifest: CRrw3yq1z9OLCeifU8BD9oGslNA=
+
+Name: system/lib/libkeystore-engine.so
+SHA1-Digest-Manifest: Pcj2kKgXM94781p68uRJEFYzbGw=
+
+Name: system/lib/libmmcamera2_stats_algorithm.so
+SHA1-Digest-Manifest: qEU+CQNdOcv1DNyFvcBlgYgRBSg=
+
+Name: system/etc/firmware/a300_pm4.fw
+SHA1-Digest-Manifest: WZsEquSa4DWWWkeV0ZLopONrbkk=
+
+Name: system/lib/libssh.so
+SHA1-Digest-Manifest: 8Q6fQ5c+Ks38rhe4v+fiDKdvKTo=
+
+Name: system/lib/libqdutils.so
+SHA1-Digest-Manifest: W2Hy34Wb2hE9t4xi19VtBCrHmaQ=
+
+Name: system/media/bootanimation.zip
+SHA1-Digest-Manifest: Dh60GT46RhycU+YNjFbpAdDC3E8=
+
+Name: system/bin/time_daemon
+SHA1-Digest-Manifest: nxvMnXjthyKC3ms1RUF9oEmdY0Q=
+
+Name: system/etc/security/cacerts/87753b0d.0
+SHA1-Digest-Manifest: K9EPm9OPW2pTanebKzevg8SmlAY=
+
+Name: system/bin/wcnss_service
+SHA1-Digest-Manifest: hnkouY9hMpC5U5j51Qcl5wvoU3E=
+
+Name: system/framework/ime.jar
+SHA1-Digest-Manifest: dsYwQceIVW7g27CSPZcUnyfg0q8=
+
+Name: system/lib/libxml2.so
+SHA1-Digest-Manifest: AsNs0tnK+qgPZV6Y+ucQE2uNdp0=
+
+Name: system/media/audio/notifications/Salacia.ogg
+SHA1-Digest-Manifest: 15NX9Fp5wV1uyoFEAbzTcsvlANo=
+
+Name: system/usr/hyphen-data/hyph-und-ethi.lic.txt
+SHA1-Digest-Manifest: x/t37h9iLSpaxiAX8L1ojwdu58I=
+
+Name: system/etc/terminfo/l/linux
+SHA1-Digest-Manifest: sxzAIPzV1J2f7uQRfCwmF+cJRrc=
+
+Name: system/lib/libEGL.so
+SHA1-Digest-Manifest: hiMkd5YzWV9Dd3fd0Z4GZ1hMvac=
+
+Name: system/vendor/lib/hw/flp.default.so
+SHA1-Digest-Manifest: bKqrbXQdJOkujqZdhwiLy059Z3s=
+
+Name: system/bin/hid
+SHA1-Digest-Manifest: 7NvbM4cG7VenBbdfmKD7h23AqkQ=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: zTLU4Iwjx3N2qlD1UZvjupYfyJc=
+
+Name: system/etc/security/cacerts/67495436.0
+SHA1-Digest-Manifest: mfPrSvdDoyG+c3pU0mVPS2T67cQ=
+
+Name: system/lib/libdrmframework.so
+SHA1-Digest-Manifest: j01ydYO1hMlHuL5NdtBoUFcrZ0A=
+
+Name: system/media/audio/alarms/Barium.ogg
+SHA1-Digest-Manifest: MnvyDc3f0xcVS5TVjE+T5mcad3c=
+
+Name: system/framework/org.cyanogenmod.platform-res.apk
+SHA1-Digest-Manifest: h2rfMad2fj0409EQZST+UicCA/o=
+
+Name: system/etc/security/cacerts/72f369af.0
+SHA1-Digest-Manifest: MsPcvk52xHeovTl/+0HycOD5F/Y=
+
+Name: system/lib/libf2fs_sparseblock.so
+SHA1-Digest-Manifest: 3JxLruxQP5r9CrdXG3L8CEc7+pY=
+
+Name: system/etc/security/cacerts/1eb37bdf.0
+SHA1-Digest-Manifest: 0wIUWh9ua85A88F3RkIIgJ4hLhA=
+
+Name: system/fonts/NotoSansBengali-Bold.ttf
+SHA1-Digest-Manifest: dw6Whu1Cfyor/1ZeEthxSxywYDE=
+
+Name: system/media/audio/notifications/Electra.ogg
+SHA1-Digest-Manifest: npotxhbD0RnqPgh5DweDR48Qb80=
+
+Name: system/vendor/lib/egl/libESXGLESv2_adreno.so
+SHA1-Digest-Manifest: y3GaKZxRbNSDjLnpBOTVS3eaxaE=
+
+Name: system/vendor/lib/libchromatix_s5k5e3yx_wide_zslshot.so
+SHA1-Digest-Manifest: wvjRlPMhHVksIgdTXlDVJpwXMfo=
+
+Name: system/bin/screenrecord
+SHA1-Digest-Manifest: 8QSTy5M33VZ4kq85zy/bs6xqJAU=
+
+Name: system/bin/wpa_cli
+SHA1-Digest-Manifest: h5BiSzsgBmv50xvW/HD9qV3HEDc=
+
+Name: system/fonts/NotoSansTaiLe-Regular.ttf
+SHA1-Digest-Manifest: QjqHNvTdlDBVqGISsEN2REVeg28=
+
+Name: system/lib/libwilhelm.so
+SHA1-Digest-Manifest: yg5LsctPXE4o11AgaC0lc85nF3U=
+
+Name: system/media/audio/ui/KeypressInvalid.ogg
+SHA1-Digest-Manifest: UvGdl7oub7RJqUjN5OAeKaWeEUE=
+
+Name: system/usr/hyphen-data/hyph-nn.hyb
+SHA1-Digest-Manifest: 3qI1MusW5Qq9I1sZa06cHr45luo=
+
+Name: system/lib/libsoftkeymaster.so
+SHA1-Digest-Manifest: Zgp/RDrf8tfeyTNTYkgXn/qhqds=
+
+Name: system/lib/libtinyalsa.so
+SHA1-Digest-Manifest: WTL667pplPgTLnStt1WdG+RlvrM=
+
+Name: system/bin/tinymix
+SHA1-Digest-Manifest: NSZAlPCbz3aXlZGvbPQ25E3L9AQ=
+
+Name: system/framework/framework-res.apk
+SHA1-Digest-Manifest: ecipAARNADr9JE0FxGrmCl8pNbw=
+
+Name: system/lib/libalgobsx.so
+SHA1-Digest-Manifest: z3Q1pVBYfkTCfTdVDkux5rdCpYA=
+
+Name: system/framework/android.test.runner.jar
+SHA1-Digest-Manifest: iabMSnoaPpmV0tovC2xbfkRG5aI=
+
+Name: system/usr/idc/Synaptics_HID_TouchPad.idc
+SHA1-Digest-Manifest: AMLXHXaa0ZKfAKXwBrfwX+OdLHc=
+
+Name: system/app/NfcNci/NfcNci.apk
+SHA1-Digest-Manifest: JHAYKYt+vZo7PVPUH5OIr7BkSE4=
+
+Name: system/media/audio/notifications/Radon.ogg
+SHA1-Digest-Manifest: PSL5MlN8zqZY3z8iyv0HwaUMAtA=
+
+Name: system/priv-app/LiveLockScreenService/LiveLockScreenService.apk
+SHA1-Digest-Manifest: mqjDL8eSwy6ivPrX7TZyCsr+dI0=
+
+Name: system/fonts/NotoSansSinhala-Regular.ttf
+SHA1-Digest-Manifest: wZRl+IkkgB8LWO5B4B+YkBKYD9g=
+
+Name: system/lib/libpdfium.so
+SHA1-Digest-Manifest: E6WBt7iPW+sVWOQpTdsT9qwMIQU=
+
+Name: system/etc/security/cacerts/9772ca32.0
+SHA1-Digest-Manifest: sAmJhFhQq/covJwwzmOx4fK0+TA=
+
+Name: system/xbin/procrank
+SHA1-Digest-Manifest: pg6LxkrbQsPpfT0Pghyay9XSU5A=
+
+Name: system/etc/security/cacerts/3c860d51.0
+SHA1-Digest-Manifest: mgGi2f5y7LR9Id0AWEgbcB9TQv0=
+
+Name: system/etc/ppp/ip-up-vpn
+SHA1-Digest-Manifest: l41Rg2LyfMH7AmZZlaPZWGuCIl4=
+
+Name: system/vendor/lib/libmmcamera2_c2d_module.so
+SHA1-Digest-Manifest: BIs3kjv4bo2c3NJdZwqBTiFaYgM=
+
+Name: system/etc/terminfo/v/vt102
+SHA1-Digest-Manifest: eNAIcorv1djWG6Pg4rGg7AjHU/g=
+
+Name: system/media/audio/ringtones/Carina.ogg
+SHA1-Digest-Manifest: D2cgsg+MBFvd/iJsffxZb9LD5oc=
+
+Name: system/etc/terminfo/v/vt100
+SHA1-Digest-Manifest: X3sdGopWxA9ASVM1jCyRu43d5b4=
+
+Name: system/etc/firmware/cpp_firmware_v1_1_1.fw
+SHA1-Digest-Manifest: 9K85LEqDlU06cVsL4n2uLJAa11c=
+
+Name: system/vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so
+SHA1-Digest-Manifest: wIjyO3zF6GW19laetGYLdJ9M8XQ=
+
+Name: system/etc/security/cacerts/418595b9.0
+SHA1-Digest-Manifest: oRnfjUAlNEJQPkFCxyJ9eOMrrZg=
+
+Name: system/etc/security/cacerts/b872f2b4.0
+SHA1-Digest-Manifest: KbgCK/+xFQ8+ip7KTrmbd41TA0Y=
+
+Name: system/lib/libOmxVdec.so
+SHA1-Digest-Manifest: /8LTaJ/hyyVpa+9TY27mhFTVbgc=
+
+Name: system/media/audio/ringtones/Phobos.ogg
+SHA1-Digest-Manifest: gs+/KqQvXsztgV/afvxPhT0BuyM=
+
+Name: system/fonts/NotoSansOriya-Regular.ttf
+SHA1-Digest-Manifest: maSngeUndIMSVXLBC8Y8eKtvcZ8=
+
+Name: system/etc/security/cacerts/c3a6a9ad.0
+SHA1-Digest-Manifest: chF6L1GxPnOyHvpMdeXE7dffzPE=
+
+Name: system/lib/libchromatix_imx135_hfr_120.so
+SHA1-Digest-Manifest: OMYpk7FX+37prAX/b0kxRFwUnV0=
+
+Name: system/etc/security/cacerts/e8651083.0
+SHA1-Digest-Manifest: Df38sx9/6QK8exvPu87s+3suCYA=
+
+Name: system/usr/share/vim/doc/motion.txt
+SHA1-Digest-Manifest: cDFOwqV6A3pxGU46ZrlSf81tbF0=
+
+Name: system/media/audio/notifications/Castor.ogg
+SHA1-Digest-Manifest: JGlgPA0Q9NbfKn3Q9JPJlmISNiE=
+
+Name: system/media/audio/ringtones/Backroad.ogg
+SHA1-Digest-Manifest: wJg8iCX8vSdPY4gKeSvDvESello=
+
+Name: system/xbin/antradio_app
+SHA1-Digest-Manifest: sNPkga3e3YAc0a0mDR+/6/+SI0A=
+
+Name: system/lib/libharfbuzz_ng.so
+SHA1-Digest-Manifest: DZPN5L+7whwEFZ6Gs/oO4TWk7mk=
+
+Name: system/fonts/NotoSansOriyaUI-Bold.ttf
+SHA1-Digest-Manifest: 4aBb5nqRtZyd0hJkuAqZFacAa7Q=
+
+Name: system/usr/keylayout/sec_touchkey.kl
+SHA1-Digest-Manifest: vEM8uA8kLq/cWKP5Rj46uGPmzhA=
+
+Name: system/media/audio/ringtones/Centaurus.ogg
+SHA1-Digest-Manifest: I0OYPBuRz/xh7Zv8hBM/vMTaNqE=
+
+Name: system/media/audio/ringtones/Road_Trip.ogg
+SHA1-Digest-Manifest: pyKrm9SV0Pl+PVmoYTEpSeq4tKo=
+
+Name: system/etc/audio_policy.conf
+SHA1-Digest-Manifest: +38kVVJDZeICv2ILvcT1Tobt+0g=
+
+Name: system/xbin/showslab
+SHA1-Digest-Manifest: QzyfCfeK1Uym6NSaNrrK3a1Cqfk=
+
+Name: system/vendor/lib/egl/libRBGLESv2_adreno.so
+SHA1-Digest-Manifest: 8oAsvXYH4iSXcW2wNIsfsrWXzWY=
+
+Name: system/etc/init.qcom.bt.sh
+SHA1-Digest-Manifest: GqmiWNfRHElDqoUZpJTvDueirQg=
+
+Name: system/lib/libjni_jpegstream.so
+SHA1-Digest-Manifest: /dTtLyUNR4C84G4EZ4QglbYfTP8=
+
+Name: system/vendor/lib/libavutil.so
+SHA1-Digest-Manifest: qrR4NTVYdtIhmkzLce0+XGv+/1g=
+
+Name: system/etc/security/cacerts/e775ed2d.0
+SHA1-Digest-Manifest: yuL3yQsvdCDGQlCjwnTHt53vt+A=
+
+Name: system/lib/modules/mmc_test.ko
+SHA1-Digest-Manifest: q9xTIrjJBwZJJryIH4dSCb+P4DI=
+
+Name: system/lib/libebt_ip.so
+SHA1-Digest-Manifest: UOladePpvfmG1y5DcADLcsJiDxM=
+
+Name: system/lib/modules/wlan.ko
+SHA1-Digest-Manifest: A4MKtG17IcjzHcHoz2OKWxjtGfM=
+
+Name: system/lib/libradio_metadata.so
+SHA1-Digest-Manifest: Ndmi7hJB9d0DcBp4x8VO3HpMRSg=
+
+Name: system/vendor/lib/libacdb-fts.so
+SHA1-Digest-Manifest: hvC5JRs/2VMhOCou/CshI3tnYUo=
+
+Name: system/vendor/lib/libqti-perfd-client.so
+SHA1-Digest-Manifest: Lz3xVcevt25cvAKzjbXKXyNpYB0=
+
+Name: system/media/audio/ringtones/Rigel.ogg
+SHA1-Digest-Manifest: iLWFysPmBFVpno/U7UoaKro8JHM=
+
+Name: system/vendor/lib/libmmcamera2_vpe_module.so
+SHA1-Digest-Manifest: ltt9yI8r70bJ8IpuEoPkINEp0Po=
+
+Name: system/bin/dex2oat
+SHA1-Digest-Manifest: KjoFtfFQkvZWFbbkwZCDgRskHYw=
+
+Name: system/etc/permissions/android.software.sip.voip.xml
+SHA1-Digest-Manifest: qPho8aR6qQ+pK8ybcLgZiHGkyEo=
+
+Name: system/bin/sdcard
+SHA1-Digest-Manifest: wyMKw1yuXKct1kcIWmmOQTRTuro=
+
+Name: system/fonts/NotoSansDevanagariUI-Regular.ttf
+SHA1-Digest-Manifest: rtbZhVnXcVbIkvGESrjCHk5v9l4=
+
+Name: system/etc/Hdmi_cal.acdb
+SHA1-Digest-Manifest: 6ItNpDZzTizXLYI60wUHu47DuWs=
+
+Name: system/vendor/lib/libmmcamera2_sensor_modules.so
+SHA1-Digest-Manifest: Jj8kx/bVl81wJ8aWpWTEsf44/+4=
+
+Name: system/bin/ssr_setup
+SHA1-Digest-Manifest: UpSOMnu3PDQoX2siaRc0Tmh2MO8=
+
+Name: system/lib/libpowermanager.so
+SHA1-Digest-Manifest: Z0ajx0MZS8XpMoxyyo7BkGiWSc0=
+
+Name: system/bin/ld.mc
+SHA1-Digest-Manifest: qWlJvOlCsOOHZ6ZK2RrVnT9sOPM=
+
+Name: system/vendor/lib/libsecureui_svcsock.so
+SHA1-Digest-Manifest: zEwK7ldnZ4IUUVR0jBTWAl/Ve/I=
+
+Name: system/app/PhotoPhase/PhotoPhase.apk
+SHA1-Digest-Manifest: Nj8UxHzTPC0XaRcN9SJtHZX+RQw=
+
+Name: system/media/audio/notifications/Antimony.ogg
+SHA1-Digest-Manifest: D5l76aIRj1GlyI63AESbQyN5QS4=
+
+Name: system/bin/clatd
+SHA1-Digest-Manifest: SIM3Fg63CyoxcPE/qWpRaAZOOEA=
+
+Name: system/etc/security/cacerts/c90bc37d.0
+SHA1-Digest-Manifest: SJfEoSueWm/XKkzF/KISmzurIhQ=
+
+Name: system/media/audio/ringtones/Funk_Yall.ogg
+SHA1-Digest-Manifest: A+t9nwrCKpfvNQ4UYpKOqYoglKY=
+
+Name: system/lib/libwebviewchromium_loader.so
+SHA1-Digest-Manifest: 3pakuqx3wWtIQG5f/80gsfEEpDQ=
+
+Name: system/media/audio/notifications/Syrma.ogg
+SHA1-Digest-Manifest: aacKx7b7qv88xLdpNvJKEksx2w8=
+
+Name: system/lib/libebtc.so
+SHA1-Digest-Manifest: hvlpxqFkPEEuAqPA6fPPcfrR3II=
+
+Name: system/lib/libusbhost.so
+SHA1-Digest-Manifest: i0RZh0HczYrjwcsBEJbkrumPd1M=
+
+Name: system/usr/share/vim/syntax/manual.vim
+SHA1-Digest-Manifest: gnLwvwh2hbN6eZISoXSq14GQGs0=
+
+Name: system/xbin/nano
+SHA1-Digest-Manifest: km1dIfYX0IHxSLlOaTGQLH46E0A=
+
+Name: system/etc/permissions/android.hardware.wifi.xml
+SHA1-Digest-Manifest: oHkBECWfFLtDqANIBIPZoPQ2mkU=
+
+Name: system/fonts/NotoSansThaiUI-Bold.ttf
+SHA1-Digest-Manifest: UqKFc+66STxgISsfRb18LoWwDoc=
+
+Name: system/etc/bluetooth/bt_did.conf
+SHA1-Digest-Manifest: YoBz5skajHRywkBypLy6An18sBE=
+
+Name: system/fonts/NotoSansTeluguUI-Bold.ttf
+SHA1-Digest-Manifest: o6BjaLaAyQmNahQVf/Y8gKPS/rY=
+
+Name: system/etc/terminfo/E/Eterm
+SHA1-Digest-Manifest: +Eo/C3kJpqi62E3RvR7cFlGbkoo=
+
+Name: system/lib/lib_DNSe_EP_ver216b.so
+SHA1-Digest-Manifest: rLLwHS54i2TJegtvYszdrxTZkyo=
+
+Name: system/etc/permissions/android.hardware.bluetooth.xml
+SHA1-Digest-Manifest: 7nLpBOSeLlbc8I2NaCE5C4AlHVg=
+
+Name: system/etc/security/cacerts/e48193cf.0
+SHA1-Digest-Manifest: Fuw7sTT3+831WX2WbBRHKWTXsBk=
+
+Name: system/xbin/showmap
+SHA1-Digest-Manifest: pqg+kRqDg/QUvT3p3a6SeKLIO7g=
+
+Name: system/etc/security/cacerts/d59297b8.0
+SHA1-Digest-Manifest: RLiI/tQOad7QrnURPvM83LHKQmA=
+
+Name: system/etc/bash/bash_logout
+SHA1-Digest-Manifest: 2quUdy2Y6Oj5ACvnCE0l9Ddd6o8=
+
+Name: system/lib/libstagefright_soft_vpxenc.so
+SHA1-Digest-Manifest: 2tyN7eNQ5oBnpMjyGaPcbYB/NVc=
+
+Name: system/media/audio/ringtones/SitarVsSitar.ogg
+SHA1-Digest-Manifest: YoXG+H6OGcxAYaZTZ2szh2iCnKY=
+
+Name: system/app/Development/Development.apk
+SHA1-Digest-Manifest: W1RtyCdzU/Qq2x27RsTl1qbP33c=
+
+Name: system/etc/terminfo/x/xterm-vt220
+SHA1-Digest-Manifest: wbpBO+6LPnRRZupoy6HxZV4hcNU=
+
+Name: system/lib/libhardware_legacy.so
+SHA1-Digest-Manifest: UHELbKfcFmRbV1JK9xkFS4nG6M4=
+
+Name: system/etc/security/cacerts/343eb6cb.0
+SHA1-Digest-Manifest: mQJdB0uwE8QAQAQDd4TIUzXNDHI=
+
+Name: system/vendor/lib/libffmpeg_omx.so
+SHA1-Digest-Manifest: F991tZ/O/glbA8bkefgjl/3+eCw=
+
+Name: system/lib/libsecril-client.so
+SHA1-Digest-Manifest: g8MIK3lJb86OhESDwOD0X22EyTA=
+
+Name: system/etc/firmware/Signedrompatch_v20.bin
+SHA1-Digest-Manifest: jF40QRubbsteqvtYkYGkeZZxP9Q=
+
+Name: system/usr/idc/qwerty.idc
+SHA1-Digest-Manifest: XSU+bbgHHEbEG/bF1WUYrQ9Nj/A=
+
+Name: system/etc/security/cacerts/1df5a75f.0
+SHA1-Digest-Manifest: XLxcU4x3UBtjwVa8DIfOb+qUp1E=
+
+Name: system/usr/idc/qwerty2.idc
+SHA1-Digest-Manifest: CxeFAjbR656/zttheEGexLMYZio=
+
+Name: system/vendor/lib/libsc-a3xx.so
+SHA1-Digest-Manifest: 9tvcpl9DEONtEQzSZv+srnzom0s=
+
+Name: system/fonts/NotoSansSinhala-Bold.ttf
+SHA1-Digest-Manifest: L8nRC58VykEzTXIi8vRa2iQUszI=
+
+Name: system/etc/security/cacerts/524d9b43.0
+SHA1-Digest-Manifest: Dqymr2M78KrRXYl9dWrr0RVl2NQ=
+
+Name: system/framework/com.android.location.provider.jar
+SHA1-Digest-Manifest: 3C6EVRufZy0CCgHiPHBo0Mo+0sU=
+
+Name: system/etc/permissions/com.cyanogenmod.android.xml
+SHA1-Digest-Manifest: eAmmjplWmWnr/RWv7sYphdWNLjw=
+
+Name: system/media/audio/ringtones/LoopyLounge.ogg
+SHA1-Digest-Manifest: /1jLZBurNndlJhASnUKBOsUHDjU=
+
+Name: system/framework/hid.jar
+SHA1-Digest-Manifest: me+cOLqk4J3ihxYURIAAu5I/kws=
+
+Name: system/media/audio/notifications/Europa.ogg
+SHA1-Digest-Manifest: RvkpZ7axNjn70W2XwXauxaZotzo=
+
+Name: system/lib/hw/keystore.msm8916.so
+SHA1-Digest-Manifest: z486M+4k0AJPut34Nh31r7EASf4=
+
+Name: system/media/audio/alarms/Helium.ogg
+SHA1-Digest-Manifest: v3EmcpA3EHzsJyg5onPnYY0+Dzs=
+
+Name: system/tts/lang_pico/es-ES_ta.bin
+SHA1-Digest-Manifest: iomlWBJnyeAmuhpPJfKYJkKDUEw=
+
+Name: system/lib/libjni_snapmosaic.so
+SHA1-Digest-Manifest: ur0q+xOF2gXZ+5aQX2E9xsbeqHc=
+
+Name: system/media/audio/ui/VideoStop.ogg
+SHA1-Digest-Manifest: AH3S3w4zcQreHosuepKzNjgCa4M=
+
+Name: system/app/Email/Email.apk
+SHA1-Digest-Manifest: IfXNJpZUIQwciabLEMh/qeYM1wU=
+
+Name: system/media/audio/ui/Undock.ogg
+SHA1-Digest-Manifest: LLS55BOwaLp1ZTbMefLPoe3+c54=
+
+Name: system/lib/libchromatix_imx135_hfr_1080p_s.so
+SHA1-Digest-Manifest: Ol25s6qliGbPyFzqlljITbysVXI=
+
+Name: system/etc/security/cacerts/d66b55d9.0
+SHA1-Digest-Manifest: Jzk+aUA8M2y1ycaWsRrZjU3shQw=
+
+Name: system/app/Stk/Stk.apk
+SHA1-Digest-Manifest: ICMzgz9VY4y6kPEngQqqLA/mbxo=
+
+Name: system/etc/security/cacerts/63a2c897.0
+SHA1-Digest-Manifest: VpTehAQzFvo478BlUN3Q19/IZjM=
+
+Name: system/fonts/NotoSansOriya-Bold.ttf
+SHA1-Digest-Manifest: UiRfpEAL9VKgebwaHslp+Ac1NhM=
+
+Name: system/etc/init.d/00banner
+SHA1-Digest-Manifest: C1zPQbqP+/L6VPl8ZsJPEJbPkig=
+
+Name: system/media/audio/ringtones/BussaMove.ogg
+SHA1-Digest-Manifest: Cz3gNJTSKQtOWFJaYwwoNLlHwtY=
+
+Name: system/lib/libvixl.so
+SHA1-Digest-Manifest: 9KCUwLOlYiWeW0RQCPriL3XHq9Q=
+
+Name: system/fonts/NotoSansGujaratiUI-Bold.ttf
+SHA1-Digest-Manifest: BQvnTbcA9cp2r+hn1OSwhNs3diU=
+
+Name: system/lib/soundfx/libqcomvisualizer.so
+SHA1-Digest-Manifest: uQfqT1HmoPPaGhXCD6Dov9Z0Vps=
+
+Name: system/framework/pm.jar
+SHA1-Digest-Manifest: pgauzqxiahNpAC9y1bz1odWnVLE=
+
+Name: system/media/audio/ringtones/MidEvilJaunt.ogg
+SHA1-Digest-Manifest: 7eVWa16lsTOJKF2duDDOC6eSo38=
+
+Name: system/lib/libebt_log.so
+SHA1-Digest-Manifest: 9iOfpyAlSX26pi2ZextQoXyVPnc=
+
+Name: system/media/audio/ringtones/DonMessWivIt.ogg
+SHA1-Digest-Manifest: SFRCKLwlXvC0uzVSPXdpurHt2b4=
+
+Name: system/vendor/lib/libdisp-aba.so
+SHA1-Digest-Manifest: rlWq0+XgQtnyO28oGQcI9kiO8h0=
+
+Name: system/lib/libandroid_runtime.so
+SHA1-Digest-Manifest: hjfzoGnlbkHI/x18UkYureQ1yvw=
+
+Name: system/lib/libsonic.so
+SHA1-Digest-Manifest: kB/zpe8kcgj3tA6gQldQD+5ojhY=
+
+Name: system/framework/svc.jar
+SHA1-Digest-Manifest: xhp3S2yQ55I0TE+EwMn5mBm1GIY=
+
+Name: system/media/audio/notifications/Io.ogg
+SHA1-Digest-Manifest: FsycodO/su/ruqGNY7E/p7D4eYI=
+
+Name: system/lib/libril_shim.so
+SHA1-Digest-Manifest: 6QFd6NLCSJ8Rn2ul3RZbT9xD6xA=
+
+Name: system/etc/permissions/android.hardware.usb.host.xml
+SHA1-Digest-Manifest: 4e0iQFffHEDh5vP8Oa9PBa1PxGo=
+
+Name: system/lib/librs_jni.so
+SHA1-Digest-Manifest: 06IffNJ/Q6GME3doF9gWb7x4J7Q=
+
+Name: system/lib/libext2_com_err.so
+SHA1-Digest-Manifest: wU/AcSP4ZuX1tzs8E0pI3TCQHMI=
+
+Name: system/app/BasicDreams/BasicDreams.apk
+SHA1-Digest-Manifest: k701Tszuewc7mjbgQttsWH2+Zlk=
+
+Name: system/media/audio/notifications/Stone.ogg
+SHA1-Digest-Manifest: KcdM3DhnYgmkHTxz5tBaob69BnQ=
+
+Name: system/tts/lang_pico/en-GB_ta.bin
+SHA1-Digest-Manifest: TGjQaftHbT9P3ccVS8/RkyyqkmI=
+
+Name: system/lib/lib_SamsungRec_V04012.so
+SHA1-Digest-Manifest: 0qGM+mDeVLNXg2RLwfp3hyTXOss=
+
+Name: system/priv-app/CMSettingsProvider/CMSettingsProvider.apk
+SHA1-Digest-Manifest: /0LTCsb+B2rRN0std5k9Pk+8N60=
+
+Name: system/app/Terminal/Terminal.apk
+SHA1-Digest-Manifest: 8FLKoX5lF9COqIrgxdNujBnfGzQ=
+
+Name: system/lib/lib_Samsung_Resampler.so
+SHA1-Digest-Manifest: BT91r33cmRtkqECvDGLIn4dVvXQ=
+
+Name: system/usr/share/vim/syntax/cpp.vim
+SHA1-Digest-Manifest: EX5zEWeSim+dLzAU25ZfHRFYmZo=
+
+Name: system/media/audio/notifications/Selenium.ogg
+SHA1-Digest-Manifest: RbbOxjmU0z7P66MvM/UwU0Unp18=
+
+Name: system/etc/security/cacerts/ed39abd0.0
+SHA1-Digest-Manifest: vgilvCZ5nsR9+mr0BoErA7HZ48w=
+
+Name: system/etc/terminfo/m/mach-color
+SHA1-Digest-Manifest: sIdcL0WW2JIkCyLUPf4nRWQMp6k=
+
+Name: system/lib/libmediautils.so
+SHA1-Digest-Manifest: h8bYebGQVTood+c0Xx0ExUh5KEw=
+
+Name: system/app/DeskClock/DeskClock.apk
+SHA1-Digest-Manifest: ZQe8qbURjV3EYZXffSaICkuq648=
+
+Name: system/lib/libebt_limit.so
+SHA1-Digest-Manifest: v4qOukjqagR96eYcCE0bnjae+CQ=
+
+Name: system/lib/libloc_eng.so
+SHA1-Digest-Manifest: 0uyWqQAxh2OjdoTISdC7ytak3rQ=
+
+Name: system/xbin/perfprofd
+SHA1-Digest-Manifest: TtewbBgcJTjJBGI1bYkb52NSbqc=
+

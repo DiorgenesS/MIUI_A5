@@ -1,0 +1,3 @@
+post-build=samsung/cm_a5ultexx/a5ultexx:6.0.1/MOB30R/5c89a1f855:userdebug/test-keys
+post-timestamp=1468058049
+pre-device=a5lte
